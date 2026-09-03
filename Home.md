@@ -68,3 +68,5 @@ The architecture is considered stable enough to test through writing. Structural
 - [[Architecture Should Emerge]]
 - [[Structured Thought]]
 - [[Canon]]
+
+<!-- git sync test Fri Sep  4 09:12:53 NZST 2026 -->
