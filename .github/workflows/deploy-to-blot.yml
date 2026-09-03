@@ -14,5 +14,11 @@ jobs:
           fetch-depth: 0
 
       - name: Push to Blot
+        env:
+          BLOT_USERNAME: ${{ secrets.BLOT_USERNAME }}
+          BLOT_PASSWORD: ${{ secrets.BLOT_PASSWORD }}
+          BLOT_REPO_PATH: ${{ secrets.BLOT_REPO_PATH }}
         run: |
-          git push "https://${{ secrets.BLOT_USERNAME }}:${{ secrets.BLOT_PASSWORD }}@blot.im/${{ secrets.BLOT_REPO_PATH }}.git" HEAD:master --force
+          ENCODED_USER=$(python3 -c "import urllib.parse,os; print(urllib.parse.quote(os.environ['BLOT_USERNAME'], safe=''))")
+          ENCODED_PASS=$(python3 -c "import urllib.parse,os; print(urllib.parse.quote(os.environ['BLOT_PASSWORD'], safe=''))")
+          git push "https://${ENCODED_USER}:${ENCODED_PASS}@blot.im/${BLOT_REPO_PATH}.git" HEAD:master --force
