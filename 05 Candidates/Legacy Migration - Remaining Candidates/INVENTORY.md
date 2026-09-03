@@ -1,0 +1,31 @@
+# Remaining Legacy Inventory
+
+- `Pages/Resources/RSS In Action.md`
+- `Pages/Resources/RSS Resources.md`
+- `Pages/TheAIOrg/The Human Organisation in the Age of AI.md`
+- `Pages/TheAIOrg/From Healthcare to General.md`
+- `Pages/About/About The Wiki.md`
+- `Pages/About/Start Here.md`
+- `Pages/About/business-engaged-operating-system.md`
+- `Pages/About/business-engaged-integration-map.md`
+- `Pages/About/.DS_Store`
+- `Pages/About/About The Wiki - By Claude.md`
+- `Pages/About/Styling The Wiki/The Style Guide.md`
+- `Pages/About/Styling The Wiki/About The Logo.md`
+- `Pages/About/Organising The Wiki/Zettelkasten.md`
+- `Pages/About/Organising The Wiki/What Are Atomic Notes.md`
+- `Pages/About/Organising The Wiki/How It Is Built.md`
+- `Structured Thought/4C Podcasts/The Age of Experience - Rethinking How We Think.md`
+- `Structured Thought/4C Podcasts/How AI Reshuffles The Knowledge Economy.md`
+- `Structured Thought/6 The Next Dimensions/The Tesseract.md`
+- `Structured Thought/6 The Next Dimensions/.DS_Store`
+- `Structured Thought/6 The Next Dimensions/The 3D cube.md`
+- `Structured Thought/5 Forming The Fabric/The 8 Pillars of People First.md`
+- `Structured Thought/5 Forming The Fabric/The 8 Pillars of People First In Pictures.md`
+- `Structured Thought/5 Forming The Fabric/The Fractalisation of Business.md`
+- `Structured Thought/5 Forming The Fabric/.DS_Store`
+- `Structured Thought/4B Articles/A LeaderΓÇÖs Role in Fostering AI Superpowers.md`
+- `Structured Thought/6 The Next Dimensions/_Supporting/tesseract-embed.html`
+- `Structured Thought/6 The Next Dimensions/_Supporting/cube-embed.html`
+- `Structured Thought/6 The Next Dimensions/_Supporting/tesseract.html`
+- `Structured Thought/6 The Next Dimensions/_Supporting/cube.html`
