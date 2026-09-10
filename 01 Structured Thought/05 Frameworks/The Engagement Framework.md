@@ -28,14 +28,29 @@ This Framework organises the customer's journey on a single spine, described fro
 
 ## The spine
 
-| # | Stage | Customer's world | Population lens | Owner | 4E lens | Other terms used |
+| # | Stage | Customer's world | Population lens | Owner | 4E lens |
+|---|---|---|---|---|---|
+| 0 | **Everyone** | Entire population, no filter applied | **TAM** — who could ever plausibly need this | No one | None yet — no relationship exists |
+| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" | **SAM** — who you can actually reach | Marketing — full ownership, through to securing the explicit yes | Essence dominates |
+| 2 | **Engage** | Active investigation — comparing you against alternatives | **SOM** — who you can realistically win | Sales/BD | Ease and Exchange |
+| 3 | **Commit** | Deal agreed, signed | Converting inside SOM | Sales, with Legal/Finance/Ops on the edges | Exchange sharpens |
+| 4 | **Embed** | Onboarded, adopted, becomes routine | N/A — outside the addressable-market question now | Delivery/CS/Product | Experience dominates |
+| 5 | **Advocate** | Expands, renews, vouches unprompted | N/A | CS/Account Mgmt, amplified by Marketing | Experience → Essence |
+
+## Mapping other frameworks onto the spine
+
+Every other stage model anyone brings to the table — marketing/sales funnel jargon, named methodologies, academic models — lands somewhere on this same spine. Rather than fold that into the spine table itself, it gets its own cross-reference: frameworks as rows, our six stages as columns, so the vocabulary any given department or vendor already uses can be located at a glance without editing prose each time a new one turns up.
+
+| Framework | Everyone | Notice | Engage | Commit | Embed | Advocate |
 |---|---|---|---|---|---|---|
-| 0 | **Everyone** | Entire population, no filter applied | **TAM** — who could ever plausibly need this | No one | None yet — no relationship exists | "Total addressable market" |
-| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" | **SAM** — who you can actually reach | Marketing — full ownership, through to securing the explicit yes | Essence dominates | TOFU; MQL; Schwartz's awareness levels; "Suspect" |
-| 2 | **Engage** | Active investigation — comparing you against alternatives | **SOM** — who you can realistically win | Sales/BD | Ease and Exchange | MOFU; SQL → Opportunity; LEAD (Locate→Engage→Align→Deal) sits here |
-| 3 | **Commit** | Deal agreed, signed | Converting inside SOM | Sales, with Legal/Finance/Ops on the edges | Exchange sharpens | BOFU; Closed Won; DEAL (Define→Establish→Agree→Launch) sits here |
-| 4 | **Embed** | Onboarded, adopted, becomes routine | N/A — outside the addressable-market question now | Delivery/CS/Product | Experience dominates | "Onboarding," "Adoption" |
-| 5 | **Advocate** | Expands, renews, vouches unprompted | N/A | CS/Account Mgmt, amplified by Marketing | Experience → Essence | Promoter/Loyalist |
+| **TAM / SAM / SOM** | TAM | SAM | SOM (still converting) | SOM (converted) | — | — |
+| **Funnel jargon (TOFU/MOFU/BOFU)** | — | TOFU; MQL; "Suspect" | MOFU; SQL → Opportunity | BOFU; Closed Won | "Onboarding," "Adoption" | Promoter/Loyalist |
+| **Schwartz's Awareness Levels** | — | Unaware→Problem-Aware→Solution-Aware→Product-Aware→Most-Aware (maps to Notice's first five micro-stages) | Most-Aware carries in; model has nothing further to say | — | — | — |
+| **LEAD** (Locate→Engage→Align→Deal) | — | — | Operates entirely here | Deal may straddle into Commit | — | — |
+| **DEAL** (Define→Establish→Agree→Launch) | — | — | — | Operates here | Launch may straddle into Embed | — |
+| **The Four Es** | None yet — no relationship | Essence dominates | Ease and Exchange | Exchange sharpens | Experience dominates | Experience → Essence |
+
+New frameworks get a new row here, not a new column on the spine.
 
 ## Notice — the micro-stages
 
@@ -47,6 +62,25 @@ Everything before a lead exists as a record. Nobody has been captured or contact
 4. **Diagnosed** — they have worked out the actual root cause and can name it. Can happen with zero vendor involvement.
 5. **Solution-aware** — they know fixes exist in the market, generically. No vendor attached yet.
 6. **Us-aware** — they know you specifically as an option, and say so — "yup, agree, what you got." This is where a lead is born, and where Notice ends.
+
+## Engage — the micro-stages
+
+A lead now exists as a record. The customer is actively investigating, comparing you against alternatives; sales owns the stage, and every step below carries an explicit stop-go gate — continuing to invest sales time only makes sense while the signals stay live.
+
+1. **First Direct Contact** — the first sales-owned meeting, building on whatever background the lead-qualification hand-off already supplied. Confirms the prospect is seriously looking, not browsing, and that the fit looks plausible. *Gate: not in an active buying cycle → return to marketing for nurture.*
+2. **Identify Decision Makers** — maps who else is involved, who actually signs off, anticipated decision date, budget status (approved vs still-to-secure), expected ROI, and who else they're evaluating. *Gate: are they properly committed to a real buying process?*
+3. **Needs Analysis / Define Scope** — a joint scoping exercise capturing goals, problems, and requirements in detail; RFP-driven deals still need this gathered, just from the document instead of a conversation. *Gate: can the solution meet the need, how fully, and within budget?*
+4. **Develop Value Proposition** — deeper engagement to surface requirements the initial scope missed, validating fit at each step and building the case for why this solution specifically. *Gate: clear fit, inside budget, beats the competition?*
+5. **Exec Demo & Presentation** — formal presentation to the actual decision-making group; tests understanding and starts to lock commitment. *Gate: do the decision-makers agree it meets their needs, or does it need rework — or qualifying out?*
+6. **Conduct Trial / Proof of Concept** *(only where essential to close)* — a formal, written, measurable validation project; costly enough in time and resources on both sides that it shouldn't be run without real stakeholder commitment. *Gate: pass and move to Commit; fail and repeat, or qualify out.*
+
+## Commit — the micro-stages
+
+The deal is converting from agreed-in-principle to signed. Sales still leads, with Legal/Finance/Ops increasingly present at the edges.
+
+1. **Submit Price & Scope Proposal** — a full draft: executive summary, agreed scope, trial/PoC confirmation, benefits/ROI case, pricing, and legal terms, ready for review before a best-and-final version goes to the actual signers. *Gate: scope creep or unreasonable new demands → consider walking.*
+2. **Commercial T&Cs Agreed & Signed** — legal/procurement's own process, sometimes run in parallel with the proposal, sometimes before it. This is where the deal becomes a signed, legally binding fact. *Gate: close, or walk if the terms expose unacceptable risk.*
+3. **Handover to Delivery Team** — CRM records, contracts, scoping docs and charter formally transferred; a handover meeting introduces Delivery/CS to the customer if that hasn't already happened; sales is formally closed Won. This is the Commit→Embed handoff.
 
 ## The core distinction this Framework rests on
 
@@ -67,7 +101,8 @@ The customer side tells you what state they are in. The business side is what ca
 
 ## Open threads
 
-- Engage, Commit, Embed and Advocate still need their own micro-stage breakdowns; Notice is the only one built out so far.
+- Embed and Advocate still need their own micro-stage breakdowns; Notice, Engage and Commit are now built out.
+- Engage's micro-stages are informed by a standard B2B sales-qualification stage model (stage gates, decision-maker mapping, scope/value/demo/trial progression) — a useful cross-check, but not every item in that kind of model translates to a self-service or online instrument. Decision-making process and true budget authority in particular resist being gathered without a live conversation; worth reviewing stage by stage for what a diagnostic can actually surface versus what still needs a human.
 - LeadQuest/DEAL's actual operating point may sit at the Symptomatic→Diagnosed transition inside Notice, not where the tools were originally scoped against.
 - Schwartz's five awareness levels (Unaware→Problem-Aware→Solution-Aware→Product-Aware→Most Aware) map closely onto Notice's first five micro-stages, cited as prior art rather than a parallel column since his model has nothing to say past the decision to buy.
 
