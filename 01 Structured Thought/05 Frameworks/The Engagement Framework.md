@@ -28,14 +28,14 @@ This Framework organises the customer's journey on a single spine, described fro
 
 ## The spine
 
-| # | Stage | Customer's world | Population lens | Owner | 4E lens |
-|---|---|---|---|---|---|
-| 0 | **Everyone** | Entire population, no filter applied | **TAM** — who could ever plausibly need this | No one | None yet — no relationship exists |
-| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" | **SAM** — who you can actually reach | Marketing — full ownership, through to securing the explicit yes | Essence dominates |
-| 2 | **Engage** | Active investigation — comparing you against alternatives | **SOM** — who you can realistically win | Sales/BD | Ease and Exchange |
-| 3 | **Commit** | Deal agreed, signed | Converting inside SOM | Sales, with Legal/Finance/Ops on the edges | Exchange sharpens |
-| 4 | **Embed** | Onboarded, adopted, becomes routine | N/A — outside the addressable-market question now | Delivery/CS/Product | Experience dominates |
-| 5 | **Advocate** | Expands, renews, vouches unprompted | N/A | CS/Account Mgmt, amplified by Marketing | Experience → Essence |
+| # | Stage | Customer's world | Population lens | Owner |
+|---|---|---|---|---|
+| 0 | **Everyone** | Entire population, no filter applied | **TAM** — who could ever plausibly need this | No one |
+| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" | **SAM** — who you can actually reach | Marketing — full ownership, through to securing the explicit yes |
+| 2 | **Engage** | Active investigation — comparing you against alternatives | **SOM** — who you can realistically win | Sales/BD |
+| 3 | **Commit** | Deal agreed, signed | Converting inside SOM | Sales, with Legal/Finance/Ops on the edges |
+| 4 | **Embed** | Onboarded, adopted, becomes routine | N/A — outside the addressable-market question now | Delivery/CS/Product |
+| 5 | **Advocate** | Expands, renews, vouches unprompted | N/A | CS/Account Mgmt, amplified by Marketing |
 
 ## Mapping other frameworks onto the spine
 
