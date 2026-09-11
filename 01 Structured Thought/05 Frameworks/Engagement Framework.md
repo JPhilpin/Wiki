@@ -29,14 +29,17 @@ This Framework organises the customer's journey on a single spine, described fro
 
 ## The spine
 
-| # | Stage | Customer's world |
-|---|---|---|
-| 0 | **Everyone** | Entire population, no filter applied |
-| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" |
-| 2 | **Engage** | Active investigation — comparing you against alternatives |
-| 3 | **Commit** | Deal agreed, signed |
-| 4 | **Embed** | Onboarded, adopted, becomes routine |
-| 5 | **Advocate** | Expands, renews, vouches unprompted |
+**0 — Everyone.** Entire population, no filter applied.
+
+**1 — Notice.** Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got."
+
+**2 — Engage.** Active investigation — comparing you against alternatives.
+
+**3 — Commit.** Deal agreed, signed.
+
+**4 — Embed.** Onboarded, adopted, becomes routine.
+
+**5 — Advocate.** Expands, renews, vouches unprompted.
 
 ## Mapping other frameworks onto the spine
 
