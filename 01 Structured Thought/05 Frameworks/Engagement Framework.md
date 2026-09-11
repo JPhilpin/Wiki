@@ -1,8 +1,8 @@
 ---
-title: "The Engagement Framework"
+title: "Engagement Framework"
 summary: "The customer journey from Everyone through Notice, Engage, Commit, Embed and Advocate, organised alongside TAM/SAM/SOM, internal ownership and the Four Es, replacing the MQL/SQL stage-conflation with a single spine."
-slug: the-engagement-framework
-permalink: /frameworks/the-engagement-framework/
+slug: engagement-framework
+permalink: /frameworks/engagement-framework/
 type: framework
 status: active
 workflow: crafted
@@ -13,12 +13,13 @@ tags:
   - "engagement"
   - "customer-journey"
 aliases:
+  - "The Engagement Framework"
   - "Engagement Model"
   - "Customer Journey Framework"
   - "Notice Engage Commit Embed Advocate"
 ---
 
-# The Engagement Framework
+# Engagement Framework
 
 ## Why this exists
 
