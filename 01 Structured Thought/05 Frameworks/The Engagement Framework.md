@@ -28,14 +28,14 @@ This Framework organises the customer's journey on a single spine, described fro
 
 ## The spine
 
-| # | Stage | Customer's world | Population lens | Owner |
-|---|---|---|---|---|
-| 0 | **Everyone** | Entire population, no filter applied | **TAM** — who could ever plausibly need this | No one |
-| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" | **SAM** — who you can actually reach | Marketing — full ownership, through to securing the explicit yes |
-| 2 | **Engage** | Active investigation — comparing you against alternatives | **SOM** — who you can realistically win | Sales/BD |
-| 3 | **Commit** | Deal agreed, signed | Converting inside SOM | Sales, with Legal/Finance/Ops on the edges |
-| 4 | **Embed** | Onboarded, adopted, becomes routine | N/A — outside the addressable-market question now | Delivery/CS/Product |
-| 5 | **Advocate** | Expands, renews, vouches unprompted | N/A | CS/Account Mgmt, amplified by Marketing |
+| # | Stage | Customer's world | Population lens |
+|---|---|---|---|
+| 0 | **Everyone** | Entire population, no filter applied | **TAM** — who could ever plausibly need this |
+| 1 | **Notice** | Unaware → Latent → Symptomatic → Diagnosed → Solution-aware → Us-aware, ending in an explicit "yup, agree — what you got" | **SAM** — who you can actually reach |
+| 2 | **Engage** | Active investigation — comparing you against alternatives | **SOM** — who you can realistically win |
+| 3 | **Commit** | Deal agreed, signed | Converting inside SOM |
+| 4 | **Embed** | Onboarded, adopted, becomes routine | N/A — outside the addressable-market question now |
+| 5 | **Advocate** | Expands, renews, vouches unprompted | N/A |
 
 ## Mapping other frameworks onto the spine
 
@@ -43,6 +43,7 @@ Every other stage model anyone brings to the table — marketing/sales funnel ja
 
 | Framework | Everyone | Notice | Engage | Commit | Embed | Advocate |
 |---|---|---|---|---|---|---|
+| **Owner** | No one | Marketing — full ownership, through to securing the explicit yes | Sales/BD | Sales, with Legal/Finance/Ops on the edges | Delivery/CS/Product | CS/Account Mgmt, amplified by Marketing |
 | **TAM / SAM / SOM** | TAM | SAM | SOM (still converting) | SOM (converted) | — | — |
 | **Funnel jargon (TOFU/MOFU/BOFU)** | — | TOFU; MQL; "Suspect" | MOFU; SQL → Opportunity | BOFU; Closed Won | "Onboarding," "Adoption" | Promoter/Loyalist |
 | **Schwartz's Awareness Levels** | — | Unaware→Problem-Aware→Solution-Aware→Product-Aware→Most-Aware (maps to Notice's first five micro-stages) | Most-Aware carries in; model has nothing further to say | — | — | — |
