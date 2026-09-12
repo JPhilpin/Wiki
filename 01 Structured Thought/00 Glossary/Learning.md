@@ -1,6 +1,6 @@
 ---
 title: Learning
-summary: "A durable change in understanding or capability produced through experience, reflection, inquiry or practice."
+summary: A durable change in understanding or capability produced through experience, reflection, inquiry or practice.
 slug: learning
 permalink: /glossary/learning/
 type: glossary
@@ -9,7 +9,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - glossary
-  - learning
+  - pillar
 ---
 
 # Learning

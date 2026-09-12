@@ -15,6 +15,8 @@ aliases: []
 confidence: red
 ---
 
+[Glossary](/glossary/engage/)
+
 # Engage
 
 🔴 written - not read
@@ -41,22 +43,6 @@ The archetype itself gets worked out through the same kind of structured questio
 ## How It Fits
 
 Engage is the domain most of the others quietly depend on without saying so. Assembly needs it to know who should meet whom. Reveal needs it to meet a visitor on their own terms rather than a generic one. Pulse needs it to separate a real trend from a change in who happened to respond. *(Provisional, and more so than the other seven: this entire page needs a proper pass, not just the relationship map.)*
-
----
-
-# Definitions
-
-## One Sentence
-
-Engage is the archetype layer that tells every other domain who it's actually talking to, worked out through structured questions rather than assigned once and left to go stale.
-
-## One Paragraph
-
-Engage answers the question every other domain eventually needs answered: who is this, specifically? It works that out by placing a person against one of sixteen archetypes, not as a label stuck on once, but as a live profile other domains can draw on. Assembly uses it to match people to people. Reveal uses it to meet a visitor in language that fits who they actually are. It's less a domain that stands beside the other seven than one that runs between them.
-
-## The Long Paragraph
-
-Most systems that try to personalise anything do it with a static label: a CRM tag, a persona from a workshop, a segment assigned once and never revisited. Engage is built the other way round, as a live profile worked out through the same kind of structured questioning the rest of the system uses, placing a person against one of sixteen archetypes and keeping that placement open to revision as the picture sharpens. It's described here as a peer of the other seven domains, but it's a peer that leaks: it shows up as its own thing, and it's also the connective layer other domains quietly rely on to know who they're actually talking to.
 
 ---
 

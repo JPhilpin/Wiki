@@ -4,12 +4,12 @@ type: Domain
 status: stub
 collection: Structured Thought
 owner: John Philpin
-created: '2026-07-14'
-updated: '2026-07-16'
-version: '0.1'
+created: 2026-07-14
+updated: 2026-07-16
+version: "0.1"
 tags:
-- domain
-- structured-thought
+  - structured-thought
+  - pillar
 ---
 
 # Work

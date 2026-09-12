@@ -1,6 +1,6 @@
 ---
-title: "The Business Equation"
-summary: "A contextual model of how a business combines people, money and things to create and exchange value."
+title: The Business Equation
+summary: A contextual model of how a business combines people, money and things to create and exchange value.
 slug: the-business-equation
 permalink: /concepts/the-business-equation/
 type: concept
@@ -8,13 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
-  - "business-equation"
-  - "business"
-  - "value"
+  - concept
+  - structured-thought
+  - business-equation
 aliases:
-  - "Business Equation"
+  - Business Equation
 ---
 
 # The Business Equation

@@ -15,6 +15,8 @@ aliases: []
 confidence: amber
 ---
 
+[Glossary](/glossary/pulse/)
+
 # Pulse
 
 🟠 read - not reviewed
@@ -41,22 +43,6 @@ Pulse surfaces its answers at three levels at once: individual, team, and organi
 ## How It Fits
 
 Pulse is the domain that turns a single answer into a trend. Every other domain benefits from having something true to work with instead of something comfortable: Intelligence has real signal to curate rather than noise, Assembly can see how the people in it are actually changing, Balance has a live read on whether the relationship still holds rather than a guess. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
-
----
-
-# Definitions
-
-## One Sentence
-
-Pulse is a recurring set of questions that turns a single answer into a trend, and a group of answers into a picture of where people actually stand.
-
-## One Paragraph
-
-Pulse asks your audience the same questions on a rhythm, not once. Every response is timestamped and connected to the ones before it, so a single answer becomes part of a trend line instead of a dead entry in a report. It reads at individual, team, and organisational level at the same time, from the same structure.
-
-## The Long Paragraph
-
-Every time someone responds to Pulse, they add to a living record: timestamped, contextualised, connected to their own history and to the people around them. Fixed questions become trend lines. Individual responses become journeys. Aggregate data becomes organisational intelligence. That progression, from a single answer to a compounding picture, is built into the structure from the start: what gets asked, when it gets asked, and how the responses connect across time. Pulse reads the same way at three levels at once, individual, team, organisational, without needing three separate tools to do it.
 
 ---
 

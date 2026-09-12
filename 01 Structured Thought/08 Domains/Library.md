@@ -15,6 +15,8 @@ aliases: []
 confidence: red
 ---
 
+[Glossary](/glossary/library/)
+
 # Library
 
 🔴 written - not read
@@ -39,22 +41,6 @@ Without it, every project starts from scratch. With it, the organisation gets sm
 ## How It Fits
 
 Library is the domain that holds what's been learned so nothing has to be rediscovered. Intelligence feeds it a steady supply of what's worth keeping, and Reveal's readings become more useful the second time round when there's a Library record of what the last one found. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
-
----
-
-# Definitions
-
-## One Sentence
-
-Library is where what an organisation actually knows becomes visible and useful, organised so it compounds rather than disappears.
-
-## One Paragraph
-
-Library isn't an archive. An archive stores and forgets. Library surfaces and serves, organised around what someone needs to know rather than what someone once wrote down. Every resource in it earns its place by being useful to someone trying to do something, and the test is always whether it's worth returning to, not whether it was worth producing in the first place.
-
-## The Long Paragraph
-
-Reports get filed, articles get bookmarked, presentations get shared once and never opened again. The knowledge isn't missing, it's just not findable, not organised, not connected to anything that would make it useful, and that's a structure problem rather than a storage one. Library treats every resource as something that has to earn its place, tested not by whether it was worth producing but by whether it's worth returning to. Applied consistently, that turns a graveyard of past output into a living reference people actually come back to, which is the real difference between a repository and a resource.
 
 ---
 

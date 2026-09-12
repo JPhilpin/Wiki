@@ -1,6 +1,6 @@
 ---
 title: Language
-summary: "A shared system of signs, words and patterns through which meaning is expressed, negotiated and preserved."
+summary: A shared system of signs, words and patterns through which meaning is expressed, negotiated and preserved.
 slug: language
 permalink: /glossary/language/
 type: glossary
@@ -9,7 +9,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - glossary
-  - communication
+  - pillar
 ---
 
 # Language

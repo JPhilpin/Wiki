@@ -15,6 +15,8 @@ aliases: []
 confidence: red
 ---
 
+[Glossary](/glossary/balance/)
+
 # Balance
 
 🔴 written - not read
@@ -39,22 +41,6 @@ Strip away who the parties are and what currency they're trading in, and it's al
 ## How It Fits
 
 Balance is the domain the others resolve into. Pulse tracks how people feel, Reveal shows what's really going on, Assembly builds the relationships, Intelligence supplies the picture, Library holds what's been learned, and Balance is the point where all of it gets tested against one question: does the exchange still hold. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
-
----
-
-# Definitions
-
-## One Sentence
-
-Balance reads whether an exchange of value still holds for both sides, regardless of what currency, cash, favour, trust, or time, it's actually running on.
-
-## One Paragraph
-
-Balance isn't a ledger. A ledger tells you whether you got paid. Balance tells you whether the exchange itself is still worth it to both sides, which is a different and harder question, because most of what gets exchanged between two people or two organisations never shows up on an invoice. Strip away the labels and every relationship reduces to the same test: is what's given still matched by what's coming back.
-
-## The Long Paragraph
-
-Every exchange runs between two parties, and one side giving something (time, effort, product, attention) is only half the picture. The other side gives something back, and it's rarely just money: a favour, trust, access, a debt called in later. Financial balance is easy to read because every calculator on the market already does that math. Structural balance is harder, the tension between what each party actually needs and what the other can sustainably keep giving, and it's the gap most relationships quietly die in, long after the numbers on paper still look fine. Balance measures that whole exchange, not just the half that gets invoiced.
 
 ---
 

@@ -11,7 +11,6 @@ tags:
   - "glossary"
   - "structured-thought"
   - "people"
-aliases: []
 ---
 
 # People

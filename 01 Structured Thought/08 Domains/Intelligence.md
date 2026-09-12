@@ -15,6 +15,8 @@ aliases: []
 confidence: red
 ---
 
+[Glossary](/glossary/intelligence/)
+
 # Intelligence
 
 🔴 written - not read
@@ -39,22 +41,6 @@ This has always been available to large organisations: teams of analysts, resear
 ## How It Fits
 
 Intelligence is the domain that turns noise into something worth acting on. It's foundational in a literal sense: you can't build knowledge on noise. Reveal has a real question to work from once Intelligence has cut through what doesn't matter. Pulse's trend lines mean more read against Intelligence's picture of what's happening in the wider world. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
-
----
-
-# Definitions
-
-## One Sentence
-
-Intelligence is a curated, continuously updated picture of a domain that turns raw information into the insight that changes how you act.
-
-## One Paragraph
-
-Intelligence takes a domain, a market, a sector, a niche you actually care about, and builds a structured, curated stream from what's happening inside it. Not everything, the things that matter, scored for credibility and relevance and filtered for noise that only looks like signal. What used to require a team of analysts and a research budget is now something a small business or a niche community can build for itself.
-
-## The Long Paragraph
-
-An aggregator collects. Intelligence curates, and the distinction matters more than it sounds. Curation means scoring content across multiple dimensions (how credible the source is, how fresh the signal, how relevant to the domain) and filtering out noise that only resembles signal. What remains is a focused, trusted stream, and from that stream something starts to happen that raw information alone can't produce: patterns, connections, movement become visible. That compounding, from information to the insight that changes how you act, is built into how Intelligence is structured from the start, not bolted on afterwards.
 
 ---
 
