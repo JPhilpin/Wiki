@@ -14,8 +14,6 @@ tags:
 
 # Flexible
 
-Able to change form, method or emphasis in response to circumstances without breaking purpose.
-
 ## In Structured Thought
 
 Flexible is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

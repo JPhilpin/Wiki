@@ -14,8 +14,6 @@ tags:
 
 # Promotion
 
-The work of making an idea, offer or achievement visible, understandable and compelling to relevant people.
-
 ## In Structured Thought
 
 Promotion is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

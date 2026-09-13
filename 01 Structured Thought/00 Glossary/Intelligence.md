@@ -16,8 +16,6 @@ aliases:
 
 # Intelligence
 
-The capacity to perceive, interpret, learn, reason and act appropriately in context.
-
 ## Other Wiki References
 
 - [Intelligence domain page](/domains/intelligence/)

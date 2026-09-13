@@ -14,8 +14,6 @@ tags:
 
 # Decide
 
-To convert consideration into commitment by selecting a course, position or priority.
-
 ## In Structured Thought
 
 Decide is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

@@ -14,8 +14,6 @@ tags:
 
 # Effective
 
-Producing the intended or valuable outcome.
-
 ## In Structured Thought
 
 Effective is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

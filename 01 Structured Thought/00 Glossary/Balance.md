@@ -16,8 +16,6 @@ aliases:
 
 # Balance
 
-Holding competing needs, forces or priorities in productive tension rather than allowing one to dominate by default.
-
 ## Other Wiki References
 
 - [Balance domain page](/domains/balance/)

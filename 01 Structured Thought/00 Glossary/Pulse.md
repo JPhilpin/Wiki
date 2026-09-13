@@ -14,8 +14,6 @@ tags:
 
 # Pulse
 
-A recurring measure of sentiment or condition taken over time, revealing trend rather than a single snapshot.
-
 ## Other Wiki References
 
 - [Pulse domain page](/domains/pulse/)

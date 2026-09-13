@@ -14,8 +14,6 @@ tags:
 
 # Practical
 
-Grounded in real conditions and capable of being applied to produce a useful result.
-
 ## In Structured Thought
 
 Practical is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

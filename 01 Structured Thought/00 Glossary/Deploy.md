@@ -14,8 +14,6 @@ tags:
 
 # Deploy
 
-To place a capability, resource or system into active use in a specific context.
-
 ## In Structured Thought
 
 Deploy is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

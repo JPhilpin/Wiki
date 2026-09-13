@@ -14,8 +14,6 @@ tags:
 
 # Capability
 
-The demonstrated ability to produce a desired outcome by combining knowledge, skill, resources, relationships and judgement.
-
 ## In Structured Thought
 
 Capability is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

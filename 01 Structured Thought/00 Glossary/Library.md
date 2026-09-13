@@ -14,8 +14,6 @@ tags:
 
 # Library
 
-An organised, retrievable collection of knowledge, references or resources maintained for continuing use.
-
 ## Other Wiki References
 
 - [Library domain page](/domains/library/)

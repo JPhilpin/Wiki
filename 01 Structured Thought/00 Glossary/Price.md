@@ -14,8 +14,6 @@ tags:
 
 # Price
 
-The amount requested or accepted in exchange for an offer, distinct from the value experienced by either party.
-
 ## In Structured Thought
 
 Price is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

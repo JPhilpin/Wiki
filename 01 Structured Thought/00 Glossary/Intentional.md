@@ -14,8 +14,6 @@ tags:
 
 # Intentional
 
-Chosen and directed with conscious purpose rather than left entirely to habit or accident.
-
 ## In Structured Thought
 
 Intentional is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

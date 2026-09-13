@@ -14,8 +14,6 @@ tags:
 
 # Transmute
 
-To convert something into a qualitatively different form, often by reworking its underlying meaning or value.
-
 ## In Structured Thought
 
 Transmute is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

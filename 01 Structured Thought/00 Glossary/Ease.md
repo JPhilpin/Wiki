@@ -14,8 +14,6 @@ tags:
 
 # Ease
 
-The reduction of unnecessary friction, effort or complexity in an experience or process.
-
 ## In Structured Thought
 
 Ease is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

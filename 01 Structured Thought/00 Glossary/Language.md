@@ -14,8 +14,6 @@ tags:
 
 # Language
 
-A shared system of signs, words and patterns through which meaning is expressed, negotiated and preserved.
-
 ## In Structured Thought
 
 Language is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

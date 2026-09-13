@@ -14,8 +14,6 @@ tags:
 
 # Design
 
-The intentional shaping of relationships, structures and experiences to make a preferred outcome more likely.
-
 ## In Structured Thought
 
 Design is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

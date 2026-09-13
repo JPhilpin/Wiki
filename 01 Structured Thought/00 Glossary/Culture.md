@@ -14,8 +14,6 @@ tags:
 
 # Culture
 
-The shared patterns of meaning, behaviour, expectation and practice through which a group understands how things are done.
-
 ## In Structured Thought
 
 Culture is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

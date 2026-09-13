@@ -14,8 +14,6 @@ tags:
 
 # Discover
 
-To encounter, reveal or recognise something that was previously unknown, unseen or insufficiently understood.
-
 ## In Structured Thought
 
 Discover is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

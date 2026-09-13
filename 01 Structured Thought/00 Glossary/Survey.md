@@ -14,8 +14,6 @@ tags:
 
 # Survey
 
-A deliberate scan or inquiry used to understand a field, population, condition or range of possibilities.
-
 ## In Structured Thought
 
 Survey is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

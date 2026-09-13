@@ -14,8 +14,6 @@ tags:
 
 # Enable
 
-To create the conditions, access or capability that allow something else to happen.
-
 ## In Structured Thought
 
 Enable is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

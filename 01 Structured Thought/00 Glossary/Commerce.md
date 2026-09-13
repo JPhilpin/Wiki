@@ -14,8 +14,6 @@ tags:
 
 # Commerce
 
-The organised exchange of value through relationships, markets, products, services and transactions.
-
 ## In Structured Thought
 
 Commerce is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

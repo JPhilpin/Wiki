@@ -14,8 +14,6 @@ tags:
 
 # Personal
 
-Belonging to, or applied to, an individual's own life, choices and practice rather than an organisation's.
-
 ## Other Wiki References
 
 - [Personal domain page](/domains/personal/)

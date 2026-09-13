@@ -16,8 +16,6 @@ aliases:
 
 # Engage
 
-To enter into active, attentive and consequential relationship with a person, idea, task or system.
-
 ## Other Wiki References
 
 - [Engage domain page](/domains/engage/)

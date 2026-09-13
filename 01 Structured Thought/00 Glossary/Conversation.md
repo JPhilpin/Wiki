@@ -14,8 +14,6 @@ tags:
 
 # Conversation
 
-A reciprocal exchange through which people test meaning, build understanding and shape what happens next.
-
 ## In Structured Thought
 
 Conversation is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

@@ -14,8 +14,6 @@ tags:
 
 # Reveal
 
-To surface something previously hidden, unclear or assumed, making it visible and actionable.
-
 ## Other Wiki References
 
 - [Reveal domain page](/domains/reveal/)

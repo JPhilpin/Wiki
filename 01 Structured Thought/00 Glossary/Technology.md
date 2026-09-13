@@ -14,8 +14,6 @@ tags:
 
 # Technology
 
-The practical application of knowledge through tools, methods and systems that extend human capability.
-
 ## In Structured Thought
 
 Technology is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

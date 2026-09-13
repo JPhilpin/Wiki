@@ -14,8 +14,6 @@ tags:
 
 # Complete
 
-Sufficiently whole for its intended purpose, with all essential elements present and resolved.
-
 ## In Structured Thought
 
 Complete is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

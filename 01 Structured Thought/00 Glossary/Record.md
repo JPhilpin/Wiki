@@ -14,8 +14,6 @@ tags:
 
 # Record
 
-A durable representation of an event, decision, observation or state preserved for later reference.
-
 ## In Structured Thought
 
 Record is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

@@ -14,8 +14,6 @@ tags:
 
 # Systemic
 
-Concerned with the relationships, feedback and structures that produce behaviour across a whole system.
-
 ## In Structured Thought
 
 Systemic is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

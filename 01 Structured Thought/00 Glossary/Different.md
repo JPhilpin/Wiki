@@ -16,8 +16,6 @@ aliases:
 
 # Different
 
-Not the same as what is being compared, whether by nature, degree, perspective or context.
-
 ## In Structured Thought
 
 Different is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

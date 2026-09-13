@@ -16,8 +16,6 @@ aliases:
 
 # Assembly
 
-The bringing together of people or things into a working whole; a gathering formed for connection rather than consumption.
-
 ## Other Wiki References
 
 - [Assembly domain page](/domains/assembly/)

@@ -14,8 +14,6 @@ tags:
 
 # Producer
 
-A person, organisation or system that brings an output, experience or form of value into existence.
-
 ## In Structured Thought
 
 Producer is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

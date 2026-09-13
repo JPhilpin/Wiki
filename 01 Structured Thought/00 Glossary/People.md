@@ -14,5 +14,3 @@ tags:
 ---
 
 # People
-
-Human beings considered individually or collectively, especially as participants, contributors and beneficiaries within a system.

@@ -14,8 +14,6 @@ tags:
 
 # Values
 
-Enduring commitments that guide judgement, priorities and behaviour.
-
 ## In Structured Thought
 
 Values is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

@@ -14,8 +14,6 @@ tags:
 
 # Structured
 
-Organised through explicit relationships, boundaries or patterns so that meaning and action can be navigated.
-
 ## In Structured Thought
 
 Structured is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

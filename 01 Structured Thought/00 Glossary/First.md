@@ -13,5 +13,3 @@ tags:
 ---
 
 # First
-
-Given priority in sequence, importance or consideration.

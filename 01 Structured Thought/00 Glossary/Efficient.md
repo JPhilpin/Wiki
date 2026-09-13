@@ -14,8 +14,6 @@ tags:
 
 # Efficient
 
-Producing an outcome with proportionate use of time, effort, attention and resources.
-
 ## In Structured Thought
 
 Efficient is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.

@@ -14,8 +14,6 @@ tags:
 
 # Organisation
 
-A coordinated arrangement of people, roles, resources and practices formed to pursue a shared purpose.
-
 ## In Structured Thought
 
 Organisation is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
