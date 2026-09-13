@@ -9,7 +9,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - glossary
-  - business
+  - pillar
 ---
 
 # Commerce

@@ -10,7 +10,7 @@ updated: 2026-09-11
 tags:
   - "framework"
   - "structured-thought"
-  - "four-es"
+  - "4e"
   - "engagement"
 aliases:
   - "4Es"

@@ -7,7 +7,6 @@ pstatus: page
 tags:
   - wip
   - stand-alone
-  - ai
   - organisation
 ---
 

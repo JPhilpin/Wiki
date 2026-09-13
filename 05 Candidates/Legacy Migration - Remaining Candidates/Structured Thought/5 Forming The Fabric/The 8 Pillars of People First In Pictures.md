@@ -3,7 +3,7 @@ title: The 8 Pillars of People First In Pictures
 slug: the-8-pillars-of-people-first-in-pictures
 summary: ""
 tags:
-  - image-gallery
+  - pillar
 aliases: []
 pstatus: review
 ---
