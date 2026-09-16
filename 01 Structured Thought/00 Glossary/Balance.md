@@ -18,7 +18,7 @@ aliases:
 
 ## Other Wiki References
 
-- [Balance domain page](/domains/balance/)
+[[01 Structured Thought/08 Domains/Balance|Balance - one of eight domains.]]
 
 ## In Structured Thought
 
@@ -28,7 +28,7 @@ Balance is part of the controlled vocabulary of Structured Thought. Its meaning 
 
 ### One Sentence
 
-Balance reads whether an exchange of value still holds for both sides, regardless of what currency, cash, favour, trust, or time, it's actually running on.
+Balance seeks to check and confirm whether an exchange of value between two parties still holds, regardless of the currency, cash, favour, trust, time, or anything else, in which that value is exchanged.
 
 ### One Paragraph
 
