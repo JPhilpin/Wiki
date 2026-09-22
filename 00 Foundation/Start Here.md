@@ -9,12 +9,12 @@ tags:
 - start
 ---
 
-The Studio holds a few hundred pages. This is one route through them, in the order the ideas build on each other. Each stop takes a few minutes. Read them in sequence, or stop wherever something catches.
+The Studio comprises a few hundred pages. This is one route through them, in the order the ideas build on each other. Each stop takes a few minutes. Read them in sequence, or stop wherever something catches.
 
 ## The path
 
 1. **[[Structured Thought]]** - the discipline behind everything here, and what it is for.
-2. **[[000 The World We Inherit]]** - the opening paper. Why the old playbook no longer fits.
+2. **[[000 The World We Inherit|The World We Inherit]]** - the opening paper. Why the old playbook no longer fits.
 3. **[[The Business Equation]]** - how a business combines people, money and things to create and exchange value.
 4. **[[People, Money and Things]]** - the three elements the equation is built from.
 5. **[[PESC]] and [[CEDN]]** - the two halves of value: how it gets made, and who it gets made for.
