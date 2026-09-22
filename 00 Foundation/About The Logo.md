@@ -9,7 +9,7 @@ tags:
 - start
 ---
 
-![[03 Assets/Images/logos/philpin-logo.png]]
+![[phi-pin-wordmark.png]]
 
 Is the logo just a device, or does it mean something?
 
@@ -37,4 +37,4 @@ The backslash has an inherently technological feel. Visually, it suggests a diff
 
 And then there is also this.
 
-![[03 Assets/Images/logos/philpin-logo-square.png]]
+![[phi-pin-square.png]]
