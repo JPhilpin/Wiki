@@ -5,7 +5,7 @@ status: active
 collection: Studio
 owner: John Philpin
 created: '2026-07-14'
-updated: '2026-08-23'
+updated: '2026-09-23'
 version: '0.5'
 tags:
 - studio
@@ -17,17 +17,9 @@ tags:
 
 > Draft copy for the wiki.philpin.com homepage banner, currently hardcoded in `menu-banner.html` on Blot. Captured here so it can be edited in Obsidian, then pasted back into the template. Not yet templated/pulled automatically. Cut material moved to [[Home2]] in 05 Candidates.
 
-**New here? Here's what you're looking at.**
+The Studio is a working wiki for Structured Thought: the frameworks, models and ideas behind how I think about business and technology. It is built in public, so some pages are finished and some are not.
 
-This is a working wiki for Structured Thought  -  the frameworks, models and ideas I use to think about business and technology. It's built in public, so some pages are thin, some are dense, and both are fine.
-
-A few things worth knowing before you explore:
-
-- **The coloured boxes below** are the tiles  -  whatever's been added or changed most recently. They're the fastest read on what's alive right now.
-- **The hamburger icon** (top right) opens the full menu  -  atoms, models, concepts, people, and every entry list.
-- **Menus aren't always the same.** Some pages carry their own contextual menu suited to that page, so what you see can shift as you move around the site.
-
-Three ways in: [Start Here](https://wiki.philpin.com/start) for a guided path, [About](https://wiki.philpin.com/about) for the why behind this, or hit Surprise Me and let the wiki pick for you.
+The tiles below show what has changed most recently. The menu, top right, holds everything else.
 
 # Studio
 
