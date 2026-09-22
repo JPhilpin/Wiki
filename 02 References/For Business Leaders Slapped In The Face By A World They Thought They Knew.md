@@ -55,11 +55,11 @@ aliases: []
 
 The comfortable playbook is broken. The systems that built empires are now anchors. Leaders who learned to execute in linear, predictable environments are watching those environments combust.
 
-This isn't disruption. Disruption implies a temporary shock. This is structural. The move from systems of record to systems of engagement isn't a feature upgrade—it's a reconfiguration of how organizations actually work.
+This isn't disruption. Disruption implies a temporary shock. This is structural. The move from systems of record to systems of engagement isn't a feature upgrade - it's a reconfiguration of how organisations actually work.
 
 ### What This Book Does
 
-This manifesto cuts through the noise of innovation theater and gets at the fundamental reframing leaders need. It's built on the Business Equation: understanding how systems, people, and processes interlock to create (or destroy) organizational capability.
+This manifesto cuts through the noise of innovation theater and gets at the fundamental reframing leaders need. It's built on the Business Equation: understanding how systems, people, and processes interlock to create (or destroy) organisational capability.
 
 You'll find:
 
@@ -67,7 +67,7 @@ You'll find:
 - Why traditional org structure is no longer fit for purpose
 - How to move from authority-driven to engagement-driven models
 - The role of structured thinking in navigating complexity
-- Practical tools for making the invisible visible in your organization
+- Practical tools for making the invisible visible in your organisation
 
 </div>
 </div>
@@ -77,7 +77,7 @@ You'll find:
 1. The Illusion of Stability
 2. Systems of Record vs. Systems of Engagement
 3. The Business Equation Explained
-4. The Translator Role in Modern Organizations
+4. The Translator Role in Modern Organisations
 5. Structured Thought as a Competitive Weapon
 6. The Five Components Framework
 7. Moving from Execution to Navigation

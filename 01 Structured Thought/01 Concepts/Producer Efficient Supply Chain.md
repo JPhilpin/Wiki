@@ -43,7 +43,7 @@ The corresponding demand-side Concept is the **Customer Effective Demand Network
 
 ## # Key Characteristics
 
-- **Supply-led, not demand-driven** - The flow of goods is based on forecasts, contracts, and internal production schedules — not on live customer input or adaptive feedback loops.
+- **Supply-led, not demand-driven** - The flow of goods is based on forecasts, contracts, and internal production schedules  -  not on live customer input or adaptive feedback loops.
 - **One-directional value flow** - Value moves from supplier to manufacturer to distributor to end-customer, with little interaction or iteration along the way.
 - **Centralized and hierarchical** - A few key players (often the vendor or manufacturer) control the process, dictating terms, timelines, and product features.
 - **Efficiency is the priority** - The focus is on minimizing cost, reducing waste, and optimizing throughput, often through lean manufacturing or just-in-time (JIT) models.
@@ -61,4 +61,4 @@ The corresponding demand-side Concept is the **Customer Effective Demand Network
 
 ## # Bottom Line
 
-While **Producer Efficient Supply Chains** emphasize **control and predictability**, [[Customer Effective Demand Networks]] emphasize **responsiveness and relevance**. Modern businesses often need to **blend both** - but the balance is shifting toward models where engagement, not efficiency, is the [[Strategic Differentiator]].
+While **Producer Efficient Supply Chains** emphasise **control and predictability**, [[Customer Effective Demand Networks]] emphasise **responsiveness and relevance**. Modern businesses often need to **blend both** - but the balance is shifting toward models where engagement, not efficiency, is the [[Strategic Differentiator]].

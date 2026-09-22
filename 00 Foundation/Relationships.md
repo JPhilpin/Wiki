@@ -96,14 +96,14 @@ The vocabulary should remain small and grow only when a distinction is useful.
 
 Initial relationship types include:
 
-- `composed-of` — identifies constituent elements.
-- `informs` — contributes understanding to another idea or principle.
-- `extends` — deliberately develops an existing idea or model.
-- `evolves-towards` — describes a directional transition.
-- `complements` — identifies elements that perform different but mutually useful roles.
-- `incorporates` — identifies an element used within a larger construct.
-- `supports` — provides useful structure or capability to another element.
-- `applies-to` — identifies a domain or context in which something is used.
+- `composed-of`  -  identifies constituent elements.
+- `informs`  -  contributes understanding to another idea or principle.
+- `extends`  -  deliberately develops an existing idea or model.
+- `evolves-towards`  -  describes a directional transition.
+- `complements`  -  identifies elements that perform different but mutually useful roles.
+- `incorporates`  -  identifies an element used within a larger construct.
+- `supports`  -  provides useful structure or capability to another element.
+- `applies-to`  -  identifies a domain or context in which something is used.
 
 This vocabulary should remain provisional until tested across the Wiki. A new relationship type should be added only when the existing vocabulary cannot express an important distinction clearly.
 

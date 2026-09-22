@@ -32,8 +32,8 @@ Assembly is a structured space where the people in your domain find each other, 
 
 ### One Paragraph
 
-Assembly turns an audience into a network. It isn't a platform with rooms and channels, it's the design underneath those rooms, who they're for and what makes returning worth it. Once it's working, it doesn't need you to keep producing. The people in it generate the value themselves, which is what makes it different from every other domain in the set.
+Assembly turns an audience into a network. It is not a platform with rooms and channels, it is the design underneath those rooms, who they are for and what makes returning worth it. Once it is working, it does not need you to keep producing. The people in it generate the value themselves, which is what makes it different from every other domain in the set.
 
 ### The Long Paragraph
 
-A mailing list is not a community, and neither is a login-walled members' area with a PDF download behind it. Those are archives people visit once and leave, with the relationship running one way and stopping the moment you stop producing. Assembly is built the other way round: a structured space where the people in a domain find each other, where someone returns because there's a conversation they're part of rather than something new you've published. That's the shift from broadcast to belonging, and it's the one domain in the set that compounds without you once it's actually working.
+A mailing list is not a community, and neither is a login-walled members' area with a PDF download behind it. Those are archives people visit once and leave, with the relationship running one way and stopping the moment you stop producing. Assembly is built the other way round: a structured space where the people in a domain find each other, where someone returns because there is a conversation they are part of rather than something new you've published. That is the shift from broadcast to belonging, and it is the one domain in the set that compounds without you once it is actually working.

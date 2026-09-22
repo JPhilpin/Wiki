@@ -23,7 +23,7 @@ A progression through **[[Discover]]**, **[[Decide]]**, **[[Develop]]**, **[[Des
 
 ## Status
 
-Merged from two source pages that disagreed on sequence. The earlier stub had Discover → Design → Decide → Develop → Deploy. This draft has Discover → Decide → Develop → Design → Deploy/Deliver, with Decide/Develop run as an iterative loop. That's the sequence kept here — worth confirming it's the one you intend before treating it as settled.
+Merged from two source pages that disagreed on sequence. The earlier stub had Discover → Design → Decide → Develop → Deploy. This draft has Discover → Decide → Develop → Design → Deploy/Deliver, with Decide/Develop run as an iterative loop. That is the sequence kept here  -  worth confirming it is the one you intend before treating it as settled.
 
 ## Working notes
 

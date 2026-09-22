@@ -26,9 +26,9 @@ aliases: []
 <p><strong>Famous For:</strong> FTSE/Fortune 500 Advisory</p>
 </div>
 
-René Carayol MBE is one of the world's leading executive coaches and leadership speakers, specializing in organizational culture, transformation, and inclusive leadership. Appointed Member of the Order of the British Empire for his contributions to the business community, he brings over 30 years of boardroom experience advising world leaders and CEOs.
+René Carayol MBE is one of the world's leading executive coaches and leadership speakers, specialising in organisational culture, transformation, and inclusive leadership. Appointed Member of the Order of the British Empire for his contributions to the business community, he brings over 30 years of boardroom experience advising world leaders and CEOs.
 
-His latest work, SPIKE, is a strengths-based leadership philosophy built on the premise that everyone has something they are great at—and that unlocking those strengths drives individual and organizational performance. His earlier books, *Corporate Voodoo* and *My Voodoo*, explore how businesses must break old habits to adapt to dynamic markets.
+His latest work, SPIKE, is a strengths-based leadership philosophy built on the premise that everyone has something they are great at - and that unlocking those strengths drives individual and organisational performance. His earlier books, *Corporate Voodoo* and *My Voodoo*, explore how businesses must break old habits to adapt to dynamic markets.
 
 René's philosophy mirrors the heart of Structured Thinking: creating environments where everyone can flourish, where diversity and inclusion drive better decisions, and where leadership is about enabling others rather than controlling them.
 

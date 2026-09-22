@@ -1,6 +1,6 @@
 ---
 title: Engage
-summary: Domain page for Engage, the archetype layer that tells every other domain who it's actually talking to.
+summary: Domain page for Engage, the archetype layer that tells every other domain who it is actually talking to.
 slug: engage
 permalink: /domains/engage/
 type: Domain
@@ -32,13 +32,13 @@ confidence: red
 
 ## What It Means
 
-Every one of the other seven domains eventually has to answer the same question: who is this for, specifically? Without an answer, Assembly can't match people to the right people, Reveal can't calibrate its language to the person in front of it, Pulse can't tell whether a shift in the numbers is a real trend or just a different mix of respondents. Engage answers that question once, structurally, by working out which of sixteen archetypes a person actually is, then makes that answer available to whichever domain needs it.
+Every one of the other seven domains eventually has to answer the same question: who is this for, specifically? Without an answer, Assembly cannot match people to the right people, Reveal cannot calibrate its language to the person in front of it, Pulse cannot tell whether a shift in the numbers is a real trend or just a different mix of respondents. Engage answers that question once, structurally, by working out which of sixteen archetypes a person actually is, then makes that answer available to whichever domain needs it.
 
 ## The Full Picture
 
-Engage isn't a peer in quite the same sense as the other seven. It's a peer that leaks. Domains in this system don't have to be one thing or another, and Engage is the clearest case of that: it shows up as its own domain, but it's also the oil that runs between the others, the thing that lets Assembly show two people why they'd connect, or lets Reveal meet a visitor in language that actually fits who they are rather than a generic version of them.
+Engage is not a peer in quite the same sense as the other seven. It is a peer that leaks. Domains in this system do not have to be one thing or another, and Engage is the clearest case of that: it shows up as its own domain, but it is also the oil that runs between the others, the thing that lets Assembly show two people why they'd connect, or lets Reveal meet a visitor in language that actually fits who they are rather than a generic version of them.
 
-The archetype itself gets worked out through the same kind of structured questioning the other domains use, not a quiz result stapled onto a profile once and forgotten. It's built to be checked against, and to shift, as the picture of who someone is gets sharper over time.
+The archetype itself gets worked out through the same kind of structured questioning the other domains use, not a quiz result stapled onto a profile once and forgotten. It is built to be checked against, and to shift, as the picture of who someone is gets sharper over time.
 
 ## How It Fits
 

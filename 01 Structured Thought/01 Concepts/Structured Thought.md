@@ -35,9 +35,9 @@ Within Studio, Structured Thought provides the methodology that connects Primiti
 
 ## 1. The Beginning
 
-Structured Thought didn't arrive as a framework. It came out of frustration. Too many conversations dissolved into abstraction. Too many decisions were made on instinct disguised as insight. Organisations clung to rituals that exhausted everyone while producing nothing but noise.
+Structured Thought did not arrive as a framework. It came out of frustration. Too many conversations dissolved into abstraction. Too many decisions were made on instinct disguised as insight. Organisations clung to rituals that exhausted everyone while producing nothing but noise.
 
-Most people could see the mess. They just couldn't articulate it or organise it. There was no shared language, no consistent way to handle complexity, and no method for drawing truth out of competing perspectives.
+Most people could see the mess. They just could not articulate it or organise it. There was no shared language, no consistent way to handle complexity, and no method for drawing truth out of competing perspectives.
 
 Structured Thought emerged as a discipline that cuts through that fog. It gives form to thinking, shape to problems, and a way for people to work together without getting lost in their own cleverness.
 
@@ -53,12 +53,12 @@ Structured Thought is a correction to that drift. It restores clarity and intent
 
 The straight-line, box-ticking path to the finish line belongs to the Age of Reason. And good riddance. An age when most of humanity tried to shape the universe in their own image, then crushed its complexity into two-dimensional metaphors.
 
-The Age of Experience doesn't flatten, it folds. The grids morph into swarms of tesseracts, truly seen only in equations, never in full. Creativity spirals into infinite fractals. Community pulses - unpredictable, electric, impossible to ignore. Collaboration completes the pattern break - thriving in asymmetry. And somewhere in that beautiful mess, we finally admit: the world never - ever - fit into three dimensions, let alone two.
+The Age of Experience does not flatten, it folds. The grids morph into swarms of tesseracts, truly seen only in equations, never in full. Creativity spirals into infinite fractals. Community pulses - unpredictable, electric, impossible to ignore. Collaboration completes the pattern break - thriving in asymmetry. And somewhere in that beautiful mess, we finally admit: the world never - ever - fit into three dimensions, let alone two.
 
 ## 3. The Principles That Hold the Discipline Together
 
 ### Clarity over volume
-If an idea can't be explained cleanly, it's not ready.
+If an idea cannot be explained cleanly, it is not ready.
 
 ### People before process
 Technology, frameworks, and systems have value only when they amplify human capability rather than bury it.
@@ -70,7 +70,7 @@ Good thinking needs scaffolding, not cages.
 Rushed answers look efficient and age badly.
 
 ### Non-linearity is normal
-We don't live in supply chains anymore. We live in networks. Information, influence, and value move in webs, not sequences.
+We do not live in supply chains anymore. We live in networks. Information, influence, and value move in webs, not sequences.
 
 These principles create the runway for clear thinking.
 
@@ -78,8 +78,8 @@ These principles create the runway for clear thinking.
 
 The work starts by stripping away the noise.
 
-What's the real problem? 
-What's the actual environment? 
+What is the real problem? 
+What is the actual environment? 
 What forces matter and which ones only look important? 
 Where does power sit, and where does friction appear? 
 Where does value enter or escape the system?
@@ -89,7 +89,7 @@ Once the environment is clear, patterns emerge. When patterns emerge, decisions 
 The process is simple enough:
 
 1. Frame the situation
-2. Map what's real
+2. Map what is real
 3. Model the system
 4. Expose tensions
 5. Surface truths
@@ -99,11 +99,11 @@ The process is simple enough:
 
 The power sits in how these steps force clarity. You stop reacting and start understanding.
 
-The discipline turns any problem into a shape you can work with. You start by framing the environment: the current reality, the future you're trying to reach, the forces that matter, and the ones that don't. You map constraints and opportunities. You remove noise until the right questions appear.
+The discipline turns any problem into a shape you can work with. You start by framing the environment: the current reality, the future you are trying to reach, the forces that matter, and the ones that do not. You map constraints and opportunities. You remove noise until the right questions appear.
 
 Good strategy emerges from good questioning.
 
-Structured Thought doesn't pretend to predict the future. It builds the capacity to respond to it without flailing.
+Structured Thought does not pretend to predict the future. It builds the capacity to respond to it without flailing.
 
 When a team uses this approach consistently, thinking aligns. The work accelerates. Decisions stop contradicting each other. Outcomes compound.
 
@@ -113,7 +113,7 @@ PHI\PIN is the operational layer beneath Structured Thought. It handles the infr
 
 If Structured Thought is how you think, PHI\PIN is how you organise the thinking so it becomes reusable, scalable, and transferable.
 
-It's not a product. It's the environment where structured ideas become visible, concrete, and usable.
+It is not a product. It is the environment where structured ideas become visible, concrete, and usable.
 
 PHI\PIN holds the corpus: the artefacts, frameworks, diagrams, palettes, narratives, and logic that sit behind the work. It is the scaffolding for the story. It provides a way of organising thinking, making insights portable, and keeping people at the centre even when the technology gets loud.
 
@@ -129,7 +129,7 @@ People First keeps the work grounded. It forces alignment between intention and 
 - Who pays the invisible cost?
 - What decision would we make if the person in front of us mattered more than the system around them?
 
-If you can't answer those, the decision isn't ready.
+If you cannot answer those, the decision is not ready.
 
 Performance systems, data platforms, corridor intelligence networks, and strategies all fail when they ignore people. They succeed when they elevate them.
 
@@ -137,7 +137,7 @@ Structured Thought and People First are two sides of the same coin. One is the m
 
 ## 7. Why This Matters
 
-Organisations don't change because someone announces change. They change when people have a frame to think inside, a path that makes sense, and a story that carries truth.
+Organisations do not change because someone announces change. They change when people have a frame to think inside, a path that makes sense, and a story that carries truth.
 
 **Structured Thought** gives the frame. 
 **People First** gives the anchor. 
@@ -162,11 +162,11 @@ When the thinking is structured, the work gets lighter.
 When people are centred, the outcomes get stronger.
 
 Structured Thought turns complexity into something you can move with. 
-People First keeps you from forgetting who you're moving for.
+People First keeps you from forgetting who you are moving for.
 
 ## 9. Where This Is Going
 
-This isn't just a method. You're building a corpus.
+This is not just a method. You are building a corpus.
 
 A shared foundation across writing, long-form argument, product design, strategy work, frameworks, diagrams, digital architecture, and brand identity.
 

@@ -621,7 +621,7 @@ It is humanity's continuing invitation to recognise, preserve, protect and compo
 - [[007 Frameworks]]
 - [[008 Systems]]
 - [[009 Patterns]]
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 
@@ -633,7 +633,7 @@ It is humanity's continuing invitation to recognise, preserve, protect and compo
 
 **Next**
 
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 

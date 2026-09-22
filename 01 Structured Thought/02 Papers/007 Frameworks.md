@@ -17,7 +17,7 @@ If Models represent individual understandings of enduring Principles, then Frame
 
 Humanity has always relied upon Frameworks. Legal systems, scientific disciplines, constitutions, educational curricula, engineering standards and organisational operating models all depend upon carefully organised collections of Models. Without Frameworks, knowledge remains fragmented. With Frameworks, individual understanding becomes coordinated capability.
 
-Within Structured Thought, Frameworks occupy the constitutional layer where representation becomes organisation. They provide the architecture that enables intelligence—human and artificial alike—to reason consistently across complexity while remaining faithful to enduring Principles.
+Within Structured Thought, Frameworks occupy the constitutional layer where representation becomes organisation. They provide the architecture that enables intelligence - human and artificial alike - to reason consistently across complexity while remaining faithful to enduring Principles.
 
 ---
 
@@ -534,7 +534,7 @@ In doing so, they prepare understanding for its next constitutional expression: 
 - [[005 Principles]]
 - [[006 Models]]
 - [[008 Systems]]
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 

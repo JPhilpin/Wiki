@@ -21,7 +21,7 @@ aliases:
 
 # Sales-Ready
 
-**Sales-Ready** is a data-driven system for creating better sales conversations. It creates useful interactions through which prospects reveal information about their situation, turns that information into structured data, and uses the data to return insight to the prospect and knowledge to the seller — knowledge that then improves what happens next.
+**Sales-Ready** is a data-driven system for creating better sales conversations. It creates useful interactions through which prospects reveal information about their situation, turns that information into structured data, and uses the data to return insight to the prospect and knowledge to the seller  -  knowledge that then improves what happens next.
 
 ## Related
 
@@ -33,13 +33,13 @@ The thinking behind Sales-Ready began with an apparently simple problem: what sh
 
 Survey, assessment and questionnaire are familiar terms, but that familiarity is part of the problem. They describe a crowded category and carry an implicit request: give us some of your time and answer our questions.
 
-Alternatives such as Pulse Check, Diagnostic, Snapshot, Scorecard, Readiness Check and Insights Builder can make the invitation more appealing. But changing the label doesn't necessarily change the underlying proposition. If we are searching for a better word for assessment, we may still be thinking about the wrong thing.
+Alternatives such as Pulse Check, Diagnostic, Snapshot, Scorecard, Readiness Check and Insights Builder can make the invitation more appealing. But changing the label does not necessarily change the underlying proposition. If we are searching for a better word for assessment, we may still be thinking about the wrong thing.
 
 ## The Naming Problem Reveals a Category Problem
 
-The important question isn't what to call the mechanism. It is: why would somebody choose to engage with it in the first place?
+The important question is not what to call the mechanism. It is: why would somebody choose to engage with it in the first place?
 
-People don't generally want to complete assessments. They do want to discover something useful, solve a problem, understand how they compare, identify a risk or find an opportunity. The interaction therefore doesn't necessarily need a noun.
+People do not generally want to complete assessments. They do want to discover something useful, solve a problem, understand how they compare, identify a risk or find an opportunity. The interaction therefore does not necessarily need a noun.
 
 Instead of:
 
@@ -57,21 +57,21 @@ The first describes a task. The second offers a reason to engage. That distincti
 
 ## Recognition Before Recommendation
 
-Traditional sales and marketing communication commonly starts with what the seller wants the prospect to know — a product, a proposition, a feature, a case study, a webinar, a piece of content.
+Traditional sales and marketing communication commonly starts with what the seller wants the prospect to know  -  a product, a proposition, a feature, a case study, a webinar, a piece of content.
 
-Sales-Ready reverses that sequence. It starts with something the prospect might recognise about their own situation. The initial objective isn't to convince them that the seller has the answer. It is to give them a specific and credible reason to wonder whether a problem, gap or opportunity exists for them.
+Sales-Ready reverses that sequence. It starts with something the prospect might recognise about their own situation. The initial objective is not to convince them that the seller has the answer. It is to give them a specific and credible reason to wonder whether a problem, gap or opportunity exists for them.
 
 The sequence becomes:
 
 **Recognition → Curiosity → Interaction → Insight**
 
-The prospect isn't initially being asked to accept the seller's conclusion. They are being given a reason to reach one of their own. This changes the purpose of the interaction. It isn't simply a device for collecting answers. It creates the conditions in which something useful can be revealed.
+The prospect is not initially being asked to accept the seller's conclusion. They are being given a reason to reach one of their own. This changes the purpose of the interaction. It is not simply a device for collecting answers. It creates the conditions in which something useful can be revealed.
 
 ## From Interaction to Reveal
 
-A prospect knows things the seller doesn't — something about their organisation, priorities, pressures, performance, processes and problems.
+A prospect knows things the seller does not  -  something about their organisation, priorities, pressures, performance, processes and problems.
 
-The seller knows things the prospect may not — patterns across customers, the consequences of particular problems, possible benchmarks, relationships between symptoms and causes, and where particular solutions may apply.
+The seller knows things the prospect may not  -  patterns across customers, the consequences of particular problems, possible benchmarks, relationships between symptoms and causes, and where particular solutions may apply.
 
 Ordinary outbound marketing struggles to connect those two bodies of knowledge. Sales-Ready creates a structured interaction between them: the prospect reveals information about their situation, Sales-Ready interprets that information against knowledge supplied by the seller, and the prospect receives something useful back. Something that was previously implicit, fragmented or invisible can become visible. That is why Sales-Ready belongs within [[Reveal]].
 
@@ -91,11 +91,11 @@ Both parties learn something. The prospect understands more about their problem,
 
 ## The Important Asset Is the Data
 
-This is where Sales-Ready becomes more than an engaging front-end interaction. The information revealed isn't discarded when the interaction finishes — it becomes structured data.
+This is where Sales-Ready becomes more than an engaging front-end interaction. The information revealed is not discarded when the interaction finishes  -  it becomes structured data.
 
 That distinction matters. An interaction can produce engagement. A report can produce insight. Structured data can continue working.
 
-The prospect's responses can reveal information about their current situation, problems and pressure points, priorities, capabilities, gaps, concerns, urgency, intent, readiness and relevant solutions. That data can then power other applications built around the same underlying dataset. The interaction is therefore not the end of the process — it creates the data that powers what happens next.
+The prospect's responses can reveal information about their current situation, problems and pressure points, priorities, capabilities, gaps, concerns, urgency, intent, readiness and relevant solutions. That data can then power other applications built around the same underlying dataset. The interaction is therefore not the end of the process  -  it creates the data that powers what happens next.
 
 ## From Data to Continuity
 
@@ -109,17 +109,17 @@ The same underlying data can inform multiple interactions. What the prospect rev
 
 ## From Lead Generation to Knowledge Generation
 
-Sales-Ready Leads obviously generates leads. But generating a lead isn't the most interesting thing it does.
+Sales-Ready Leads obviously generates leads. But generating a lead is not the most interesting thing it does.
 
-Traditional lead generation can tell us: *this person engaged.* Sales-Ready can begin to tell us: *this person engaged, and this is what we now know* — what they told us, what matters to them, where particular gaps appear, what they have already discovered, what information is likely to be relevant next. And we can give that knowledge to the person who is about to have the sales conversation.
+Traditional lead generation can tell us: *this person engaged.* Sales-Ready can begin to tell us: *this person engaged, and this is what we now know*  -  what they told us, what matters to them, where particular gaps appear, what they have already discovered, what information is likely to be relevant next. And we can give that knowledge to the person who is about to have the sales conversation.
 
-Sales-Ready isn't simply generating leads. It is generating knowledge that makes a lead useful to Sales. That is what makes the lead Sales-Ready.
+Sales-Ready is not simply generating leads. It is generating knowledge that makes a lead useful to Sales. That is what makes the lead Sales-Ready.
 
 ## Better Sales Conversations
 
-The immediate commercial purpose follows naturally: Sales-Ready is a data-driven system for creating better sales conversations. Better doesn't simply mean friendlier or more personalised — it means better informed.
+The immediate commercial purpose follows naturally: Sales-Ready is a data-driven system for creating better sales conversations. Better does not simply mean friendlier or more personalised  -  it means better informed.
 
-The salesperson doesn't need to begin blind. The prospect doesn't need to repeat everything. The seller doesn't need to open with a generic product pitch. Instead of:
+The salesperson does not need to begin blind. The prospect does not need to repeat everything. The seller does not need to open with a generic product pitch. Instead of:
 
 > Let me tell you what we do.
 
@@ -135,7 +135,7 @@ Sales-Ready sits within a larger structure. At its simplest:
 
 **Reveal → Sales-Ready → Leads**
 
-[[Reveal]] is the Domain. Reveal is concerned with surfacing something that isn't otherwise visible by structuring an interaction so that useful information can emerge. Sales-Ready applies that principle to the relationship between buyers and sellers. Leads is one application of Sales-Ready — it uses the approach to create prospects who arrive at Sales with useful knowledge attached.
+[[Reveal]] is the Domain. Reveal is concerned with surfacing something that is not otherwise visible by structuring an interaction so that useful information can emerge. Sales-Ready applies that principle to the relationship between buyers and sellers. Leads is one application of Sales-Ready  -  it uses the approach to create prospects who arrive at Sales with useful knowledge attached.
 
 The distinction matters because Sales-Ready is not limited to lead generation, and Reveal is not limited to Sales-Ready. Each layer is an implementation of the layer above in a more specific context.
 
@@ -143,13 +143,13 @@ The distinction matters because Sales-Ready is not limited to lead generation, a
 
 This hierarchy also explains why the underlying data matters so much. If Sales-Ready Leads were simply an assessment that produced a PDF, its value would largely end when the PDF was produced.
 
-But if the interaction creates structured data, the same information can support other Sales-Ready applications — informing what the prospect sees and learns, what Sales sees and asks, which evidence is presented, which content and solution are relevant, how the opportunity is qualified, and what happens in follow-up. The value compounds as applications use the same knowledge. The data provides the connection.
+But if the interaction creates structured data, the same information can support other Sales-Ready applications  -  informing what the prospect sees and learns, what Sales sees and asks, which evidence is presented, which content and solution are relevant, how the opportunity is qualified, and what happens in follow-up. The value compounds as applications use the same knowledge. The data provides the connection.
 
 ## The Architecture and the Experience
 
 There is a legitimate concern that this larger picture can make a relatively simple Sales-Ready proposition sound unnecessarily complicated. That concern is correct if the entire architecture is presented to every prospect.
 
-Someone interested in generating better leads doesn't need to understand Reveal, the wider Domains model, the data architecture and every possible Sales-Ready application before they can engage. But that is a question of experience, not architecture. The customer doesn't need to understand the whole system. The people building the system do.
+Someone interested in generating better leads does not need to understand Reveal, the wider Domains model, the data architecture and every possible Sales-Ready application before they can engage. But that is a question of experience, not architecture. The customer does not need to understand the whole system. The people building the system do.
 
 Without the larger picture, Sales-Ready can easily be reduced to:
 
@@ -163,17 +163,19 @@ The architecture can be complex. The experience should be simple.
 
 ## Why Language Still Matters
 
-None of this means the terminology surrounding an interaction is unimportant — quite the opposite. Different audiences will respond to different invitations. One Sales-Ready implementation might appropriately be called a Pulse Check. Another might offer a Benchmark. Another might invite someone to Discover Your Gaps. Another might simply ask: *how Sales-Ready are your leads?*
+None of this means the terminology surrounding an interaction is unimportant  -  quite the opposite. Different audiences will respond to different invitations. One Sales-Ready implementation might appropriately be called a Pulse Check. Another might offer a Benchmark. Another might invite someone to Discover Your Gaps. Another might simply ask: *how Sales-Ready are your leads?*
 
-Customers should be able to use language appropriate to their market, audience and proposition. Sales-Ready doesn't need to force them into our terminology. More importantly, we don't need a universal euphemism for assessment. The objective isn't to disguise an assessment. It is to design an interaction worth having.
+Customers should be able to use language appropriate to their market, audience and proposition. Sales-Ready does not need to force them into our terminology. More importantly, we do not need a universal euphemism for assessment. The objective is not to disguise an assessment. It is to design an interaction worth having.
 
 ## Designing the Interaction
 
 This changes the practical question from *how do we get somebody to complete it?* to *what would make somebody want to engage?* That opens a much richer design space.
 
-Curiosity can work. So can comparison. Risk can work. So can opportunity. A prospect might engage because they want to know whether they are missing something, whether they compare well with peers, whether a problem is more serious than they thought, or whether an opportunity exists that they haven't recognised.
+Curiosity can work. So can comparison. Risk can work. So can opportunity. A prospect might engage because they want to know whether they are missing something, whether they compare well with peers, whether a problem is more serious than they thought, or whether an opportunity exists that they have not recognised.
 
-The exact mechanism can change. The principle remains: give someone a credible reason to wonder about their own situation, then provide a useful way to find out. That is the beginning of Reveal.
+The exact mechanism can change. Will change. 
+
+The principle remains: give someone a credible reason to wonder about their own situation, then provide a useful way to find out. That is the beginning of Reveal.
 
 ## What Happens Afterwards Matters Just as Much
 
@@ -191,8 +193,10 @@ Within Sales-Ready Leads, this produces something more useful than a conventiona
 
 ## The Progression
 
-The thinking can finally be reduced to a simple progression:
+In the end, the thinking can be reduced to a simple progression:
 
-An assessment produces a result. An interaction produces engagement. A Reveal interaction produces structured knowledge. Sales-Ready uses that knowledge to improve the sales conversation. Sales-Ready Leads applies that system to creating leads that arrive with knowledge attached.
+An **assessment** produces a **result**. An **interaction** produces **engagement**. A [[01 Structured Thought/00 Glossary/Reveal|Reveal]] interaction produces structured knowledge. Sales-Ready uses that knowledge to improve the sales conversation. Sales-Ready Leads applies that system to creating leads that arrive with knowledge attached.
 
-The original question was: what should we call the assessment? The more useful question turned out to be: what can we know as a result of the interaction, and what can we do differently because we know it? That is the shift from collecting answers to creating intelligence.
+The original question was: what should we call the assessment? The more useful question turned out to be: what can we know as a result of the interaction, and what can we do differently because we know it? 
+
+**That is the shift from collecting answers to creating intelligence.**

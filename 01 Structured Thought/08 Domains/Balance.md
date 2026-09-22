@@ -1,6 +1,6 @@
 ---
 title: Balance
-summary: Domain page for Balance, reading whether an exchange of value still holds, whatever currency it's actually running on.
+summary: Domain page for Balance, reading whether an exchange of value still holds, whatever currency it is actually running on.
 slug: balance
 permalink: /domains/balance/
 type: Domain
@@ -30,17 +30,17 @@ confidence: red
 
 ## What That Means
 
-Every exchange runs between two parties: person to person, person to organisation, organisation to organisation. One side gives something, product, time, effort, attention. The other gives something back, and it doesn't have to be money. Sometimes it's a favour. Sometimes it's trust, access, or a debt called in later. Strip away the labels and every relationship reduces to the same question: is the exchange still worth it to both sides? Most tools only ever price the half that shows up on an invoice. Balance measures the whole exchange.
+Every exchange runs between two parties: person to person, person to organisation, organisation to organisation. One side gives something, product, time, effort, attention. The other gives something back, and it does not have to be money. Sometimes it is a favour. Sometimes it is trust, access, or a debt called in later. Strip away the labels and every relationship reduces to the same question: is the exchange still worth it to both sides? Most tools only ever price the half that shows up on an invoice. Balance measures the whole exchange.
 
 ## The Full Picture
 
 Financial balance is the easy read: input against output, cost against return, priced in money. Every calculator on the market does that math well. Structural balance is harder to see and easier to ignore, the tension between what each party needs and what the other can sustainably give, whatever currency the exchange actually runs on. Left unmeasured, that gap is where relationships quietly die, long after the ledger still looks fine on paper.
 
-Strip away who the parties are and what currency they're trading in, and it's always the same thing: an exchange of value. You don't need a new strategy to fix a Balance problem. You need to see clearly what's actually being exchanged.
+Strip away who the parties are and what currency they are trading in, and it is always the same thing: an exchange of value. You do not need a new strategy to fix a Balance problem. You need to see clearly what is actually being exchanged.
 
 ## How It Fits
 
-Balance is the domain the others resolve into. Pulse tracks how people feel, Reveal shows what's really going on, Assembly builds the relationships, Intelligence supplies the picture, Library holds what's been learned, and Balance is the point where all of it gets tested against one question: does the exchange still hold. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
+Balance is the domain the others resolve into. Pulse tracks how people feel, Reveal shows what is really going on, Assembly builds the relationships, Intelligence supplies the picture, Library holds what is been learned, and Balance is the point where all of it gets tested against one question: does the exchange still hold. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
 
 ## The Definitions
 

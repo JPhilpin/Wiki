@@ -89,7 +89,7 @@ The platform is intentionally modular.
 
 Each application performs a specific role and exports structured data to the next application.
 
-## Application 1 — Individual Engagement Profile
+## Application 1  -  Individual Engagement Profile
 
 ### Purpose
 
@@ -108,7 +108,7 @@ No judgement is made about suitability for any particular project.
 
 ---
 
-## Application 2 — Team Design
+## Application 2  -  Team Design
 
 ### Purpose
 

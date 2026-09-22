@@ -30,17 +30,17 @@ confidence: red
 
 ## What It Means
 
-Reports get filed. Articles get bookmarked. Presentations get shared once and never opened again. The knowledge exists, it's just not findable, not organised, and not connected to anything that would make it useful. That's not a storage problem. It's a structure problem. Library is the place where what an organisation actually knows, not just what it's collected, becomes visible, navigable, and useful to the people who need it.
+Reports get filed. Articles get bookmarked. Presentations get shared once and never opened again. The knowledge exists, it is just not findable, not organised, and not connected to anything that would make it useful. That is not a storage problem. It is a structure problem. Library is the place where what an organisation actually knows, not just what it is collected, becomes visible, navigable, and useful to the people who need it.
 
 ## The Full Picture
 
-Library applies that logic to a domain. Every resource has a reason to be there. Every piece of content earns its place by being genuinely useful to someone trying to do something. The test isn't whether it was worth producing. The test is whether it's worth returning to. When that bar is applied consistently, something changes: the Library stops being a graveyard for past output and starts being a living reference, something people come back to because it reliably gives them what they need. That's the difference between a repository and a resource.
+Library applies that logic to a domain. Every resource has a reason to be there. Every piece of content earns its place by being genuinely useful to someone trying to do something. The test is not whether it was worth producing. The test is whether it is worth returning to. When that bar is applied consistently, something changes: the Library stops being a graveyard for past output and starts being a living reference, something people come back to because it reliably gives them what they need. That is the difference between a repository and a resource.
 
 Without it, every project starts from scratch. With it, the organisation gets smarter over time.
 
 ## How It Fits
 
-Library is the domain that holds what's been learned so nothing has to be rediscovered. Intelligence feeds it a steady supply of what's worth keeping, and Reveal's readings become more useful the second time round when there's a Library record of what the last one found. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
+Library is the domain that holds what is been learned so nothing has to be rediscovered. Intelligence feeds it a steady supply of what is worth keeping, and Reveal's readings become more useful the second time round when there is a Library record of what the last one found. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
 
 ---
 

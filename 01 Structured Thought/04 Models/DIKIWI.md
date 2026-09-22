@@ -40,7 +40,7 @@ DIKIWI extends and modifies the established [[DIKW]] model. DIKW remains a disti
 
 ## DIKW + [[Insight]]
 
-[[Insight]] is not a level in the hierarchy — it is the moment of transition between levels. It is the crack of light when [[Knowledge]] shifts into something that changes how you see.
+[[Insight]] is not a level in the hierarchy  -  it is the moment of transition between levels. It is the crack of light when [[Knowledge]] shifts into something that changes how you see.
 
 The standard DIKW model describes accumulation. [[Insight]] describes the leap. It cannot be manufactured, only enabled - by the right structure, the right question, the right stillness.
 
@@ -50,4 +50,4 @@ Without [[Insight]], [[Knowledge]] stays inert. With it, [[Knowledge]] becomes a
 
 [[Impact]] closes the loop. [[Wisdom]] without action is contemplation. The full model runs from [[Data]] through to outcomes that are **meaningful, measurable, and lasting**.
 
-DIKW tells you what you know. [[Insight]] tells you what it means. [[Impact]] is what you do with it — and whether it actually changed anything.
+DIKW tells you what you know. [[Insight]] tells you what it means. [[Impact]] is what you do with it  -  and whether it actually changed anything.

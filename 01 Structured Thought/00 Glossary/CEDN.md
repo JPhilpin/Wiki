@@ -1,6 +1,6 @@
 ---
 title: CEDN
-summary: "Customer, Experience, Demand, Network — the grouping of terms describing who value is made and moved for."
+summary: "Customer, Experience, Demand, Network  -  the grouping of terms describing who value is made and moved for."
 slug: cedn
 permalink: /glossary/cedn/
 type: glossary
@@ -14,7 +14,7 @@ tags:
 
 # CEDN
 
-Customer, Experience, Demand, Network — the grouping of terms describing who value is made and moved for.
+Customer, Experience, Demand, Network  -  the grouping of terms describing who value is made and moved for.
 
 ## In Structured Thought
 

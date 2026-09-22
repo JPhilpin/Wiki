@@ -23,11 +23,11 @@ aliases: []
 <p><strong>Famous For:</strong> Reality Works Group</p>
 </div>
 
-Anneke Seley was the 12th employee at Oracle and the designer of OracleDirect—the company's revolutionary inside sales organization that grew into a multibillion-dollar global operation. As co-author of *Sales 2.0* (with Britton Manasco), she articulated how the marriage of Web 2.0 technologies with innovative sales processes fundamentally reimagines how companies generate revenue.
+Anneke Seley was the 12th employee at Oracle and the designer of OracleDirect - the company's revolutionary inside sales organisation that grew into a multibillion-dollar global operation. As co-author of *Sales 2.0* (with Britton Manasco), she articulated how the marriage of Web 2.0 technologies with innovative sales processes fundamentally reimagines how companies generate revenue.
 
-Her philosophy: Sales 2.0 is not just technology adoption, but a combination of strategies, processes, people, and mindset that makes selling predictable, measurable, and scalable—while creating a better buying experience for customers. This directly parallels Structured Thinking's core insight: the shift from systems of record to systems of engagement requires rethinking how we connect with and serve people.
+Her philosophy: Sales 2.0 is not just technology adoption, but a combination of strategies, processes, people, and mindset that makes selling predictable, measurable, and scalable - while creating a better buying experience for customers. This directly parallels Structured Thinking's core insight: the shift from systems of record to systems of engagement requires rethinking how we connect with and serve people.
 
-Anneke now runs Reality Works Group, helping 450+ clients build sales organizations grounded in data-driven thinking and customer reality.
+Anneke now runs Reality Works Group, helping 450+ clients build sales organisations grounded in data-driven thinking and customer reality.
 
 ## What Anneke Said About My Book
 

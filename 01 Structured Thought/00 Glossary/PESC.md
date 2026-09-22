@@ -1,6 +1,6 @@
 ---
 title: PESC
-summary: "Producer, Efficient, Supply, Chain — the grouping of terms describing how value gets made and moved."
+summary: "Producer, Efficient, Supply, Chain  -  the grouping of terms describing how value gets made and moved."
 slug: pesc
 permalink: /glossary/pesc/
 type: glossary
@@ -14,7 +14,7 @@ tags:
 
 # PESC
 
-Producer, Efficient, Supply, Chain — the grouping of terms describing how value gets made and moved.
+Producer, Efficient, Supply, Chain  -  the grouping of terms describing how value gets made and moved.
 
 ## In Structured Thought
 

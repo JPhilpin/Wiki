@@ -510,7 +510,7 @@ It is the bridge through which understanding becomes action.
 - [[004 Concepts]]
 - [[005 Principles]]
 - [[007 Frameworks]]
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 

@@ -511,7 +511,7 @@ They reveal how Systems behave, how relationships evolve and how future possibil
 
 Patterns therefore complete the transition from observation to prescience.
 
-The remaining constitutional layer—Composition—will unite every preceding element into a single living Architecture of Knowledge.
+The remaining constitutional layer - Composition - will unite every preceding element into a single living Architecture of Knowledge.
 
 Composition will demonstrate that none of these constitutional layers exists independently.
 
@@ -563,7 +563,7 @@ It is to glimpse what may yet become.
 - [[007 Frameworks]]
 - [[008 Systems]]
 - [[010 Composition]]
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 

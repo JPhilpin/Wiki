@@ -319,7 +319,7 @@ They preserve coherence between discovery and action, between knowledge and wisd
 
 The following constitutional Principles govern Structured Thought and every artefact created within the Studio.
 
-### Principle I — Truth Before Convenience
+### Principle I  -  Truth Before Convenience
 
 Understanding shall seek truth before simplicity, popularity or expedience.
 
@@ -327,7 +327,7 @@ Knowledge must never be intentionally distorted to satisfy preference.
 
 ---
 
-### Principle II — Recognition Before Construction
+### Principle II  -  Recognition Before Construction
 
 Reality must first be recognised before it is organised.
 
@@ -337,7 +337,7 @@ Discovery precedes design.
 
 ---
 
-### Principle III — Coherence Before Complexity
+### Principle III  -  Coherence Before Complexity
 
 Every addition to knowledge should increase coherence rather than complexity.
 
@@ -345,7 +345,7 @@ Complexity without coherence diminishes understanding.
 
 ---
 
-### Principle IV — Relationships Create Meaning
+### Principle IV  -  Relationships Create Meaning
 
 No Primitive, Concept or Model exists in isolation.
 
@@ -355,7 +355,7 @@ Understanding therefore requires both the parts and the whole.
 
 ---
 
-### Principle V — Stewardship Before Ownership
+### Principle V  -  Stewardship Before Ownership
 
 Knowledge is inherited before it is possessed.
 
@@ -365,7 +365,7 @@ The responsibility is to preserve, strengthen and faithfully transmit knowledge 
 
 ---
 
-### Principle VI — Humanity Remains the Constitutional Purpose
+### Principle VI  -  Humanity Remains the Constitutional Purpose
 
 Humanity is the constitutional purpose.
 
@@ -375,7 +375,7 @@ No system, technology or institution may reverse this constitutional order.
 
 ---
 
-### Principle VII — Intelligence Requires Accountability
+### Principle VII  -  Intelligence Requires Accountability
 
 The greater the capability of intelligence, the greater its responsibility.
 
@@ -383,7 +383,7 @@ Capability without accountability is incompatible with constitutional stewardshi
 
 ---
 
-### Principle VIII — Trust Emerges Through Alignment
+### Principle VIII  -  Trust Emerges Through Alignment
 
 Trust is not declared.
 
@@ -393,7 +393,7 @@ Every intelligent system should therefore make its reasoning transparent whereve
 
 ---
 
-### Principle IX — Understanding Must Remain Adaptive
+### Principle IX  -  Understanding Must Remain Adaptive
 
 Principles endure.
 
@@ -403,7 +403,7 @@ The Studio therefore welcomes new evidence while preserving the constitutional P
 
 ---
 
-### Principle X — Knowledge Exists to Improve Human Outcomes
+### Principle X  -  Knowledge Exists to Improve Human Outcomes
 
 Knowledge possesses no intrinsic purpose beyond the value it creates.
 
@@ -449,7 +449,7 @@ With Principles there can be wisdom.
 - [[003 Primitives]]
 - [[004 Concepts]]
 - [[006 Models]]
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 

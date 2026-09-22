@@ -36,7 +36,7 @@ Data sits in a report. The report sits in a folder. Someone asks a question six 
 
 What do people think now? How has that changed? What is driving it? Where is it heading? Every time someone responds to Pulse, they add to a living record. Their answers are timestamped, contextualised, and connected: to their previous responses, to the people around them, to the wider cohort. Over time, fixed questions become trend lines. Individual responses become journeys. Aggregate data becomes organisational intelligence.
 
-Data is the foundation, not the output. From data comes information. From information, knowledge. From knowledge, the understanding to act. That progression isn't something applied after the fact. It's baked into how every Pulse is structured from the start: what's asked, when it's asked, how responses connect across time, and how what matters gets surfaced to the people who need to act on it.
+Data is the foundation, not the output. From data comes information. From information, knowledge. From knowledge, the understanding to act. That progression is not something applied after the fact. It is baked into how every Pulse is structured from the start: what is asked, when it is asked, how responses connect across time, and how what matters gets surfaced to the people who need to act on it.
 
 Pulse surfaces its answers at three levels at once: individual, team, and organisational. Not three separate surveys, one structure that reads at every scale you point it at.
 

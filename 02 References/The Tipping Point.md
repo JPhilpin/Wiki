@@ -88,7 +88,7 @@ aliases: []
 <li>Communicators persuade but need authentic information and distribution.</li>
 </ul>
 
-<p>Together, they create the conditions for an idea to "tip"—to reach critical mass and spread as a social epidemic.</p>
+<p>Together, they create the conditions for an idea to "tip" - to reach critical mass and spread as a social epidemic.</p>
 
 <p><strong>Caveat:</strong> People rarely fit neatly into one category. Most of us carry elements of all three. But individuals tend to gravitate toward one role based on their natural disposition, their position in networks, and the dynamics of those around them.</p>
 
@@ -113,7 +113,7 @@ aliases: []
 
 ## Why This Matters
 
-<p>This model is foundational to **People First** thinking in organisational team building. When you understand these three roles, you stop trying to find one superhero and start orchestrating a triad. You recognize that growth acceleration requires all three, that missing one creates a ceiling.</p>
+<p>This model is foundational to **People First** thinking in organisational team building. When you understand these three roles, you stop trying to find one superhero and start orchestrating a triad. You recognise that growth acceleration requires all three, that missing one creates a ceiling.</p>
 
 </div>
 

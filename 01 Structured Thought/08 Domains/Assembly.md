@@ -34,9 +34,9 @@ A mailing list is not a community. Neither is a LinkedIn group, a Slack workspac
 
 ## The Full Picture
 
-Where the value doesn't depend entirely on your output, because the members are generating their own. Where someone returns not because you published something new, but because there's a conversation they're part of, a person they're meeting, a group that knows them. Most community tools are venues: rooms, channels, discussion threads. What they don't give you is the design logic that makes those rooms worth entering. Who is this for, precisely? What does their best year look like inside this space? What happens every month, every week, every day that makes returning feel worthwhile? Without that architecture, a platform is just an empty building.
+Where the value does not depend entirely on your output, because the members are generating their own. Where someone returns not because you published something new, but because there is a conversation they are part of, a person they are meeting, a group that knows them. Most community tools are venues: rooms, channels, discussion threads. What they do not give you is the design logic that makes those rooms worth entering. Who is this for, precisely? What does their best year look like inside this space? What happens every month, every week, every day that makes returning feel worthwhile? Without that architecture, a platform is just an empty building.
 
-Assembly is the domain that compounds without you. Every connection made, every conversation had, every relationship formed adds value that persists whether or not you show up that day. Intelligence requires curation. Pulse requires questions. Assembly, once it's working, requires participation. The people do the rest.
+Assembly is the domain that compounds without you. Every connection made, every conversation had, every relationship formed adds value that persists whether or not you show up that day. Intelligence requires curation. Pulse requires questions. Assembly, once it is working, requires participation. The people do the rest.
 
 ## How It Fits
 

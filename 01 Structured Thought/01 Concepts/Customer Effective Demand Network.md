@@ -53,7 +53,7 @@ The corresponding producer-side Concept is the **Producer Efficient Supply Chain
 
 **Customer involvement shapes future design** - and the network learns from customers, improving not just what is delivered, but how and why it’s delivered.
 ## Examples in Action
-- **Spotify’s personalised playlists** are shaped by listener behaviour — not just editorial curation.
+- **Spotify’s personalised playlists** are shaped by listener behaviour  -  not just editorial curation.
 - **Amazon’s recommendation engine** reflects demand patterns, not just inventory.
 - **Modular architecture firms** adapt building systems based on regional climate data and citizen input.
 - **Open-source communities** co-develop products alongside the companies that deliver them.

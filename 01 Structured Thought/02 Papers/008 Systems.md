@@ -541,7 +541,7 @@ They create the conditions from which resilience, trust, prosperity and peace ma
 - [[006 Models]]
 - [[007 Frameworks]]
 - [[009 Patterns]]
-- [[Book I — Constitution for Humanity]]
+- [[Book I  -  Constitution for Humanity]]
 
 ---
 
