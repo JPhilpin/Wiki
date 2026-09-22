@@ -9,7 +9,7 @@ tags:
 - start
 ---
 
-![[phi-pin-wordmark.png]]
+![[philpin-logo-lscape-master.jpeg]]
 
 Is the logo just a device, or does it mean something?
 
@@ -29,7 +29,7 @@ Beyond that, this new 'fork in the road' builds on the last 15 years of my work,
 
 **P**eople, **H**umanity and **I**ndividuals converge around **PHI (φ)**, **the mathematical constant that creates 'perfect' proportion**. And **PIN**: in our digital age, nothing matters more than your Personal Identification Number. Lose it, and you vanish from the system.
 
-![PHI⑊PIN](https://philpin.com/resources/logos/philpin-logo-lscape-master.jpeg)
+
 
 ## But why the slash?
 
@@ -37,4 +37,4 @@ The backslash has an inherently technological feel. Visually, it suggests a diff
 
 And then there is also this.
 
-![[phi-pin-square.png]]
+![[philpin-logo-sq-master.jpeg]]
