@@ -1,6 +1,6 @@
 ---
 title: Start Here
-slug: start
+slug: legacy-start
 summary: This is where you can start to get your bearings.
 tags:
   - start

@@ -1,6 +1,6 @@
 ---
 title: About This Wiki
-slug: about
+slug: legacy-about
 summary: An evolving workspace exploring the ideas, people, and patterns behind Structured Thought - where concepts meet practice and thinking grows in public.
 tags:
   - start
