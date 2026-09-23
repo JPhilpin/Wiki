@@ -158,9 +158,9 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## T
 
+- [[TAM]]
 - [[Technology]]
 - [[Things]]
-- [[Total Addressable Market]]
 - [[Transcend]]
 - [[Transform]]
 - [[Transition]]

@@ -1,5 +1,5 @@
 ---
-title: Total Addressable Market
+title: TAM
 summary: The total potential demand for a product or service if the entire relevant market could be served.
 slug: total-addressable-market
 permalink: /glossary/total-addressable-market/
@@ -13,7 +13,7 @@ tags:
   - business
   - tam
 aliases:
-  - TAM
+  - Total Addressable Market
 ---
 
 # Total Addressable Market
