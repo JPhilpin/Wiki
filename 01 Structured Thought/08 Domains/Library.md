@@ -44,4 +44,4 @@ Library is the domain that holds what is been learned so nothing has to be redis
 
 ---
 
-![[© PHI⑊PIN – John Philpin, 1999 - 2026, All rights reserved.]]
+![[eight-domains-diagram.svg]]

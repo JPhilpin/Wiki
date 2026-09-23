@@ -44,4 +44,4 @@ Assembly is the domain that turns an audience into a network. It gives Pulse a r
 
 ---
 
-![[© PHI⑊PIN – John Philpin, 1999 - 2026, All rights reserved.]]
+![[eight-domains-diagram.svg]]

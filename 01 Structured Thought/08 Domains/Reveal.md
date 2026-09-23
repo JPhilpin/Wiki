@@ -46,4 +46,4 @@ Reveal is the domain that removes agreed fiction (an organisation's fiction abou
 
 ---
 
-![[© PHI⑊PIN – John Philpin, 1999 - 2026, All rights reserved.]]
+![[eight-domains-diagram.svg]]

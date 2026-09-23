@@ -44,4 +44,4 @@ Personal is the domain that does not appear on any org chart, and it is also the
 
 ---
 
-![[© PHI⑊PIN – John Philpin, 1999 - 2026, All rights reserved.]]
+![[eight-domains-diagram.svg]]

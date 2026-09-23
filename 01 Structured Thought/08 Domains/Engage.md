@@ -46,4 +46,4 @@ Engage is the domain most of the others quietly depend on without saying so. Ass
 
 ---
 
-![[© PHI⑊PIN – John Philpin, 1999 - 2026, All rights reserved.]]
+![[eight-domains-diagram.svg]]

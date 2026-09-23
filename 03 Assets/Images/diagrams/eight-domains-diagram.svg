@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" viewBox="-200 -35 1200 1180" role="img">
+  <title>PHI/PIN domains diagram: Intelligence, Organisation, five domains, and Assembly around the individual</title>
+  <defs><marker id="eng-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+
+  <g opacity="0.28">
+  <circle cx="40" cy="822" r="190" fill="none" stroke="#C9CDD2" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="40" cy="822" r="100" fill="#C9CDD2" stroke="#C9CDD2" stroke-width="1"/>
+  <circle cx="40" cy="822" r="60" fill="#E8EAED" stroke="#C9CDD2" stroke-width="1"/>
+  <circle cx="40" cy="692" r="30" fill="#C9CDD2"/>
+  <circle cx="40" cy="692" r="18" fill="#E8EAED"/>
+  <circle cx="164" cy="782" r="30" fill="#C9CDD2"/>
+  <circle cx="164" cy="782" r="18" fill="#E8EAED"/>
+  <circle cx="116" cy="927" r="30" fill="#C9CDD2"/>
+  <circle cx="116" cy="927" r="18" fill="#E8EAED"/>
+  <circle cx="-36" cy="927" r="30" fill="#C9CDD2"/>
+  <circle cx="-36" cy="927" r="18" fill="#E8EAED"/>
+  <circle cx="-84" cy="782" r="30" fill="#C9CDD2"/>
+  <circle cx="-84" cy="782" r="18" fill="#E8EAED"/>
+  </g>
+
+  <g opacity="0.28">
+  <circle cx="640" cy="822" r="190" fill="none" stroke="#C9CDD2" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <circle cx="640" cy="822" r="100" fill="#C9CDD2" stroke="#C9CDD2" stroke-width="1"/>
+  <circle cx="640" cy="822" r="60" fill="#E8EAED" stroke="#C9CDD2" stroke-width="1"/>
+  <circle cx="640" cy="692" r="30" fill="#C9CDD2"/>
+  <circle cx="640" cy="692" r="18" fill="#E8EAED"/>
+  <circle cx="764" cy="782" r="30" fill="#C9CDD2"/>
+  <circle cx="764" cy="782" r="18" fill="#E8EAED"/>
+  <circle cx="716" cy="927" r="30" fill="#C9CDD2"/>
+  <circle cx="716" cy="927" r="18" fill="#E8EAED"/>
+  <circle cx="564" cy="927" r="30" fill="#C9CDD2"/>
+  <circle cx="564" cy="927" r="18" fill="#E8EAED"/>
+  <circle cx="516" cy="782" r="30" fill="#C9CDD2"/>
+  <circle cx="516" cy="782" r="18" fill="#E8EAED"/>
+  </g>
+
+  <circle cx="340" cy="750" r="390" fill="none" stroke="#2C4A6E" stroke-width="1.2" stroke-dasharray="3 5"/>
+
+  <ellipse cx="340" cy="298" rx="166" ry="250" fill="none" stroke="#00D4FF" stroke-width="2"/>
+
+  <circle cx="340" cy="360" r="390" fill="none" stroke="#125993" stroke-width="1.5" stroke-dasharray="6 4"/>
+
+  <g>
+  <ellipse cx="340" cy="68" rx="65" ry="28" fill="#125993" stroke="#00D4FF" stroke-width="2.5"/>
+  <text x="340" y="68" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Intelligence</text>
+  </g>
+
+  <line x1="340" y1="96" x2="340" y2="156" stroke="#00D4FF" stroke-width="1.4" marker-end="url(#eng-arrow)"/>
+
+  <g>
+  <circle cx="340" cy="246" r="100" fill="#125993" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="340" y="166" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Engage</text>
+  </g>
+
+  <g>
+  <circle cx="340" cy="246" r="60" fill="#7F2519" stroke="#5A1B12" stroke-width="1.5"/>
+  <text x="340" y="246" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Organisation</text>
+  </g>
+
+  <line x1="294" y1="285" x2="95" y2="500" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="315" y1="300" x2="210" y2="500" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="340" y1="306" x2="340" y2="500" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="365" y1="300" x2="470" y2="500" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="386" y1="285" x2="585" y2="500" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+
+  <g>
+  <rect x="45" y="500" width="100" height="56" rx="8" fill="#125993" stroke="#FFE600" stroke-width="2"/>
+  <text x="95" y="528" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Library</text>
+  </g>
+
+  <g>
+  <rect x="160" y="500" width="100" height="56" rx="8" fill="#125993" stroke="#FF9500" stroke-width="2"/>
+  <text x="210" y="528" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Reveal</text>
+  </g>
+
+  <g>
+  <ellipse cx="340" cy="528" rx="65" ry="28" fill="#125993" stroke="#00D4FF" stroke-width="2.5"/>
+  <text x="340" y="528" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Intelligence</text>
+  </g>
+
+  <g>
+  <rect x="420" y="500" width="100" height="56" rx="8" fill="#125993" stroke="#39FF14" stroke-width="2"/>
+  <text x="470" y="528" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Pulse</text>
+  </g>
+
+  <g>
+  <rect x="535" y="500" width="100" height="56" rx="8" fill="#125993" stroke="#B478FF" stroke-width="2"/>
+  <text x="585" y="528" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Balance</text>
+  </g>
+
+  <circle cx="340" cy="822" r="190" fill="none" stroke="#FF6EFF" stroke-width="1.5" stroke-dasharray="4 4"/>
+
+  <g><circle cx="340" cy="692" r="30" fill="#125993" stroke="#FFFFFF" stroke-width="1.2"/></g>
+  <g><circle cx="340" cy="692" r="18" fill="#FFBF00" stroke="#125993" stroke-width="0.8"/></g>
+
+  <g><circle cx="464" cy="782" r="30" fill="#125993" stroke="#FFFFFF" stroke-width="1.2"/></g>
+  <g><circle cx="464" cy="782" r="18" fill="#FFBF00" stroke="#125993" stroke-width="0.8"/></g>
+
+  <g><circle cx="416" cy="927" r="30" fill="#125993" stroke="#FFFFFF" stroke-width="1.2"/></g>
+  <g><circle cx="416" cy="927" r="18" fill="#FFBF00" stroke="#125993" stroke-width="0.8"/></g>
+
+  <g><circle cx="264" cy="927" r="30" fill="#125993" stroke="#FFFFFF" stroke-width="1.2"/></g>
+  <g><circle cx="264" cy="927" r="18" fill="#FFBF00" stroke="#125993" stroke-width="0.8"/></g>
+
+  <g><circle cx="216" cy="782" r="30" fill="#125993" stroke="#FFFFFF" stroke-width="1.2"/></g>
+  <g><circle cx="216" cy="782" r="18" fill="#FFBF00" stroke="#125993" stroke-width="0.8"/></g>
+
+  <g>
+  <circle cx="340" cy="822" r="100" fill="#125993" stroke="#FFFFFF" stroke-width="2"/>
+  <text x="340" y="902" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Engage</text>
+  </g>
+
+  <g>
+  <circle cx="340" cy="822" r="60" fill="#FFBF00" stroke="#7F2519" stroke-width="1"/>
+  <text x="340" y="822" text-anchor="middle" dominant-baseline="central" fill="#111111" font-weight="700">Individual</text>
+  </g>
+
+  <line x1="294" y1="783" x2="95" y2="556" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="315" y1="768" x2="210" y2="556" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="340" y1="762" x2="340" y2="556" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="365" y1="768" x2="470" y2="556" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+  <line x1="386" y1="783" x2="585" y2="556" stroke="#111111" stroke-width="2.2" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+
+  <text x="340" y="992" text-anchor="middle" fill="#B300B3" font-weight="600">Assembly</text>
+
+  <line x1="340" y1="1052" x2="340" y2="882" stroke="#FF4D9E" stroke-width="1.4" marker-end="url(#eng-arrow)" marker-start="url(#eng-arrow)"/>
+
+  <g>
+  <rect x="275" y="1052" width="130" height="56" rx="8" fill="#125993" stroke="#FF4D9E" stroke-width="2"/>
+  <text x="340" y="1080" text-anchor="middle" dominant-baseline="central" fill="#FFFFFF" font-weight="600">Personal</text>
+  </g>
+  </svg>

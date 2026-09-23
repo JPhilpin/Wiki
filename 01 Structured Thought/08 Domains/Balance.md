@@ -48,4 +48,4 @@ Balance is the domain the others resolve into. Pulse tracks how people feel, Rev
 
 ---
 
-![[© PHI⑊PIN – John Philpin, 1999 - 2026, All rights reserved.]]
+![[eight-domains-diagram.svg]]
