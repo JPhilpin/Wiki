@@ -1,32 +1,19 @@
 ---
 title: "Zone To Win"
-summary: ""
+summary: "Geoffrey Moore's book on how established companies can manage disruption by running their business across four distinct zones."
 slug: zone-to-win
 permalink: /references/zone-to-win/
 type: reference
 kind: book
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-09-24
 aliases: []
-tags: []
+tags:
+  - strategy
+  - transformation
 ---
 
-<div class=" entry-body">
-	
-	<div class="meta-section"> 
-	<strong>Author:</strong> [[Geoffrey Moore|Geoff Moore]]
-	<strong>Famous For:</strong> 
-	<strong>Wikipedia:</strong>
- </div>
+**Author:** [[Geoffrey Moore|Geoff Moore]]
 
-<div class="main-section">
- <div class="image-float image-float--large">
- <img src="https://wiki.philpin.com/Invisibles/_Images/3p-graphics/zone-to-win.png" alt="Mike Maples quote">
- </div>
-
- <p></p>
-
-</div>
-
-</div>
+![[moore-zone-to-win.png]]
