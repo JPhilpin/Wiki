@@ -46,7 +46,7 @@ It is where understanding becomes architecture.
 
 ---
 
-# 1. From Patterns to Composition
+## 1. From Patterns to Composition
 
 Patterns reveal behaviour.
 
@@ -74,7 +74,7 @@ Understanding therefore reaches maturity not when every part has been perfected,
 
 ---
 
-# 2. The Whole Is Greater Than the Sum of Its Parts
+## 2. The Whole Is Greater Than the Sum of Its Parts
 
 One of humanity's oldest observations remains one of its most profound.
 
@@ -116,7 +116,7 @@ None is sufficient alone.
 
 ---
 
-# 3. Composition Creates Meaning
+## 3. Composition Creates Meaning
 
 Meaning does not arise solely from individual Concepts.
 
@@ -148,7 +148,7 @@ Composition therefore represents the constitutional process through which knowle
 
 ---
 
-# 4. Composition and Coherence
+## 4. Composition and Coherence
 
 The defining characteristic of successful Composition is coherence.
 
@@ -178,7 +178,7 @@ It becomes a continually learning whole.
 
 ---
 
-# 5. Composition and Intelligence
+## 5. Composition and Intelligence
 
 Human intelligence naturally composes.
 
@@ -204,7 +204,7 @@ It becomes the constitutional basis for collaborative intelligence itself.
 
 ---
 
-# 6. Composition and Wisdom
+## 6. Composition and Wisdom
 
 Knowledge answers questions.
 
@@ -224,7 +224,7 @@ Its purpose has always been to compose understanding capable of improving human 
 
 ---
 
-# 7. Composition and Stewardship
+## 7. Composition and Stewardship
 
 Composition carries responsibility.
 
@@ -254,7 +254,7 @@ It is to preserve the composition of knowledge.
 
 ---
 
-# 8. Composition and Learning
+## 8. Composition and Learning
 
 Learning is not complete when information has been acquired.
 
@@ -292,7 +292,7 @@ Structured Thought therefore understands education not as the transmission of in
 
 ---
 
-# 9. Composition and Collaboration
+## 9. Composition and Collaboration
 
 No individual composes civilisation alone.
 
@@ -320,7 +320,7 @@ Not conformity.
 
 ---
 
-# 10. Composition and Evolution
+## 10. Composition and Evolution
 
 Composition is never final.
 
@@ -350,7 +350,7 @@ Composition preserves continuity while embracing discovery.
 
 ---
 
-# 11. Composition and the Architecture of Knowledge
+## 11. Composition and the Architecture of Knowledge
 
 Composition reveals that the Architecture of Knowledge is not hierarchical merely for the purpose of classification.
 
@@ -392,7 +392,7 @@ Composition therefore transforms the Architecture of Knowledge from a sequence i
 
 ---
 
-# 12. Composition and Constitutional Purpose
+## 12. Composition and Constitutional Purpose
 
 The constitutional purpose of Composition extends beyond knowledge itself.
 
@@ -416,7 +416,7 @@ Never the reverse.
 
 ---
 
-# 13. Constitutional Characteristics of Composition
+## 13. Constitutional Characteristics of Composition
 
 Within Structured Thought, every Composition should demonstrate the following constitutional characteristics.
 
@@ -496,7 +496,7 @@ It is enabling humanity to think more clearly, collaborate more effectively and 
 
 ---
 
-# 14. Constitutional Responsibilities
+## 14. Constitutional Responsibilities
 
 Those who compose knowledge accept perhaps the greatest constitutional responsibility of all.
 
@@ -526,7 +526,7 @@ It is to faithfully strengthen the living architecture entrusted to our care.
 
 ---
 
-# 15. Composition Within the Architecture of Knowledge
+## 15. Composition Within the Architecture of Knowledge
 
 Composition does not replace the constitutional layers that precede it.
 
@@ -570,7 +570,7 @@ Together they become a coherent whole capable of continual learning, responsible
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 Humanity has always sought understanding.
 
