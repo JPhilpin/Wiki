@@ -39,7 +39,7 @@ This distinction  -  between product and purpose, between feature and function  
 
 Levitt's myopia diagnosis maps directly onto the [[Systems of Record]] vs [[Systems of Engagement]] distinction. Organisations that define themselves by their systems  -  their tools, their processes, their technology  -  are committing exactly the error Levitt described. The system is not the business. The outcome the system enables is the business.
 
-The [[Business Equation]] asks the same question Levitt asked: what is the actual demand you are serving? Not the product. Not the process. The demand.
+The [[The Business Equation|Business Equation]] asks the same question Levitt asked: what is the actual demand you are serving? Not the product. Not the process. The demand.
 
 ## On Globalisation
 

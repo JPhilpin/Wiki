@@ -13,7 +13,7 @@ Run from the vault root:  python3 .github/scripts/ghost_pages.py
 import os, re, collections, datetime
 OUT = "Ghost Pages.md"
 SKIP = ("05 Candidates", "04 Templates", ".git", ".github")
-names, files = set(), []
+names, aliases, files = set(), {}, []  # names = real files/titles; aliases = alias -> page (for near-miss hints only)
 for dp, _, fs in os.walk("."):
     rel = os.path.relpath(dp, ".")
     for f in fs:
@@ -26,18 +26,28 @@ for dp, _, fs in os.walk("."):
             fm = m.group(1)
             tm = re.search(r"^title:\s*(.*)$", fm, re.M)
             if tm: names.add(tm.group(1).strip().strip("\"'").lower())
+            page = os.path.splitext(f)[0]
             am = re.search(r"^aliases:\s*\n((?:\s*-.*\n?)+)", fm, re.M)
             if am:
-                for a in re.findall(r"^\s*-\s*(.+)$", am.group(1), re.M): names.add(a.strip().strip("\"'").lower())
+                for a in re.findall(r"^\s*-\s*(.+)$", am.group(1), re.M): aliases[a.strip().strip("\"'").lower()] = page
         if not p.startswith(SKIP) and f != OUT: files.append((p, t))
-ghosts = collections.defaultdict(set)
+def near_miss(t):
+    """Existing page a broken link probably meant: an alias, or a singular/plural form."""
+    if t in aliases: return aliases[t]
+    for cand in (t[:-3] + "y" if t.endswith("ies") else None, t[:-2] if t.endswith("es") else None, t[:-1] if t.endswith("s") else None, t + "s"):
+        if cand and cand in names: return cand
+    return None
+ghosts, fixes = collections.defaultdict(set), collections.defaultdict(set)
 for p, t in files:
     body = re.sub(r"```.*?```", "", t, flags=re.S)
     body = re.sub(r"`[^`\n]*`", "", body)
     for link in re.findall(r"(?<!!)\[\[([^\]|#^]+)", body):
         target = link.strip()
-        if target and target.split("/")[-1].lower() not in names:
-            ghosts[target].add(os.path.splitext(os.path.basename(p))[0])
+        key = target.split("/")[-1].lower()
+        if target and key not in names:
+            src = os.path.splitext(os.path.basename(p))[0]
+            hit = near_miss(key)
+            (fixes if hit else ghosts)[(target, hit) if hit else target].add(src)
 def is_idea(n): return " " not in n and n == n.lower()
 def section(items):
     out = []
@@ -76,3 +86,5 @@ Single terms linked in passing. Each could grow into a glossary entry.
 """
 open(OUT, "w", encoding="utf-8").write(doc)
 print(f"{OUT}: {len(wanted)} wanted, {len(ideas)} ideas")
+for (t, hit), refs in sorted(fixes.items()):
+    print(f"NEAR-MISS  [[{t}]] probably means '{hit}'  <- {', '.join(sorted(refs))}")

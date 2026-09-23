@@ -357,5 +357,5 @@ It enables organisations to transform people, transition organisations, and tran
 - [[Engagement Profile]]
 - [[Systems of Engagement]]
 - [[Work]]
-- [[Five Ds]]
-- [[Three Ts]]
+- [[The Five Ds|Five Ds]]
+- [[The Three Ts|Three Ts]]

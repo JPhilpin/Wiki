@@ -61,4 +61,4 @@ The corresponding demand-side Concept is the **Customer Effective Demand Network
 
 ## # Bottom Line
 
-While **Producer Efficient Supply Chains** emphasise **control and predictability**, [[Customer Effective Demand Networks]] emphasise **responsiveness and relevance**. Modern businesses often need to **blend both** - but the balance is shifting toward models where engagement, not efficiency, is the [[Strategic Differentiator]].
+While **Producer Efficient Supply Chains** emphasise **control and predictability**, [[Customer Effective Demand Network|Customer Effective Demand Networks]] emphasise **responsiveness and relevance**. Modern businesses often need to **blend both** - but the balance is shifting toward models where engagement, not efficiency, is the [[Strategic Differentiator]].
