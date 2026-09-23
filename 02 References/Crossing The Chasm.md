@@ -4,13 +4,13 @@ summary: "Author: Structured Thinking/ People/Geoffrey Moore Famous For: Wikiped
 slug: crossing-the-chasm
 permalink: /references/crossing-the-chasm/
 type: reference
+kind: book
 reference_type: book
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "books"
 aliases: []
+tags: []
 ---
 
 <div class="entry-body">

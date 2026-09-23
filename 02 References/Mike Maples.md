@@ -4,14 +4,14 @@ summary: "Wikipedia: Floodgate Famous For: Pattern Breakers Mike Maples Jr."
 slug: mike-maples
 permalink: /references/mike-maples/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
 aliases: []
+tags:
+  - author
 ---
 
 <div class="meta-section">

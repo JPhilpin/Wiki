@@ -4,14 +4,14 @@ summary: "Wikipedia: Malcolm Gladwell Famous For: The Tipping Point Malcolm Glad
 slug: malcolm-gladwell
 permalink: /references/malcolm-gladwell/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
 aliases: []
+tags:
+  - author
 ---
 
 <div class="meta-section">

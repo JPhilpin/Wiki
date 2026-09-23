@@ -4,15 +4,16 @@ summary: "Wikipedia: Stewart Brand Famous For: Pace Layers Famous For: Whole Ear
 slug: stewart-brand
 permalink: /references/stewart-brand/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "model-thinker"
 aliases: []
+tags:
+  - author
+  - originator
+  - practitioner
 ---
 
 <div class="meta-section">

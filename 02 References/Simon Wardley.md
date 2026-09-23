@@ -4,14 +4,14 @@ summary: "Wikipedia: Simon Wardley Famous For: Wardley Maps Simon Wardley is a B
 slug: simon-wardley
 permalink: /references/simon-wardley/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "model-thinker"
 aliases: []
+tags:
+  - originator
 ---
 
 <div class="meta-section">

@@ -4,15 +4,15 @@ summary: "Wikipedia: Rishad Tobaccowala Famous For: Advertising & Marketing Famo
 slug: rishad-tobaccowala
 permalink: /references/rishad-tobaccowala/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "podcaster"
 aliases: []
+tags:
+  - author
+  - voice
 ---
 
 <div class="meta-section">

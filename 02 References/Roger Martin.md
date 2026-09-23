@@ -4,15 +4,15 @@ summary: "Wikipedia: Roger Martin Famous For: Integrative Thinking Famous For: T
 slug: roger-martin
 permalink: /references/roger-martin/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "model-thinker"
-  - "author"
 aliases: []
+tags:
+  - author
+  - originator
 ---
 
 <div class="meta-section">

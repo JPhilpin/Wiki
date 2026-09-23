@@ -4,16 +4,16 @@ summary: "Famous For: Structured Thought Famous For: The Business Equation"
 slug: john-philpin
 permalink: /references/john-philpin/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "model-thinker"
-  - "podcaster"
 aliases: []
+tags:
+  - author
+  - originator
+  - voice
 ---
 
 <div class="meta-section">

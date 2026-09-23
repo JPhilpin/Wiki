@@ -4,14 +4,15 @@ summary: "Wikipedia: Prabhat Ranjan Sakar Famous For: The Law of Social Cycle Re
 slug: sakar
 permalink: /references/sakar/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
 aliases: []
+tags:
+  - author
+  - originator
 ---
 
 <div class="meta-section">

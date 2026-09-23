@@ -4,15 +4,16 @@ summary: "Wikipedia: Stowe Boyd Famous For: Coined 'hashtag' (2007) Famous For: 
 slug: stowe-boyd
 permalink: /references/stowe-boyd/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "future-of-work"
 aliases: []
+tags:
+  - author
+  - originator
+  - future-of-work
 ---
 
 <div class="meta-section">

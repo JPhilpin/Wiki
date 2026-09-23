@@ -4,15 +4,16 @@ summary: "Author: Sales 2.0 Author: Next Era Selling Famous For: Oracle Direct/I
 slug: annekeseley
 permalink: /references/annekeseley/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "testimonial"
 aliases: []
+tags:
+  - author
+  - collaborator
+  - practitioner
 ---
 
 <div class="meta-section">

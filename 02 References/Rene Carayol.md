@@ -4,16 +4,14 @@ summary: "Wikipedia: René Carayol Author: SPIKE Author: Corporate Voodoo Author
 slug: renecarayol
 permalink: /references/renecarayol/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "testimonial"
-  - "ren-carayol"
 aliases: []
+tags:
+  - author
 ---
 
 <div class="meta-section">

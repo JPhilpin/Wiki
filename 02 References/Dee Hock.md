@@ -4,14 +4,14 @@ summary: "Wikipedia: Dee Hock Famous For: The Chaordic Organisation Dee Hock fou
 slug: dee-hock
 permalink: /references/dee-hock/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "model-thinker"
 aliases: []
+tags:
+  - originator
 ---
 
 <div class="meta-section">

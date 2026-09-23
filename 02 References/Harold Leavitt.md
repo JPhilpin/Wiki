@@ -4,15 +4,15 @@ summary: "Wikipedia: Harold Leavitt Famous For: People, Process and Technology H
 slug: harold-leavitt
 permalink: /references/harold-leavitt/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "model-thinker"
 aliases:
   - "Leavitt"
+tags:
+  - originator
 ---
 
 <div class="meta-section">

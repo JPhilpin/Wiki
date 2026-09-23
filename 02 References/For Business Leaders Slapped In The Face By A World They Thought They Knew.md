@@ -4,13 +4,13 @@ summary: "The comfortable playbook is broken."
 slug: for-business-leaders
 permalink: /references/for-business-leaders/
 type: reference
+kind: book
 reference_type: book
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "books"
 aliases: []
+tags: []
 ---
 
 <style>

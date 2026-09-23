@@ -4,14 +4,14 @@ summary: "Wikipedia: Dave Snowden Famous For: The Cynefin Framework Dave Snowden
 slug: dave-snowden
 permalink: /references/dave-snowden/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "model-thinker"
 aliases: []
+tags:
+  - originator
 ---
 
 <div class="meta-section">

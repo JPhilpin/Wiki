@@ -4,15 +4,15 @@ summary: "Author: Lessons in Grid Computing: The System Is a Mirror Famous For: 
 slug: stuartrobbins
 permalink: /references/stuartrobbins/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "testimonial"
 aliases: []
+tags:
+  - author
+  - collaborator
 ---
 
 <div class="meta-section">

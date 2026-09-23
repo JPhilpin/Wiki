@@ -4,15 +4,16 @@ summary: "Wikipedia: Theodore Levitt Famous For: Marketing Myopia Famous For: Th
 slug: ted-levitt
 permalink: /references/ted-levitt/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "model-thinker"
-  - "marketing"
 aliases: []
+tags:
+  - author
+  - originator
+  - marketing
 ---
 
 <div class="meta-section">

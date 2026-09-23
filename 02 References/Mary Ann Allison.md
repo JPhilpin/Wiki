@@ -4,15 +4,15 @@ summary: ""
 slug: maryannallison
 permalink: /references/maryannallison/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "testimonial"
 aliases: []
+tags:
+  - collaborator
+  - practitioner
 ---
 
 <div class="meta-section">

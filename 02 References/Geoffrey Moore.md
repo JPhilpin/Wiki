@@ -4,16 +4,16 @@ summary: "Wikipedia: Geoffrey Moore Author: Crossing The Chasm Author: Zone To W
 slug: geoffreymoore
 permalink: /references/geoffreymoore/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - people
-  - author
-  - model-thinker
-  - testimonial
 aliases: []
+tags:
+  - author
+  - originator
+  - collaborator
 ---
 
 <div class="meta-section">

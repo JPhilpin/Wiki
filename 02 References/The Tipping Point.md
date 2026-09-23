@@ -4,13 +4,13 @@ summary: "Author: Malcolm Gladwell Mavens: The Knowledge Accumulators Mavens are
 slug: the-tipping-point
 permalink: /references/the-tipping-point/
 type: reference
+kind: book
 reference_type: book
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "books"
 aliases: []
+tags: []
 ---
 
 <div class="entry-body">

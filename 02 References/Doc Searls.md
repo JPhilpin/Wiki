@@ -4,15 +4,15 @@ summary: "Wikipedia: Doc Searls Author: Cluetrain Manifesto Author: The Intentio
 slug: docsearls
 permalink: /references/docsearls/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "testimonial"
 aliases: []
+tags:
+  - author
+  - collaborator
 ---
 
 <div class="meta-section">

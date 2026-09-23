@@ -4,15 +4,15 @@ summary: "Author: Why Killer Products Don't Sell Famous For: Sales Transformatio
 slug: dominicrowsell
 permalink: /references/dominicrowsell/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
-  - "author"
-  - "testimonial"
 aliases: []
+tags:
+  - author
+  - practitioner
 ---
 
 <div class="meta-section">

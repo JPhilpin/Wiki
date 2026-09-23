@@ -4,13 +4,14 @@ summary: "Wikipedia: Garrett Lisi Famous For: Physics Famous For: E8 Geometry"
 slug: garrett-lisi
 permalink: /references/garrett-lisi/
 type: reference
+kind: person
 reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "people"
 aliases: []
+tags:
+  - originator
 ---
 
 <div class="meta-section">
