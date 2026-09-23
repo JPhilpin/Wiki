@@ -1,28 +1,23 @@
 ---
 title: Pulse
-summary: A recurring measure of sentiment or condition taken over time, revealing trend rather than a single snapshot.
+summary: "Pulse is a recurring set of questions that turns a single answer into a trend, and a group of answers into a picture of where people actually stand."
 slug: pulse
 permalink: /glossary/pulse/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-08-23
+updated: 2026-09-24
 tags: []
 ---
 
-## Other Wiki References
-
-- [Pulse domain page](/domains/pulse/)
+**Domain page:** [Pulse](/domains/pulse/)
+**In general:** a recurring measure of sentiment or condition taken over time, revealing trend rather than a single snapshot.
 
 ## In Structured Thought
 
 Pulse is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Pulse is a recurring set of questions that turns a single answer into a trend, and a group of answers into a picture of where people actually stand.
 
 ### One Paragraph
 

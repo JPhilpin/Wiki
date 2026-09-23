@@ -1,28 +1,23 @@
 ---
 title: Reveal
-summary: To surface something previously hidden, unclear or assumed, making it visible and actionable.
+summary: "Reveal is a set of questions designed to turn what people typically avoid having to see into a clear reading of where they actually stand."
 slug: reveal
 permalink: /glossary/reveal/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-08-23
+updated: 2026-09-24
 tags: []
 ---
 
-## Other Wiki References
-
-- [Reveal domain page](/domains/reveal/)
+**Domain page:** [Reveal](/domains/reveal/)
+**In general:** to surface something previously hidden, unclear or assumed, making it visible and actionable.
 
 ## In Structured Thought
 
 Reveal is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Reveal is a set of questions designed to turn what people typically avoid having to see into a clear reading of where they actually stand.
 
 ### One Paragraph
 

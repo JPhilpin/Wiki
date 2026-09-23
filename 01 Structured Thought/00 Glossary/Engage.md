@@ -1,32 +1,26 @@
 ---
 title: Engage
-summary: To enter into active, attentive and consequential relationship with a person, idea, task or system.
+summary: "Engage is the archetype layer that tells every other domain who it is actually talking to, worked out through structured questions rather than assigned once and left to go stale."
 slug: engage
 permalink: /glossary/engage/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-09-24
 tags: []
 ---
 
 **See also:** [[Engagement]]
+**Domain page:** [Engage](/domains/engage/)
+**In general:** to enter into active, attentive and consequential relationship with a person, idea, task or system.
 
-Engage is the practice; Engagement is what it produces.
-
-## Other Wiki References
-
-- [Engage domain page](/domains/engage/)
+Engage is one of the eight Domains. Engagement is the wider concept at the heart of Systems of Engagement.
 
 ## In Structured Thought
 
 Engage is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Engage is the archetype layer that tells every other domain who it is actually talking to, worked out through structured questions rather than assigned once and left to go stale.
 
 ### One Paragraph
 

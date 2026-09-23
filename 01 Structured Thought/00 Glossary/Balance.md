@@ -1,16 +1,19 @@
 ---
 title: Balance
-summary: Holding competing needs, forces or priorities in productive tension rather than allowing one to dominate by default.
+summary: "Balance seeks to check and confirm whether an exchange of value between two parties still holds, regardless of the currency, cash, favour, trust, time, or anything else, in which that value is exchanged."
 slug: balance
 permalink: /glossary/balance/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-09-13
+updated: 2026-09-24
 tags: []
 aliases:
   - Balanced
 ---
+
+**Domain page:** [Balance](/domains/balance/)
+**In general:** holding competing needs, forces or priorities in productive tension rather than allowing one to dominate by default.
 
 ## Other Wiki References
 
@@ -21,10 +24,6 @@ aliases:
 Balance is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Balance seeks to check and confirm whether an exchange of value between two parties still holds, regardless of the currency, cash, favour, trust, time, or anything else, in which that value is exchanged.
 
 ### One Paragraph
 

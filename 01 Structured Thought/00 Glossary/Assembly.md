@@ -1,32 +1,26 @@
 ---
 title: Assembly
-summary: The bringing together of people or things into a working whole; a gathering formed for connection rather than consumption.
+summary: "Assembly is a structured space where the people in your domain find each other, not just you, so value compounds through relationships instead of broadcasts."
 slug: assembly
 permalink: /glossary/assembly/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-08-23
+updated: 2026-09-24
 tags: []
 ---
 
 **Often confused with:** [[Community]]
+**Domain page:** [Assembly](/domains/assembly/)
+**In general:** the bringing together of people or things into a working whole; a gathering formed for connection rather than consumption.
 
 Often called community. The difference: a community can exist without design; an Assembly is built so that its members find each other, not just you.
-
-## Other Wiki References
-
-- [Assembly domain page](/domains/assembly/)
 
 ## In Structured Thought
 
 Assembly is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Assembly is a structured space where the people in your domain find each other, not just you, so value compounds through relationships instead of broadcasts.
 
 ### One Paragraph
 

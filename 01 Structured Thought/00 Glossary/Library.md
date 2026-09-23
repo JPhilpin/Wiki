@@ -1,28 +1,23 @@
 ---
 title: Library
-summary: "An organised, retrievable collection of knowledge, references or resources maintained for continuing use."
+summary: "Library is where what an organisation actually knows becomes visible and useful, organised so it compounds rather than disappears."
 slug: library
 permalink: /glossary/library/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-09-24
 tags: []
 ---
 
-## Other Wiki References
-
-- [Library domain page](/domains/library/)
+**Domain page:** [Library](/domains/library/)
+**In general:** an organised, retrievable collection of knowledge, references or resources maintained for continuing use.
 
 ## In Structured Thought
 
 Library is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Library is where what an organisation actually knows becomes visible and useful, organised so it compounds rather than disappears.
 
 ### One Paragraph
 

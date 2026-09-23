@@ -1,30 +1,25 @@
 ---
 title: Intelligence
-summary: The capacity to perceive, interpret, learn, reason and act appropriately in context.
+summary: "Intelligence is a curated, continuously updated picture of a domain that turns raw information into the insight that changes how you act."
 slug: intelligence
 permalink: /glossary/intelligence/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-09-24
 tags: []
 aliases:
   - intelligent
 ---
 
-## Other Wiki References
-
-- [Intelligence domain page](/domains/intelligence/)
+**Domain page:** [Intelligence](/domains/intelligence/)
+**In general:** the capacity to perceive, interpret, learn, reason and act appropriately in context.
 
 ## In Structured Thought
 
 Intelligence is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Intelligence is a curated, continuously updated picture of a domain that turns raw information into the insight that changes how you act.
 
 ### One Paragraph
 

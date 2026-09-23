@@ -1,28 +1,23 @@
 ---
 title: Personal
-summary: "Belonging to, or applied to, an individual's own life, choices and practice rather than an organisation's."
+summary: "Personal applies the same domains framework an organisation uses on itself to one person's own life, with the same clarity and the same rigour."
 slug: personal
 permalink: /glossary/personal/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-08-23
+updated: 2026-09-24
 tags: []
 ---
 
-## Other Wiki References
-
-- [Personal domain page](/domains/personal/)
+**Domain page:** [Personal](/domains/personal/)
+**In general:** belonging to, or applied to, an individual's own life, choices and practice rather than an organisation's.
 
 ## In Structured Thought
 
 Personal is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
 
 ## Definitions
-
-### One Sentence
-
-Personal applies the same domains framework an organisation uses on itself to one person's own life, with the same clarity and the same rigour.
 
 ### One Paragraph
 

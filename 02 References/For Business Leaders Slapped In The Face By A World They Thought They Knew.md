@@ -84,7 +84,7 @@ You'll find:
 
 [Amazon (US)](https://www.amazon.com/Business-Leaders-Slapped-World-Thought/dp/1616993863?ref_=ast_author_dp)
 
-## See Also
+## Related
 
 [Testimonials from fellow writers](https://philpin.com/src/galleries/gallery-mybooktestimonials.php)
 
