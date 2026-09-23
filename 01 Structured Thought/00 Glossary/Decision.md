@@ -14,8 +14,6 @@ aliases:
   - decisions
 ---
 
-A decision is a choice between options that commits people, time or resources to a course of action.
-
 ## In Structured Thought
 
 In a [[Customer Effective Demand Network]], decisions are guided by real-time customer insight rather than by internal forecasts or legacy production schedules alone. The quality of a decision therefore depends on the quality of the signals that reach it, and on how quickly they arrive.

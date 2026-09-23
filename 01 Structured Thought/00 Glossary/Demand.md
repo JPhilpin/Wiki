@@ -12,8 +12,6 @@ tags:
   - cedn
 ---
 
-An expressed or latent need, desire or requirement backed by the willingness or necessity to act.
-
 ## In Structured Thought
 
 In a [[Customer Effective Demand Network]], demand leads. Expressed and latent needs are read as signals, and those signals guide what is made, delivered and developed next.

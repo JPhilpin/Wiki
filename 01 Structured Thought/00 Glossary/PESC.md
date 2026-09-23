@@ -11,8 +11,6 @@ tags:
   - pesc
 ---
 
-Producer, Efficient, Supply, Chain: the grouping of terms describing how value gets made and moved.
-
 ## In Structured Thought
 
 PESC names the four terms of the [[Producer Efficient Supply Chain]]. Each is read in relation to the others, and each has an opposite number in [[CEDN]]: PESC and CEDN are mirrors of each other.

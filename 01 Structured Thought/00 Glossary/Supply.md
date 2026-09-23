@@ -12,8 +12,6 @@ tags:
   - pesc
 ---
 
-The capability and flow through which a needed resource, product or service is made available.
-
 ## In Structured Thought
 
 In a [[Producer Efficient Supply Chain]], supply leads. What is made available is decided in advance, from forecasts, contracts and production schedules, and then offered to the market.

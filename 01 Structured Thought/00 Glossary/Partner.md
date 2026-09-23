@@ -14,8 +14,6 @@ aliases:
   - partners
 ---
 
-A partner is a person or organisation that works with another towards a shared outcome, contributing capability and sharing risk or reward.
-
 ## In Structured Thought
 
 In a [[Customer Effective Demand Network]], partners are nodes in the network alongside customers, communities and platforms. Value can flow to and through them in more than one direction, rather than along a single line from supplier to customer.

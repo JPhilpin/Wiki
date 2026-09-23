@@ -14,8 +14,6 @@ aliases:
   - producers
 ---
 
-A person, organisation or system that brings an output, experience or form of value into existence.
-
 ## In Structured Thought
 
 In a [[Producer Efficient Supply Chain]], the producer sits at the start of the chain. It decides what is made, when and how, and value flows outwards from it towards the customer. Planning rests on forecasts, and control is largely central.

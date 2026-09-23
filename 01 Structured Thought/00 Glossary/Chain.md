@@ -14,8 +14,6 @@ aliases:
   - chains
 ---
 
-A sequence of connected elements in which each link enables, constrains or influences what follows.
-
 ## In Structured Thought
 
 In a [[Producer Efficient Supply Chain]], value moves along a chain: producer, supplier, manufacturer, distributor, customer. It flows mostly in one direction, and each link depends on the one before it.

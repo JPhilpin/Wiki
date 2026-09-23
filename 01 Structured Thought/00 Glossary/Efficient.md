@@ -12,8 +12,6 @@ tags:
   - pesc
 ---
 
-Producing an outcome with proportionate use of time, effort, attention and resources.
-
 ## In Structured Thought
 
 In a [[Producer Efficient Supply Chain]], efficiency is the organising goal: less cost, less waste, more throughput. It is measured from the inside, against the producer's own plans and resources.

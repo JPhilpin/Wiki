@@ -14,8 +14,6 @@ aliases:
   - networks
 ---
 
-A set of connected people, nodes or systems through which information, value or influence can flow.
-
 ## In Structured Thought
 
 In a [[Customer Effective Demand Network]], value moves across a network of customers, communities, partners and platforms. It can flow in many directions, and the network adapts as signals and data move through it.

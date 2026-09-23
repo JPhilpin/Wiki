@@ -12,8 +12,6 @@ tags:
   - cedn
 ---
 
-Producing the intended or valuable outcome.
-
 ## In Structured Thought
 
 In a [[Customer Effective Demand Network]], effectiveness is the organising goal: producing the outcome that matters to the customer. It is measured from the outside, by whether the result is relevant and valued.

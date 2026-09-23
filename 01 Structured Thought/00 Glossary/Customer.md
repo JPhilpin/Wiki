@@ -14,8 +14,6 @@ aliases:
   - customers
 ---
 
-A person or organisation that receives, uses or pays for an offered product, service or outcome.
-
 ## In Structured Thought
 
 In a [[Customer Effective Demand Network]], the customer is not simply the end of the line. The customer is a signal source and a co-creator whose needs, behaviour and feedback shape what is made, how it is delivered and what comes next.
