@@ -7,12 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-24
-tags:
-  - market
-  - business
-  - tam
 aliases:
   - Total Addressable Market
+tags:
+  - output
 ---
 
 **Stands for:** Total Addressable Market

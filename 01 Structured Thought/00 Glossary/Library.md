@@ -7,7 +7,8 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-24
-tags: []
+tags:
+  - system
 ---
 
 **Domain page:** [Library](/domains/library/)

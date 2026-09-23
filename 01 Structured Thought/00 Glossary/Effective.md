@@ -8,8 +8,7 @@ status: active
 workflow: crafted
 updated: 2026-09-24
 tags:
-  - quality
-  - cedn
+  - output
 ---
 
 ## In Structured Thought

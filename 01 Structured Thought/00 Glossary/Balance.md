@@ -7,9 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-24
-tags: []
 aliases:
   - Balanced
+tags:
+  - output
 ---
 
 **Domain page:** [Balance](/domains/balance/)

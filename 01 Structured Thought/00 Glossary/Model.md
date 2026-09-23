@@ -8,10 +8,10 @@ class: primitive
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - architecture
 aliases:
   - models
+tags:
+  - system
 ---
 
 A **Model** is a representation of something that helps us understand how it is, behaves, relates or might change.

@@ -7,10 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-07-25
-tags:
-  - design
 aliases:
   - designs
+tags:
+  - process
 ---
 
 ## In Structured Thought

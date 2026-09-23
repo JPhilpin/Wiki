@@ -7,9 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-24
-tags: []
 aliases:
   - intelligent
+tags:
+  - process
 ---
 
 **Domain page:** [Intelligence](/domains/intelligence/)

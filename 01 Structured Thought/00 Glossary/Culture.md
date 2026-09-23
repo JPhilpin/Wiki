@@ -7,10 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-07-25
-tags:
-  - organisation
 aliases:
   - cultures
+tags:
+  - system
 ---
 
 ## In Structured Thought

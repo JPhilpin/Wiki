@@ -8,10 +8,10 @@ class: primitive
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - architecture
 aliases:
   - frameworks
+tags:
+  - system
 ---
 
 A **Framework** is an organising structure that helps us use understanding to analyse, decide or act.

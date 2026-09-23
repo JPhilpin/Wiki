@@ -8,7 +8,7 @@ status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
-  - meaning
+  - purpose
 ---
 
 ## In Structured Thought

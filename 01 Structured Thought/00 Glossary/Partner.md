@@ -7,11 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-24
-tags:
-  - roles
-  - cedn
 aliases:
   - partners
+tags:
+  - input
 ---
 
 ## In Structured Thought

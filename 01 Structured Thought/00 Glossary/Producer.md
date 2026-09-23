@@ -7,11 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-24
-tags:
-  - roles
-  - pesc
 aliases:
   - producers
+tags:
+  - input
 ---
 
 ## In Structured Thought

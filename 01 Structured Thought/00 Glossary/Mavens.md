@@ -7,10 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-07-25
-tags:
-  - roles
 aliases:
   - Maven
+tags:
+  - input
 ---
 
 ## In Structured Thought
