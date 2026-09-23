@@ -31,7 +31,7 @@ This page is a Studio stub. It exists so relationships can be recorded before th
 
 ### Related
 
-- [[The World We Inherit]]
+- [[000 The World We Inherit|The World We Inherit]]
 - [[Stewardship]]
 
 ## Relationship to DIKW

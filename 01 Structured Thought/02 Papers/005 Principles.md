@@ -447,7 +447,7 @@ With Principles there can be wisdom.
 # Related Concepts
 
 - [[002 The Architecture of Knowledge]]
-- [[003 Primitives]]
+- [[003 The Architecture of Concepts|Primitives]]
 - [[004 Concepts]]
 - [[006 Models]]
 - [[Book I  -  Constitution for Humanity]]

@@ -615,9 +615,9 @@ It is humanity's continuing invitation to recognise, preserve, protect and compo
 # Related Concepts
 
 - [[000 The World We Inherit]]
-- [[001 Structured Thought]]
+- [[001 From Information to Understanding|From Information to Understanding]]
 - [[002 The Architecture of Knowledge]]
-- [[003 Primitives]]
+- [[003 The Architecture of Concepts|Primitives]]
 - [[004 Concepts]]
 - [[005 Principles]]
 - [[006 Models]]

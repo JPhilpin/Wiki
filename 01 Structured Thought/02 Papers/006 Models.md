@@ -509,7 +509,7 @@ It is the bridge through which understanding becomes action.
 
 # Related Concepts
 
-- [[003 Primitives]]
+- [[003 The Architecture of Concepts|Primitives]]
 - [[004 Concepts]]
 - [[005 Principles]]
 - [[007 Frameworks]]
