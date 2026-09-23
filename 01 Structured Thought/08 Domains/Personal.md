@@ -15,11 +15,8 @@ aliases: []
 confidence: red
 ---
 
-[Glossary](/glossary/personal/)
-
-# Personal
-
-🔴 written - not read
+**Glossary definition:** [Personal](/glossary/personal/)
+**Status:** 🔴 written - not read
 
 > [!quote] Every framework applies to organisations. This one applies to you.
 

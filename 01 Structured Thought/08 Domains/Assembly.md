@@ -15,11 +15,8 @@ aliases: []
 confidence: red
 ---
 
-[Glossary](/glossary/assembly/)
-
-# Assembly
-
-🔴 written - not read
+**Glossary definition:** [Assembly](/glossary/assembly/)
+**Status:** 🔴 written - not read
 
 > [!quote] You already have an audience. The question is whether they have each other.
 

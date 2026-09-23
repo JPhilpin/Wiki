@@ -15,11 +15,8 @@ aliases: []
 confidence: amber
 ---
 
-[Glossary](/glossary/pulse/)
-
-# Pulse
-
-🟠 read - not reviewed
+**Glossary definition:** [Pulse](/glossary/pulse/)
+**Status:** 🟠 read - not reviewed
 
 > [!quote] You already collect data. The problem is not the collection. It is what happens next.
 

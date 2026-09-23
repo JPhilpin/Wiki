@@ -15,11 +15,8 @@ aliases: []
 confidence: red
 ---
 
-[Glossary](/glossary/library/)
-
-# Library
-
-🔴 written - not read
+**Glossary definition:** [Library](/glossary/library/)
+**Status:** 🔴 written - not read
 
 > [!quote] Most knowledge disappears the moment the meeting ends.
 

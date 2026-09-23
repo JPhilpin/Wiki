@@ -15,11 +15,8 @@ aliases: []
 confidence: amber
 ---
 
-[Glossary](/glossary/reveal/)
-
-# Reveal
-
-🟠 read - not reviewed
+**Glossary definition:** [Reveal](/glossary/reveal/)
+**Status:** 🟠 read - not reviewed
 
 > [!quote] You already know something is wrong. The question is whether you know what.
 

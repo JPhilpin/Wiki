@@ -15,11 +15,8 @@ aliases: []
 confidence: red
 ---
 
-[Glossary](/glossary/intelligence/)
-
-# Intelligence
-
-🔴 written - not read
+**Glossary definition:** [Intelligence](/glossary/intelligence/)
+**Status:** 🔴 written - not read
 
 > [!quote] You are not suffering from a lack of information. You are drowning in it.
 

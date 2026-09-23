@@ -15,11 +15,8 @@ aliases: []
 confidence: red
 ---
 
-[Glossary](/glossary/engage/)
-
-# Engage
-
-🔴 written - not read
+**Glossary definition:** [Engage](/glossary/engage/)
+**Status:** 🔴 written - not read
 
 > [!warning] First draft, built entirely from conversation, not harvested from any existing published page. Treat everything below as rougher than the other seven domains until reviewed.
 

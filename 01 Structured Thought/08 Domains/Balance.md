@@ -15,10 +15,7 @@ aliases: []
 confidence: red
 ---
 
-[Glossary](/glossary/balance/)
-
-# Balance
-
+**Glossary definition:** [Balance](/glossary/balance/)
 > [!quote] Where value given and value returned settle their account.
 
 > [!question] You might think it's...
