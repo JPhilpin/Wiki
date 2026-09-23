@@ -52,6 +52,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 - [[Data]]
 - [[Decide]]
+- [[Decision]]
 - [[Deliver]]
 - [[Demand]]
 - [[Deploy]]
@@ -127,11 +128,13 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## P
 
+- [[Partner]]
 - [[People]]
 - [[Performance]]
 - [[Personal]]
 - [[PESC]]
 - [[Place]]
+- [[Platform]]
 - [[Practical]]
 - [[Price]]
 - [[Process]]

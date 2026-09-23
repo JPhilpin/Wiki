@@ -43,11 +43,11 @@ The corresponding producer-side Concept is the **Producer Efficient Supply Chain
 ## Additional characteristics and examples
 
 ## Key Characteristics
-**Demand-led, not supply-driven** - [[decisions]] are guided by real-time customer insight, not just internal forecasts or legacy production schedules.
+**Demand-led, not supply-driven** - [[Decision|decisions]] are guided by real-time customer insight, not just internal forecasts or legacy production schedules.
 
 **Multi-directional value flow** - [[Value]] doesn’t just move from company to customer. Customers influence, co-create, and redistribute value across the network.
 
-**Decentralized and adaptive** - not one central supplier controlling everything, multiple nodes ([[partners]], [[platforms]], [[Community|communities]], and [[Customer|customers]]) interact dynamically.
+**Decentralized and adaptive** - not one central supplier controlling everything, multiple nodes ([[Partner|partners]], [[Platform|platforms]], [[Community|communities]], and [[Customer|customers]]) interact dynamically.
 
 **Data as connective tissue** so that real-time signals (usage data, feedback, market shifts) flow across the network, continuously adjusting offerings, messaging, and experience.
 

@@ -11,7 +11,7 @@ tags:
 
 <nav class="studio-listnav"><a href="/entries-list-alphabetical">Entries A to Z</a><a href="/entries-list-most-recent">Recent changes</a><a href="/tags-list-alphabetical">Tags A to Z</a><a href="/types-list">Types A to Z</a><a href="/ghost-pages" class="is-current">Ghost pages</a></nav>
 
-Pages that other pages link to, but that have not been written yet. 3 wanted and 3 ideas, most-linked first. Generated from the vault on 24 September 2026.
+Pages that other pages link to, but that have not been written yet. 3 wanted and 0 ideas, most-linked first. Generated from the vault on 24 September 2026.
 
 ## Wanted
 
@@ -25,6 +25,4 @@ Pages the Studio clearly means to have.
 
 Single terms linked in passing. Each could grow into a glossary entry.
 
-- **decisions** (1) - linked from [[Customer Effective Demand Network]]
-- **partners** (1) - linked from [[Customer Effective Demand Network]]
-- **platforms** (1) - linked from [[Customer Effective Demand Network]]
+None right now.
