@@ -1,6 +1,6 @@
 ---
 title: Studio Constitution
-type: Constitution
+type: foundation
 status: active
 collection: Studio Operations
 owner: John Philpin

@@ -1,6 +1,6 @@
 ---
 title: Engagement Profile
-type: Application
+type: pattern
 status: stub
 collection: Structured Thought
 owner: John Philpin

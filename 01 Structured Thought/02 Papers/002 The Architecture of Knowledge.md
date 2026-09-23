@@ -1,7 +1,7 @@
 ---
 title: The Architecture of Knowledge
 paper: 002
-type: canonical-paper
+type: paper
 status: draft-for-review
 studio_version: "0.4"
 version: "1.0"

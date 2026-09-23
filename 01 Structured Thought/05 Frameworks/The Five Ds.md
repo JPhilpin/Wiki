@@ -1,6 +1,6 @@
 ---
 title: The Five Ds
-type: Framework
+type: framework
 status: active
 collection: Structured Thought
 owner: John Philpin

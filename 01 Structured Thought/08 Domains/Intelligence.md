@@ -3,7 +3,7 @@ title: Intelligence
 summary: Domain page for Intelligence, a curated, continuously updated picture of a domain that turns information into the insight that changes how you act.
 slug: intelligence
 permalink: /domains/intelligence/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

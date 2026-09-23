@@ -3,7 +3,7 @@ title: About
 summary: Why the Studio exists, how it is built, and how to get in touch.
 slug: about
 permalink: /about
-type: page
+type: foundation
 status: draft
 tags:
 - start

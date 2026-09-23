@@ -1,6 +1,6 @@
 ---
 title: Stewardship
-type: Principle
+type: principle
 status: stub
 collection: Structured Thought
 owner: John Philpin

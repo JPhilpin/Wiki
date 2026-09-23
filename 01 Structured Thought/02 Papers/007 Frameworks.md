@@ -1,7 +1,7 @@
 ---
 title: Frameworks
 paper: 007
-type: constitutional-paper
+type: paper
 status: canonical
 version: 1.0
 studio: STUDIO

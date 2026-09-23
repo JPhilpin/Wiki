@@ -3,7 +3,7 @@ paper: 4
 status: draft-for-review
 studio_version: 0.4
 title: Concepts
-type: canonical-paper
+type: paper
 version: 1.0
 permalink: /papers/concepts/
 tags:

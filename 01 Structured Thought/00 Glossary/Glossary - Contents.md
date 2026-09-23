@@ -160,6 +160,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 - [[Technology]]
 - [[Things]]
+- [[Total Addressable Market]]
 - [[Transcend]]
 - [[Transform]]
 - [[Transition]]

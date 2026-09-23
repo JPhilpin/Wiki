@@ -3,7 +3,7 @@ title: Engage
 summary: Domain page for Engage, the archetype layer that tells every other domain who it is actually talking to.
 slug: engage
 permalink: /domains/engage/
-type: Domain
+type: domain
 status: draft
 workflow: created
 version: '0.1'

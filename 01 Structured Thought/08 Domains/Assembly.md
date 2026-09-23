@@ -3,7 +3,7 @@ title: Assembly
 summary: Domain page for Assembly, a structured space where the people in your domain find each other, not just you.
 slug: assembly
 permalink: /domains/assembly/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

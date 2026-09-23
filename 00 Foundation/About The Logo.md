@@ -3,7 +3,7 @@ title: About The Logo
 summary: The genesis of the PHI⑊PIN logo. (A little bit of fun.)
 slug: logo
 permalink: /logo
-type: page
+type: foundation
 status: active
 tags:
 - start

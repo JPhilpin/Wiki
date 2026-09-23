@@ -1,6 +1,6 @@
 ---
 title: The Three Ts
-type: Framework
+type: framework
 status: active
 collection: Structured Thought
 owner: John Philpin

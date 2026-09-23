@@ -3,7 +3,7 @@ title: Personal
 summary: Domain page for Personal, applying the domains framework to your own life with the same rigour you'd bring to a client engagement.
 slug: personal
 permalink: /domains/personal/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

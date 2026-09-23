@@ -1,7 +1,7 @@
 ---
 title: Composition
 paper: 010
-type: constitutional-paper
+type: paper
 status: canonical
 version: 1.0
 studio: STUDIO

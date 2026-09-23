@@ -3,7 +3,7 @@ title: Balance
 summary: Domain page for Balance, reading whether an exchange of value still holds, whatever currency it is actually running on.
 slug: balance
 permalink: /domains/balance/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

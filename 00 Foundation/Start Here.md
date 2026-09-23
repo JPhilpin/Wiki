@@ -3,7 +3,7 @@ title: Start Here
 summary: A short reading path through the Studio, in the order the ideas build on each other.
 slug: start
 permalink: /start
-type: page
+type: foundation
 status: draft
 tags:
 - start

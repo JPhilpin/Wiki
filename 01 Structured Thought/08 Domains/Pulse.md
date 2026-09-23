@@ -3,7 +3,7 @@ title: Pulse
 summary: Domain page for Pulse, a structured recurring engagement that tracks what people think over time, not just once.
 slug: pulse
 permalink: /domains/pulse/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

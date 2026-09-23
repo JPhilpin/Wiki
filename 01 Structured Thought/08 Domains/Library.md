@@ -3,7 +3,7 @@ title: Library
 summary: Domain page for Library, curated resources and accumulated thinking organised so they compound rather than disappear.
 slug: library
 permalink: /domains/library/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

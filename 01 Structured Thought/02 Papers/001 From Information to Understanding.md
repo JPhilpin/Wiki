@@ -1,6 +1,6 @@
 ---
 title: 001 From Information to Understanding
-type: Paper
+type: paper
 status: definitive-draft
 collection: Structured Thought
 owner: John Philpin

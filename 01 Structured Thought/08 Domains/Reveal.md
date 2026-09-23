@@ -3,7 +3,7 @@ title: Reveal
 summary: Domain page for Reveal, a fixed set of questions that turns what people have avoided seeing into a clear reading of where they actually stand.
 slug: reveal
 permalink: /domains/reveal/
-type: Domain
+type: domain
 status: draft
 workflow: crafted
 version: '0.3'

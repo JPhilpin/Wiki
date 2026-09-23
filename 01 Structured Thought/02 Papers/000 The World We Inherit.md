@@ -1,6 +1,6 @@
 ---
 title: 000 The World We Inherit
-type: Paper
+type: paper
 status: definitive-draft
 collection: Structured Thought
 owner: John Philpin

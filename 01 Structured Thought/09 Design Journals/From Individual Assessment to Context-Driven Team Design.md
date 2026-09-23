@@ -1,6 +1,6 @@
 ---
 title: From Individual Assessment to Context-Driven Team Design
-type: Design Journal
+type: design-journal
 status: working
 collection: Structured Thought
 owner: John Philpin

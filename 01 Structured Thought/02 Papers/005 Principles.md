@@ -1,7 +1,7 @@
 ---
 title: Principles
 paper: 005
-type: constitutional-paper
+type: paper
 status: canonical
 version: 1.0
 studio: STUDIO

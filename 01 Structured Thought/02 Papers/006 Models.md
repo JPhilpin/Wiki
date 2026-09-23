@@ -1,7 +1,7 @@
 ---
 title: Models
 paper: 006
-type: constitutional-paper
+type: paper
 status: canonical
 version: 1.0
 studio: STUDIO

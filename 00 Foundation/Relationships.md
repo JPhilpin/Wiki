@@ -3,7 +3,7 @@ title: Relationships
 summary: Rules for linking and declaring meaningful relationships between elements of Structured Thought.
 slug: relationships
 permalink: /foundation/relationships/
-type: architecture
+type: foundation
 status: review
 workflow: crafted
 updated: 2026-08-23

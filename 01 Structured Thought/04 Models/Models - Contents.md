@@ -11,7 +11,7 @@ tags:
 
 Models for seeing how things fit together, some original and some borrowed.
 
-7 pages.
+6 pages.
 
 - **[[Diamond Model]]**
 - **[[DIKIWI]]** - A Structured Thought extension of DIKW that makes Insight and Impact explicit in the movement from information towards consequential action.
@@ -19,4 +19,3 @@ Models for seeing how things fit together, some original and some borrowed.
 - **[[Pace Layers]]**
 - **[[TAM - SAM - SOM|TAM / SAM / SOM]]** - A market opportunity model that distinguishes total, serviceable and realistically obtainable demand.
 - **[[Future World|The Future World Model]]**
-- **[[Total Addressable Market]]** - The total potential demand for a product or service if the entire relevant market could be served.

@@ -1,6 +1,6 @@
 ---
 title: Context Before Personality
-type: Design Journal
+type: design-journal
 status: working
 collection: Structured Thought
 owner: John Philpin
