@@ -4,6 +4,7 @@ summary: An organising structure that helps us use understanding to analyse, dec
 slug: framework
 permalink: /glossary/framework/
 type: glossary
+kind: term
 class: primitive
 status: active
 workflow: crafted

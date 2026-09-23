@@ -4,6 +4,7 @@ summary: "A mode of contribution that helps others make better decisions through
 slug: advisory
 permalink: /glossary/advisory/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

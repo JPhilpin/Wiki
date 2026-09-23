@@ -4,6 +4,7 @@ summary: "A durable representation of an event, decision, observation or state p
 slug: record
 permalink: /glossary/record/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

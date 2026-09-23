@@ -4,6 +4,7 @@ summary: "A coordinated arrangement of people, roles, resources and practices fo
 slug: organisation
 permalink: /glossary/organisation/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

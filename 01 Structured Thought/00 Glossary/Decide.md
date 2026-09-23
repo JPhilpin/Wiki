@@ -4,6 +4,7 @@ summary: "To convert consideration into commitment by selecting a course, positi
 slug: decide
 permalink: /glossary/decide/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

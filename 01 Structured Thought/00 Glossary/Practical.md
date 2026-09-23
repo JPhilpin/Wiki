@@ -4,6 +4,7 @@ summary: "Grounded in real conditions and capable of being applied to produce a 
 slug: practical
 permalink: /glossary/practical/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

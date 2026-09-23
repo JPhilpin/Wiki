@@ -4,6 +4,7 @@ summary: A representation of something that helps us understand how it is, behav
 slug: model
 permalink: /glossary/model/
 type: glossary
+kind: term
 class: primitive
 status: active
 workflow: crafted

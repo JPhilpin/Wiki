@@ -4,6 +4,8 @@ summary: "The capability and flow through which a needed resource, product or se
 slug: supply
 permalink: /glossary/supply/
 type: glossary
+kind: term
+part_of: PESC
 status: active
 workflow: crafted
 updated: 2026-09-24

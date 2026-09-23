@@ -11,6 +11,12 @@ tags: []
 The working vocabulary of Structured Thought: short definitions of the terms used across the Studio.
 
 
+## Acronyms
+
+- **[[CEDN]]** - Customer, Effective, Demand, Network: the grouping of terms describing who value is made and moved for.
+- **[[PESC]]** - Producer, Efficient, Supply, Chain: the grouping of terms describing how value gets made and moved.
+- **[[TAM]]** - The total potential demand for a product or service if the entire relevant market could be served.
+
 ## A
 
 - [[Accountable]]
@@ -27,7 +33,6 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 ## C
 
 - [[Capability]]
-- [[CEDN]]
 - [[Chain]]
 - [[Change]]
 - [[Choice]]
@@ -131,7 +136,6 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 - [[People]]
 - [[Performance]]
 - [[Personal]]
-- [[PESC]]
 - [[Place]]
 - [[Platform]]
 - [[Practical]]
@@ -160,7 +164,6 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## T
 
-- [[TAM]]
 - [[Technology]]
 - [[Things]]
 - [[Transcend]]

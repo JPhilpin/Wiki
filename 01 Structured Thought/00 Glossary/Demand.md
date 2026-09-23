@@ -4,6 +4,8 @@ summary: "An expressed or latent need, desire or requirement backed by the willi
 slug: demand
 permalink: /glossary/demand/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

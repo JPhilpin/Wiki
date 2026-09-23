@@ -4,6 +4,7 @@ summary: "A person or mechanism that carries meaning between languages, discipli
 slug: translator
 permalink: /glossary/translator/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

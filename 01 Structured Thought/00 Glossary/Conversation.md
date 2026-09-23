@@ -4,6 +4,7 @@ summary: "A reciprocal exchange through which people test meaning, build underst
 slug: conversation
 permalink: /glossary/conversation/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

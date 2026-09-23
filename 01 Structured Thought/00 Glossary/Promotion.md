@@ -4,6 +4,7 @@ summary: "The work of making an idea, offer or achievement visible, understandab
 slug: promotion
 permalink: /glossary/promotion/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

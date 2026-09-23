@@ -4,6 +4,7 @@ summary: "A deliberate selection among available possibilities, including the de
 slug: choice
 permalink: /glossary/choice/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "An increase in capacity, understanding, reach, resilience or value ove
 slug: growth
 permalink: /glossary/growth/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,8 @@ summary: "A group connected by place, purpose, identity, practice, relationship 
 slug: community
 permalink: /glossary/community/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-07-25

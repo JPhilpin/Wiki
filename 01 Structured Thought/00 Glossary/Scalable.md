@@ -4,6 +4,7 @@ summary: "Able to increase or decrease in reach, volume or complexity without lo
 slug: scalable
 permalink: /glossary/scalable/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

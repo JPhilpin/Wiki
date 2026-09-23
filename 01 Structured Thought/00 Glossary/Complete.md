@@ -4,6 +4,7 @@ summary: "Sufficiently whole for its intended purpose, with all essential elemen
 slug: complete
 permalink: /glossary/complete/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

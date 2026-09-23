@@ -4,6 +4,7 @@ summary: "A physical, social or conceptual context made meaningful through locat
 slug: place
 permalink: /glossary/place/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

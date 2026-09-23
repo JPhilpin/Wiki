@@ -4,6 +4,7 @@ summary: "The practice of creating direction, conditions and confidence that hel
 slug: leadership
 permalink: /glossary/leadership/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

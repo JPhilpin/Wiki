@@ -4,6 +4,7 @@ summary: "Obliged and prepared to act with appropriate care for a task, relation
 slug: responsible
 permalink: /glossary/responsible/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

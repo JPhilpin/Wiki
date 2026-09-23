@@ -4,6 +4,7 @@ summary: "The practical application of knowledge through tools, methods and syst
 slug: technology
 permalink: /glossary/technology/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,8 @@ summary: "A set of connected people, nodes or systems through which information,
 slug: network
 permalink: /glossary/network/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

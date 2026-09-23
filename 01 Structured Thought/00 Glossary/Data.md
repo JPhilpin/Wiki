@@ -4,6 +4,7 @@ summary: "Recorded observations, measurements or symbols that can be interpreted
 slug: data
 permalink: /glossary/data/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

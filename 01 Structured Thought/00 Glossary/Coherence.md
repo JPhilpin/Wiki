@@ -4,6 +4,7 @@ summary: "The quality of parts fitting together in a way that is internally cons
 slug: coherence
 permalink: /glossary/coherence/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "A defined promise of value made available to a particular person, grou
 slug: offer
 permalink: /glossary/offer/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "A meaningful difference between one state and another, whether chosen,
 slug: change
 permalink: /glossary/change/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

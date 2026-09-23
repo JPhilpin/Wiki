@@ -4,6 +4,7 @@ summary: "The demonstrated ability to produce a desired outcome by combining kno
 slug: capability
 permalink: /glossary/capability/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

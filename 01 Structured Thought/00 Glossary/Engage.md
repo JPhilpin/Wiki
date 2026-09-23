@@ -4,6 +4,7 @@ summary: "Engage is the archetype layer that tells every other domain who it is 
 slug: engage
 permalink: /glossary/engage/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

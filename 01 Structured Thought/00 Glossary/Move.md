@@ -4,6 +4,7 @@ summary: "To change position, state or momentum through action."
 slug: move
 permalink: /glossary/move/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

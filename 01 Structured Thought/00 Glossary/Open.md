@@ -4,6 +4,7 @@ summary: "Accessible and receptive to participation, evidence, possibility or ch
 slug: open
 permalink: /glossary/open/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

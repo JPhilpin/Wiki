@@ -4,6 +4,7 @@ summary: "Distinct entities, artefacts or objects treated as units within a part
 slug: things
 permalink: /glossary/things/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

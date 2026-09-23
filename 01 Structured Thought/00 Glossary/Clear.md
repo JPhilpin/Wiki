@@ -4,6 +4,7 @@ summary: "Easy to understand, distinguish or act upon because unnecessary ambigu
 slug: clear
 permalink: /glossary/clear/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

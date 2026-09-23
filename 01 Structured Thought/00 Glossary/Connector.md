@@ -4,6 +4,7 @@ summary: "A person, role or mechanism that creates useful relationships between 
 slug: connector
 permalink: /glossary/connector/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

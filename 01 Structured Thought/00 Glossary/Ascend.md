@@ -4,6 +4,7 @@ summary: "To move towards a higher level of capability, understanding, responsib
 slug: ascend
 permalink: /glossary/ascend/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

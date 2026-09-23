@@ -4,6 +4,7 @@ summary: "To increase maturity, capability or usefulness through deliberate lear
 slug: develop
 permalink: /glossary/develop/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

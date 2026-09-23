@@ -4,6 +4,8 @@ summary: "A person, organisation or system that brings an output, experience or 
 slug: producer
 permalink: /glossary/producer/
 type: glossary
+kind: term
+part_of: PESC
 status: active
 workflow: crafted
 updated: 2026-09-24

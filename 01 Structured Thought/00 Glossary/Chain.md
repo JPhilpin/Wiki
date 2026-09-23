@@ -4,6 +4,8 @@ summary: "A sequence of connected elements in which each link enables, constrain
 slug: chain
 permalink: /glossary/chain/
 type: glossary
+kind: term
+part_of: PESC
 status: active
 workflow: crafted
 updated: 2026-09-24

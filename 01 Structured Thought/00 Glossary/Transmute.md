@@ -4,6 +4,7 @@ summary: "To convert something into a qualitatively different form, often by rew
 slug: transmute
 permalink: /glossary/transmute/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

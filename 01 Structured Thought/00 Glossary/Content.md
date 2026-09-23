@@ -4,6 +4,7 @@ summary: "The substance carried by a medium: the ideas, information, experiences
 slug: content
 permalink: /glossary/content/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

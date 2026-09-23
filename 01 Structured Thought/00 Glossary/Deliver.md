@@ -4,6 +4,7 @@ summary: "To turn a promise, intention or design into an outcome that reaches th
 slug: deliver
 permalink: /glossary/deliver/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "A coherent set of choices about where to act, how to create advantage 
 slug: strategy
 permalink: /glossary/strategy/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "To encounter, reveal or recognise something that was previously unknow
 slug: discover
 permalink: /glossary/discover/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

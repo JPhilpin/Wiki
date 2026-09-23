@@ -4,6 +4,7 @@ summary: "The organised exchange of value through relationships, markets, produc
 slug: commerce
 permalink: /glossary/commerce/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

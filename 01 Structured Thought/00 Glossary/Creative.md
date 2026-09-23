@@ -4,6 +4,7 @@ summary: "Able to bring new and useful possibilities into being by combining ima
 slug: creative
 permalink: /glossary/creative/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

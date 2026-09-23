@@ -4,6 +4,7 @@ summary: "The intentional shaping of relationships, structures and experiences t
 slug: design
 permalink: /glossary/design/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

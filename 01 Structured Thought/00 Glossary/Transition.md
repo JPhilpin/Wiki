@@ -4,6 +4,7 @@ summary: "The managed or emergent passage from one state, identity or operating 
 slug: transition
 permalink: /glossary/transition/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

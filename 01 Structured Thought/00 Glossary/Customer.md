@@ -4,6 +4,8 @@ summary: "A person or organisation that receives, uses or pays for an offered pr
 slug: customer
 permalink: /glossary/customer/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

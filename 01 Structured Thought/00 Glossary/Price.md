@@ -4,6 +4,7 @@ summary: "The amount requested or accepted in exchange for an offer, distinct fr
 slug: price
 permalink: /glossary/price/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

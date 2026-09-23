@@ -4,6 +4,8 @@ summary: "Producing an outcome with proportionate use of time, effort, attention
 slug: efficient
 permalink: /glossary/efficient/
 type: glossary
+kind: term
+part_of: PESC
 status: active
 workflow: crafted
 updated: 2026-09-24

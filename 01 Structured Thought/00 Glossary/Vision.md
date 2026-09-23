@@ -4,6 +4,7 @@ summary: "A compelling description of a preferred future that gives direction to
 slug: vision
 permalink: /glossary/vision/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "A repeatable sequence of activities and decisions that transforms inpu
 slug: process
 permalink: /glossary/process/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

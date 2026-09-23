@@ -4,6 +4,7 @@ summary: "To place a capability, resource or system into active use in a specifi
 slug: deploy
 permalink: /glossary/deploy/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

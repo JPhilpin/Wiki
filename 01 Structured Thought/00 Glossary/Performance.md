@@ -4,6 +4,7 @@ summary: "The observable quality and results of action against an intention, exp
 slug: performance
 permalink: /glossary/performance/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

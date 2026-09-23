@@ -4,6 +4,7 @@ summary: "Purposeful expenditure of attention, effort and capability to create, 
 slug: work
 permalink: /glossary/work/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

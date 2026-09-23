@@ -4,6 +4,7 @@ summary: "A consequential change produced in people, systems, conditions or outc
 slug: impact
 permalink: /glossary/impact/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

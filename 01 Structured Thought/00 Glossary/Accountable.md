@@ -4,6 +4,7 @@ summary: "Taking ownership of decisions, actions and outcomes, including the res
 slug: accountable
 permalink: /glossary/accountable/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

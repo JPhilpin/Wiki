@@ -4,6 +4,7 @@ summary: "Not fully known, predictable or resolved, requiring judgement rather t
 slug: uncertain
 permalink: /glossary/uncertain/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

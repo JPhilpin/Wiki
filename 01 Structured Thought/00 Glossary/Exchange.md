@@ -4,6 +4,7 @@ summary: "A reciprocal movement of value, information, energy or commitment betw
 slug: exchange
 permalink: /glossary/exchange/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

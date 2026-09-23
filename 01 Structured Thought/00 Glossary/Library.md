@@ -4,6 +4,7 @@ summary: "Library is where what an organisation actually knows becomes visible a
 slug: library
 permalink: /glossary/library/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

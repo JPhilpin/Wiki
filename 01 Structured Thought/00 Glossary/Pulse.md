@@ -4,6 +4,7 @@ summary: "Pulse is a recurring set of questions that turns a single answer into 
 slug: pulse
 permalink: /glossary/pulse/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

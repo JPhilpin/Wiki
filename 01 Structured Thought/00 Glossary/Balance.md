@@ -4,6 +4,7 @@ summary: "Balance seeks to check and confirm whether an exchange of value betwee
 slug: balance
 permalink: /glossary/balance/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

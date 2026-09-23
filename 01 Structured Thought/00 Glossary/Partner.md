@@ -4,6 +4,8 @@ summary: "A person or organisation that works with another towards a shared outc
 slug: partner
 permalink: /glossary/partner/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

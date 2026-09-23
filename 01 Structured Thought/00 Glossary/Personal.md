@@ -4,6 +4,7 @@ summary: "Personal applies the same domains framework an organisation uses on it
 slug: personal
 permalink: /glossary/personal/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

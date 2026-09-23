@@ -4,6 +4,7 @@ summary: "To become visible, coherent or consequential through the interaction o
 slug: emerge
 permalink: /glossary/emerge/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

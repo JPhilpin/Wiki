@@ -4,6 +4,7 @@ summary: "Producer, Efficient, Supply, Chain: the grouping of terms describing h
 slug: pesc
 permalink: /glossary/pesc/
 type: glossary
+kind: acronym
 status: active
 workflow: crafted
 updated: 2026-09-24

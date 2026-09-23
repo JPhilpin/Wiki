@@ -4,6 +4,7 @@ summary: "Concerned with the relationships, feedback and structures that produce
 slug: systemic
 permalink: /glossary/systemic/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

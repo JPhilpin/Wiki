@@ -4,6 +4,7 @@ summary: "Alignment between stated values, actual behaviour and the wholeness of
 slug: integrity
 permalink: /glossary/integrity/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

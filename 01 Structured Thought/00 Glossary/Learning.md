@@ -4,6 +4,7 @@ summary: A durable change in understanding or capability produced through experi
 slug: learning
 permalink: /glossary/learning/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

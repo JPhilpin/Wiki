@@ -4,6 +4,7 @@ summary: A shared system of signs, words and patterns through which meaning is e
 slug: language
 permalink: /glossary/language/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

@@ -4,6 +4,7 @@ summary: "Human beings considered individually or collectively, especially as pa
 slug: people
 permalink: /glossary/people/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-08-21

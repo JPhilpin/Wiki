@@ -4,6 +4,7 @@ summary: "A clear statement of the work an individual or organisation exists to 
 slug: mission
 permalink: /glossary/mission/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

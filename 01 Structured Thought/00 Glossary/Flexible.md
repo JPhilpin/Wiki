@@ -4,6 +4,7 @@ summary: "Able to change form, method or emphasis in response to circumstances w
 slug: flexible
 permalink: /glossary/flexible/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

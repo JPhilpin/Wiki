@@ -4,6 +4,8 @@ summary: "A shared foundation on which others can create, connect or exchange va
 slug: platform
 permalink: /glossary/platform/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

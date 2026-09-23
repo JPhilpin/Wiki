@@ -4,6 +4,7 @@ summary: "People whose deep knowledge and trusted judgement help others interpre
 slug: mavens
 permalink: /glossary/mavens/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

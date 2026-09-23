@@ -4,6 +4,7 @@ summary: "Chosen and directed with conscious purpose rather than left entirely t
 slug: intentional
 permalink: /glossary/intentional/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

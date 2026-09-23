@@ -4,6 +4,8 @@ summary: "A choice between options that commits people, time or resources to a c
 slug: decision
 permalink: /glossary/decision/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

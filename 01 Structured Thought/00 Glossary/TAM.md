@@ -4,6 +4,7 @@ summary: The total potential demand for a product or service if the entire relev
 slug: total-addressable-market
 permalink: /glossary/total-addressable-market/
 type: glossary
+kind: acronym
 status: active
 workflow: crafted
 updated: 2026-09-24

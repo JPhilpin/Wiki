@@ -4,6 +4,7 @@ summary: "To hold something as true, possible or worthy of commitment strongly e
 slug: believe
 permalink: /glossary/believe/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

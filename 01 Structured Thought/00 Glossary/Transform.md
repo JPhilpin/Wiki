@@ -4,6 +4,7 @@ summary: "To change the underlying form, logic or capability of something rather
 slug: transform
 permalink: /glossary/transform/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

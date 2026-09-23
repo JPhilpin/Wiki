@@ -4,6 +4,7 @@ summary: "What is perceived, felt and learned through direct participation in an
 slug: experience
 permalink: /glossary/experience/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

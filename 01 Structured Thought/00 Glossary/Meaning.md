@@ -4,6 +4,7 @@ summary: "The significance something carries within a particular context, relati
 slug: meaning
 permalink: /glossary/meaning/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

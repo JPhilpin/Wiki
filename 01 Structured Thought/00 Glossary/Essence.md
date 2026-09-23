@@ -4,6 +4,7 @@ summary: "The irreducible quality or meaning that makes something what it is."
 slug: essence
 permalink: /glossary/essence/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

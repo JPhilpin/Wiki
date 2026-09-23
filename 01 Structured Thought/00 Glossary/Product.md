@@ -4,6 +4,7 @@ summary: "A deliberately shaped bundle of value that can be used, experienced, e
 slug: product
 permalink: /glossary/product/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

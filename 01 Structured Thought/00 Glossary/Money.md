@@ -4,6 +4,7 @@ summary: "A shared accounting and exchange mechanism used to represent, transfer
 slug: money
 permalink: /glossary/money/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

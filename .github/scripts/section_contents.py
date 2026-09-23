@@ -19,7 +19,7 @@ def fm(path):
     d={}
     if m:
         for line in m.group(1).splitlines():
-            mm=re.match(r"^(title|summary):\s*(.*)$",line)
+            mm=re.match(r"^(title|summary|kind):\s*(.*)$",line)
             if mm: d[mm.group(1)]=mm.group(2).strip().strip('"').strip("'")
     return d
 def clean(s): return re.sub(r"^\d{3}\s+","",s).strip()
@@ -33,14 +33,18 @@ for folder,name,slug,intro,order in S:
             if not f.endswith(".md") or f==fname: continue
             p=os.path.join(dp,f); d=fm(p); base=f[:-3]
             title=clean(d.get("title") or base)
-            items.append((base,title,d.get("summary","")))
+            items.append((base,title,d.get("summary",""),d.get("kind","")))
     if order=="file": items.sort(key=lambda x:x[0].lower())
     else: items.sort(key=lambda x:x[1].lower())
     link=lambda b,t: f"[[{b}]]" if b==t else f"[[{b}|{t}]]"
     body=[f"{intro}",""]
     if order=="letters":
+        acr=[x for x in items if x[3]=="acronym"]
+        if acr:
+            body+=["","## Acronyms",""]+[f"- **{link(x[0],x[1])}** - {x[2]}" if x[2] else f"- **{link(x[0],x[1])}**" for x in acr]
+            items=[x for x in items if x[3]!="acronym"]
         cur=None
-        for b,t,s in items:
+        for b,t,s,*_ in items:
             L=t[:1].upper()
             if not L.isalpha(): L="#"
             if L!=cur:
@@ -49,7 +53,7 @@ for folder,name,slug,intro,order in S:
     else:
         body.append(f"{len(items)} {'page' if len(items)==1 else 'pages'}.")
         body.append("")
-        for b,t,s in items:
+        for b,t,s,*_ in items:
             body.append(f"- **{link(b,t)}**" + (f" - {s}" if s else ""))
     doc=f"""---
 title: {name}

@@ -4,6 +4,7 @@ summary: "The shared patterns of meaning, behaviour, expectation and practice th
 slug: culture
 permalink: /glossary/culture/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

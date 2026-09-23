@@ -4,6 +4,7 @@ summary: "To create the conditions, access or capability that allow something el
 slug: enable
 permalink: /glossary/enable/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

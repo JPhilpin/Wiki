@@ -4,6 +4,7 @@ summary: "A system of relationships and exchange through which needs, offers, va
 slug: market
 permalink: /glossary/market/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

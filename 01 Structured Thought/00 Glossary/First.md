@@ -4,6 +4,7 @@ summary: Given priority in sequence, importance or consideration.
 slug: first
 permalink: /glossary/first/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-08-21

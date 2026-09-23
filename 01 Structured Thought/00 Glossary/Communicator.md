@@ -4,6 +4,7 @@ summary: "A person or system that makes meaning transferable between people, gro
 slug: communicator
 permalink: /glossary/communicator/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

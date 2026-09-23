@@ -4,6 +4,7 @@ summary: "Reliable in principle, behaviour or quality across time and context, w
 slug: consistent
 permalink: /glossary/consistent/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

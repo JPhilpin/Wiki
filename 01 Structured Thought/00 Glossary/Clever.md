@@ -4,6 +4,7 @@ summary: "Applying intelligence, imagination or ingenuity to find an effective a
 slug: clever
 permalink: /glossary/clever/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

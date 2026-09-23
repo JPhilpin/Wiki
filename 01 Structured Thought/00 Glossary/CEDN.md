@@ -4,6 +4,7 @@ summary: "Customer, Effective, Demand, Network: the grouping of terms describing
 slug: cedn
 permalink: /glossary/cedn/
 type: glossary
+kind: acronym
 status: active
 workflow: crafted
 updated: 2026-09-24

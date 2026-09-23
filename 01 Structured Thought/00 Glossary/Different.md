@@ -4,6 +4,7 @@ summary: Not the same as what is being compared, whether by nature, degree, pers
 slug: different
 permalink: /glossary/different/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

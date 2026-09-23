@@ -4,6 +4,7 @@ summary: "Data given context and structure so that it answers a question or redu
 slug: information
 permalink: /glossary/information/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

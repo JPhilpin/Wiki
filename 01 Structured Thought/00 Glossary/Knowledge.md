@@ -4,6 +4,7 @@ summary: "Information integrated with experience, context and understanding so t
 slug: knowledge
 permalink: /glossary/knowledge/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

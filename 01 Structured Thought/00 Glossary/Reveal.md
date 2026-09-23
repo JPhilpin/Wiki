@@ -4,6 +4,7 @@ summary: "Reveal is a set of questions designed to turn what people typically av
 slug: reveal
 permalink: /glossary/reveal/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

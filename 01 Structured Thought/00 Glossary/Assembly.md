@@ -4,6 +4,7 @@ summary: "Assembly is a structured space where the people in your domain find ea
 slug: assembly
 permalink: /glossary/assembly/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

@@ -4,6 +4,7 @@ summary: "The deliberate concentration of attention and effort on what matters m
 slug: focus
 permalink: /glossary/focus/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

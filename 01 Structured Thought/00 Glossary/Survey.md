@@ -4,6 +4,7 @@ summary: "A deliberate scan or inquiry used to understand a field, population, c
 slug: survey
 permalink: /glossary/survey/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

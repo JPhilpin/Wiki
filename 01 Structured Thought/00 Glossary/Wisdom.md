@@ -4,6 +4,7 @@ summary: "The capacity to apply knowledge and judgement with proportion, context
 slug: wisdom
 permalink: /glossary/wisdom/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

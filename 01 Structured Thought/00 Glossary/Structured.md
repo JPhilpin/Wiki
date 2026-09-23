@@ -4,6 +4,7 @@ summary: "Organised through explicit relationships, boundaries or patterns so th
 slug: structured
 permalink: /glossary/structured/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

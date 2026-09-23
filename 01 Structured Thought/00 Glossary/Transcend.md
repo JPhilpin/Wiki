@@ -4,6 +4,7 @@ summary: "To move beyond an existing limit, frame or condition without necessari
 slug: transcend
 permalink: /glossary/transcend/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

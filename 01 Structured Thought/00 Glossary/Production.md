@@ -4,6 +4,7 @@ summary: "The coordinated activity through which an intended output is repeatedl
 slug: production
 permalink: /glossary/production/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

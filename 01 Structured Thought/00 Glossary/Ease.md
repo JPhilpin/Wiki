@@ -4,6 +4,7 @@ summary: "The reduction of unnecessary friction, effort or complexity in an expe
 slug: ease
 permalink: /glossary/ease/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

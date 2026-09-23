@@ -4,6 +4,7 @@ summary: "Able to adjust purposefully to changing conditions without losing cohe
 slug: adaptable
 permalink: /glossary/adaptable/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

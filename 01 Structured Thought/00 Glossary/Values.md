@@ -4,6 +4,7 @@ summary: "Enduring commitments that guide judgement, priorities and behaviour."
 slug: values
 permalink: /glossary/values/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25

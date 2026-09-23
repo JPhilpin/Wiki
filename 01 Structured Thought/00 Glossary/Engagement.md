@@ -4,6 +4,7 @@ summary: "The quality and pattern of participation through which people contribu
 slug: engagement
 permalink: /glossary/engagement/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

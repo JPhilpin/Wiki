@@ -4,6 +4,8 @@ summary: "Producing the intended or valuable outcome."
 slug: effective
 permalink: /glossary/effective/
 type: glossary
+kind: term
+part_of: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

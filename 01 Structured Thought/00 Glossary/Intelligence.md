@@ -4,6 +4,7 @@ summary: "Intelligence is a curated, continuously updated picture of a domain th
 slug: intelligence
 permalink: /glossary/intelligence/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-09-24

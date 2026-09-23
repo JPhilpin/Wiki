@@ -4,6 +4,7 @@ summary: "A meaningful recognition that changes how a situation, pattern or poss
 slug: insight
 permalink: /glossary/insight/
 type: glossary
+kind: term
 status: active
 workflow: crafted
 updated: 2026-07-25
