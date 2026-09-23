@@ -12,7 +12,7 @@ tags:
   - age-of-reason
   - reason
   - context
-aliases:[]
+aliases: []
 ---
 
 # The Age of Reason

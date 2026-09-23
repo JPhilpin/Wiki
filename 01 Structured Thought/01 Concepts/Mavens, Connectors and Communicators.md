@@ -13,7 +13,7 @@ tags:
   - roles
   - communication
   - networks
-aliases:[]
+aliases: []
 ---
 
 # Mavens, Connectors and Communicators

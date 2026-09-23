@@ -12,7 +12,7 @@ tags:
   - age-of-experience
   - experience
   - context
-aliases:[]
+aliases: []
 ---
 
 # The Age of Experience
