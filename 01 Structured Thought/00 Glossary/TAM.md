@@ -16,8 +16,6 @@ aliases:
   - Total Addressable Market
 ---
 
-# Total Addressable Market
-
-The total potential demand for a product or service if the entire relevant market could be served.
+**Stands for:** Total Addressable Market
 
 TAM is part of the [[TAM - SAM - SOM|TAM SAM SOM]] Model.
