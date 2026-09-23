@@ -17,7 +17,7 @@ aliases:
 
 ## Working definition
 
-A flow describing the development of Data into Information, Knowledge, Intelligence, Wisdom and Impact.
+A flow describing the development of Data into Information, Knowledge, Insight, Wisdom and Impact.
 
 ## Status
 
