@@ -1,26 +1,23 @@
-
-
-⸻
-
+---
 title: The Architecture of Knowledge
 paper: 002
 type: canonical-paper
 status: draft-for-review
-studio_version: “0.4”
-version: “1.0”
+studio_version: "0.4"
+version: "1.0"
 author:
-
-* John Philpin
-* ChatGPT
-    updated: 2026-07-18
-    tags:
-* architecture
-* knowledge
-* structured-thought
-* primitives
-* studio
-
-⸻
+  - John Philpin
+  - ChatGPT
+updated: 2026-07-18
+permalink: /papers/the-architecture-of-knowledge/
+tags:
+  - paper
+  - architecture
+  - knowledge
+  - structured-thought
+  - primitives
+  - studio
+---
 
 The Architecture of Knowledge
 

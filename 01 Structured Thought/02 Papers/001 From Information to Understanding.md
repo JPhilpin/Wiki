@@ -15,6 +15,7 @@ tags:
 - understanding
 - judgement
 - first-principles
+permalink: /papers/from-information-to-understanding/
 ---
 
 # Paper 001

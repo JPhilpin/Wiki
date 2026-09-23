@@ -1,5 +1,3 @@
-005 Principles
-
 ---
 title: Principles
 paper: 005
@@ -7,8 +5,11 @@ type: constitutional-paper
 status: canonical
 version: 1.0
 studio: STUDIO
-author: John Phlipin
+author: John Philpin
 language: en-GB
+permalink: /papers/principles/
+tags:
+  - paper
 ---
 
 Principles

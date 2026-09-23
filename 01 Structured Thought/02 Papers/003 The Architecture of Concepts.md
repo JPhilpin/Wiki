@@ -1,26 +1,23 @@
-
-
-⸻
-
+---
 title: Primitives
 paper: 003
 type: canonical-paper
 status: draft-for-review
-studio_version: “0.4”
-version: “1.0”
+studio_version: "0.4"
+version: "1.0"
 author:
-
-* John Philpin
-* ChatGPT
-    updated: 2026-07-18
-    tags:
-* primitives
-* structured-thought
-* architecture
-* knowledge
-* composition
-
-⸻
+  - John Philpin
+  - ChatGPT
+updated: 2026-07-18
+permalink: /papers/primitives/
+tags:
+  - paper
+  - primitives
+  - structured-thought
+  - architecture
+  - knowledge
+  - composition
+---
 
 Primitives
 

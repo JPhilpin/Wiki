@@ -7,6 +7,9 @@ version: 1.0
 studio: STUDIO
 author: Jax Harrison
 language: en-GB
+permalink: /papers/patterns/
+tags:
+  - paper
 ---
 
 # Patterns

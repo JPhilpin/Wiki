@@ -15,6 +15,7 @@ tags:
 - worldview
 - knowledge
 - primitives
+permalink: /papers/the-world-we-inherit/
 ---
 
 # Paper 000
