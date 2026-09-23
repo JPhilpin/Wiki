@@ -114,7 +114,7 @@ The customer side tells you what state they are in. The business side is what ca
 
 ## Related
 
-- [[TAM / SAM / SOM]]
+- [[TAM - SAM - SOM|TAM / SAM / SOM]]
 - [[The Four Es]]
 - [[Systems of Engagement]]
 - [[Systems of Record]]

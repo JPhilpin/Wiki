@@ -50,7 +50,7 @@ The rules governing links, direction and declared relationships are defined in [
 19. [[Customer Effective Demand Network]] → `composed-of` → [[Demand]]
 20. [[Customer Effective Demand Network]] → `composed-of` → [[Network]]
 
-21. [[TAM / SAM / SOM]] → `composed-of` → [[Total Addressable Market]]
+21. [[TAM - SAM - SOM|TAM / SAM / SOM]] → `composed-of` → [[Total Addressable Market]]
 
 ## Conceptual Relationships
 
