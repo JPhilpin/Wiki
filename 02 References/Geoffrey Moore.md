@@ -8,7 +8,8 @@ kind: person
 status: active
 workflow: crafted
 updated: 2026-08-21
-aliases: []
+aliases:
+  - Geoff Moore
 tags:
   - author
   - originator

@@ -14,6 +14,6 @@ tags:
   - transformation
 ---
 
-**Author:** [[Geoffrey Moore|Geoff Moore]]
+**Author:** [[Geoffrey Moore]]
 
 ![[moore-zone-to-win.png]]
