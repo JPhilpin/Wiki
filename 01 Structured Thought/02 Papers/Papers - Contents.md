@@ -5,8 +5,7 @@ slug: papers
 permalink: /papers
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 The paper series, in reading order. Each paper builds on the ones before it.

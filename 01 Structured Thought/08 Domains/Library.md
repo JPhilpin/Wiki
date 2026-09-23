@@ -8,9 +8,7 @@ status: draft
 workflow: crafted
 version: '0.3'
 updated: '2026-08-24'
-tags:
-- domain
-- structured-thought
+tags: []
 aliases: []
 confidence: red
 ---

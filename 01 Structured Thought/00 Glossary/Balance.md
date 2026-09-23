@@ -7,14 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-09-13
-tags:
-  - glossary
-  - domain
+tags: []
 aliases:
   - Balanced
 ---
-
-# Balance
 
 ## Other Wiki References
 

@@ -5,8 +5,7 @@ slug: models
 permalink: /models
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 Models for seeing how things fit together, some original and some borrowed.

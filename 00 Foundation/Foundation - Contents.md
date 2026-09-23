@@ -5,8 +5,7 @@ slug: foundation
 permalink: /foundation
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 The rules, relationships and background that govern how the Studio is built.

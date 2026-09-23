@@ -10,12 +10,8 @@ version: '0.2'
 aliases:
   - Five Ds
 tags:
-  - framework
-  - structured-thought
   - 5ds
 ---
-
-# The Five Ds
 
 ## Working definition
 

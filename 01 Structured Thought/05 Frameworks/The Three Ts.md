@@ -10,12 +10,8 @@ version: '0.2'
 aliases:
   - Three Ts
 tags:
-  - framework
-  - structured-thought
   - 3ts
 ---
-
-# The Three Ts
 
 ## Working definition
 

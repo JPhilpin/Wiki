@@ -8,14 +8,10 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "principle"
-  - "structured-thought"
   - "people"
   - "human"
 aliases: []
 ---
-
-# People First
 
 ## Working definition
 

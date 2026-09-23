@@ -8,8 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "model"
-  - "structured-thought"
   - "market"
   - "business"
 aliases:
@@ -17,8 +15,6 @@ aliases:
   - "TAM SAM SOM"
   - "Total Addressable Market / Serviceable Addressable Market / Serviceable Obtainable Market"
 ---
-
-# TAM / SAM / SOM
 
 The **TAM / SAM / SOM** model provides a progressively narrower view of market opportunity.
 

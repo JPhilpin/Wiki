@@ -8,11 +8,8 @@ studio: STUDIO
 author: Jax Harrison
 language: en-GB
 permalink: /papers/patterns/
-tags:
-  - paper
+tags: []
 ---
-
-# Patterns
 
 ## Executive Overview
 

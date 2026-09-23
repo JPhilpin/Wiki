@@ -9,7 +9,6 @@ updated: '2026-07-16'
 version: '1.0'
 sequence: 1
 tags:
-- paper
 - foundation
 - knowledge
 - understanding

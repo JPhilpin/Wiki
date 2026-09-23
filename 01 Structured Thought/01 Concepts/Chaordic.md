@@ -8,8 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "3rd-party-models"
 aliases: []
 ---

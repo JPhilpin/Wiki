@@ -8,8 +8,7 @@ studio: STUDIO
 author: John Philpin
 language: en-GB
 permalink: /papers/principles/
-tags:
-  - paper
+tags: []
 ---
 
 Principles

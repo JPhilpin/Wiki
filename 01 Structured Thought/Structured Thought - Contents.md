@@ -5,8 +5,7 @@ slug: structured-thought-contents
 permalink: /structured-thought
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 The body of work at the heart of the Studio, in eight sections.

@@ -13,8 +13,6 @@ tags:
 - stewardship
 ---
 
-# Studio Constitution
-
 ## Purpose
 
 STUDIO is the working environment in which Structured Thought is captured, tested, connected and developed into durable knowledge. It is published live: what is here is the current state of that work, not a finished result.

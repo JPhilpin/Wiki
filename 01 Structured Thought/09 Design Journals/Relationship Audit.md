@@ -8,13 +8,9 @@ status: review
 workflow: created
 updated: 2026-08-23
 tags:
-  - design-journal
-  - structured-thought
   - relationships
 aliases: []
 ---
-
-# Relationship Audit
 
 This is the working list of candidate declared relationships across Structured Thought.
 

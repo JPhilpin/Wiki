@@ -7,14 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-07-25
-tags:
-  - glossary
-  - domain
+tags: []
 aliases:
   - intelligent
 ---
-
-# Intelligence
 
 ## Other Wiki References
 

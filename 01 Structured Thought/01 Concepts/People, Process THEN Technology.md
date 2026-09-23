@@ -8,8 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "people"
   - "process"
   - "technology"
@@ -18,8 +16,6 @@ aliases:
   - "People Process Technology"
   - "PPT"
 ---
-
-# People, Process THEN Technology
 
 **People, Process THEN Technology** is a deliberate modification of the familiar **People, Process and Technology** formulation.
 

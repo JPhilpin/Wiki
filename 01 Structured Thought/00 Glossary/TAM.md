@@ -8,7 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-09-24
 tags:
-  - structured-thought
   - market
   - business
   - tam

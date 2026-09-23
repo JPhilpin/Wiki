@@ -7,9 +7,7 @@ type: framework
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - "framework"
-  - "structured-thought"
+tags: []
 aliases: []
 ---
 

@@ -8,11 +8,8 @@ studio: STUDIO
 author: Jax Harrison
 language: en-GB
 permalink: /papers/systems/
-tags:
-  - paper
+tags: []
 ---
-
-# Systems
 
 ## Executive Overview
 

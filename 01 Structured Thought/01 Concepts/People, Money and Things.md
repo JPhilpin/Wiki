@@ -8,16 +8,12 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "business-equation"
   - "people"
   - "resources"
 aliases:
   - "PMT"
 ---
-
-# People, Money and Things
 
 **People, Money and Things** is a deliberately simple way of describing the fundamental resources available to an organisation.
 

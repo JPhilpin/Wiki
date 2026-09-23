@@ -11,9 +11,7 @@ author:
 updated: 2026-07-18
 permalink: /papers/primitives/
 tags:
-  - paper
   - primitives
-  - structured-thought
   - architecture
   - knowledge
   - composition

@@ -8,14 +8,10 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "knowledge"
   - "thinking"
 aliases: []
 ---
-
-# Structured Thought
 
 **Structured Thought** is a discipline for making sense of complex problems. It gives form to thinking, strips away noise and creates a consistent way to move from observation and information towards understanding, judgement and action.
 

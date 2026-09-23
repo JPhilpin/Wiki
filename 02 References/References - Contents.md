@@ -5,8 +5,7 @@ slug: references
 permalink: /references
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 The people, books and outside sources the thinking draws on.

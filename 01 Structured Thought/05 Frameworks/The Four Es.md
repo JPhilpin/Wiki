@@ -8,15 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-09-11
 tags:
-  - "framework"
-  - "structured-thought"
   - "4e"
   - "engagement"
 aliases:
   - "4Es"
 ---
-
-# The Four Es
 
 ## The Four Ps, and why they stop working
 

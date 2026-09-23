@@ -9,12 +9,9 @@ workflow: crafted
 updated: 2026-08-23
 tags:
   - architecture
-  - structured-thought
   - relationships
 aliases: []
 ---
-
-# Relationships
 
 Structured Thought is not simply a collection of pages. Its value also lies in the relationships between ideas, terms and structures.
 

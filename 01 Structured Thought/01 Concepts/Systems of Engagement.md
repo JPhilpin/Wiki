@@ -8,15 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "engagement"
   - "people"
 aliases:
   - "System of Engagement"
 ---
-
-# Systems of Engagement
 
 ## Working definition
 

@@ -11,10 +11,8 @@ author:
 updated: 2026-07-18
 permalink: /papers/the-architecture-of-knowledge/
 tags:
-  - paper
   - architecture
   - knowledge
-  - structured-thought
   - primitives
   - studio
 ---

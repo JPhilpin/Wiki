@@ -8,15 +8,12 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - concept
   - people
   - roles
   - communication
   - networks
 aliases: []
 ---
-
-# Mavens, Connectors and Communicators
 
 **Mavens, Connectors and Communicators** describes three complementary roles that help knowledge and ideas move through organisations and networks.
 

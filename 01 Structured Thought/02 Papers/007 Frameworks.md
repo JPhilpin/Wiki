@@ -8,11 +8,8 @@ studio: STUDIO
 author: Jax Harrison
 language: en-GB
 permalink: /papers/frameworks/
-tags:
-  - paper
+tags: []
 ---
-
-# Frameworks
 
 ## Executive Overview
 

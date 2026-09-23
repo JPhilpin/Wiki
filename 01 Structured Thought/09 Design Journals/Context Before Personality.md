@@ -7,9 +7,7 @@ owner: John Philpin
 created: '2026-07-14'
 updated: '2026-07-16'
 version: '0.1'
-tags:
-- design-journal
-- structured-thought
+tags: []
 ---
 
 # Structured Thought

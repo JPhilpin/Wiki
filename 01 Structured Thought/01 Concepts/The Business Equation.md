@@ -8,14 +8,10 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - concept
-  - structured-thought
   - business-equation
 aliases:
   - Business Equation
 ---
-
-# The Business Equation
 
 **The Business Equation** provides a high-level context for understanding how a business creates value and how that context is changing.
 

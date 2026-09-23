@@ -8,14 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - concept
   - age-of-reason
   - reason
   - context
 aliases: []
 ---
-
-# The Age of Reason
 
 **The Age of Reason** describes a way of thinking in which the world is made understandable by dividing it into categories, processes, hierarchies and repeatable structures.
 

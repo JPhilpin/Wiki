@@ -8,7 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
   - "4c"
   - "quality"
   - "design"
@@ -17,8 +16,6 @@ aliases:
   - "Four Cs"
   - "4Cs"
 ---
-	 
-# Creative, Clever, Consistent and Complete
 
 **Creative, Clever, Consistent and Complete** brings four distinct Primitives together as a practical test of the quality of an idea, solution or piece of work.
 

@@ -9,7 +9,6 @@ updated: '2026-07-16'
 version: '1.0'
 sequence: 0
 tags:
-- paper
 - foundation
 - introduction
 - worldview

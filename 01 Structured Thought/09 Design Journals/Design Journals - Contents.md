@@ -5,8 +5,7 @@ slug: design-journals
 permalink: /design-journals
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 Working notes on how parts of the Studio were designed and why.

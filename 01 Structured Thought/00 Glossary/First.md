@@ -7,9 +7,6 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-08-21
-tags:
-  - glossary
-  - structured-thought
+tags: []
 ---
 
-# First

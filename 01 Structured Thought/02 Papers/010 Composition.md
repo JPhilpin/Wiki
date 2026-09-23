@@ -8,11 +8,8 @@ studio: STUDIO
 author: Jax Harrison
 language: en-GB
 permalink: /papers/composition/
-tags:
-  - paper
+tags: []
 ---
-
-# Composition
 
 ## Executive Overview
 

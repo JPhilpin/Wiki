@@ -8,8 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "business-equation"
   - "cedn"
   - "business"
@@ -17,8 +15,6 @@ aliases:
   - "Customer Effective Demand Networks"
   - "CEDN"
 ---
-
-# Customer Effective Demand Network
 
 A **Customer Effective Demand Network (CEDN)** is a responsive business architecture in which customer needs, behaviour and feedback directly influence the creation, delivery and continuing development of value.
 

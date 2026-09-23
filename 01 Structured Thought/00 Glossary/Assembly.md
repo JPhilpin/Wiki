@@ -7,14 +7,10 @@ type: glossary
 status: active
 workflow: crafted
 updated: 2026-08-23
-tags:
-  - glossary
-  - domain
+tags: []
 aliases:
   - community
 ---
-
-# Assembly
 
 ## Other Wiki References
 

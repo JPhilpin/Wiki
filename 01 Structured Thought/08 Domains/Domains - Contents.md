@@ -5,8 +5,7 @@ slug: domains
 permalink: /domains
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 The eight Domains, where the thinking meets an area of practice.

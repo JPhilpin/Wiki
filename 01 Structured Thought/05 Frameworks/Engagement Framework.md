@@ -8,8 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-09-11
 tags:
-  - "framework"
-  - "structured-thought"
   - "engagement"
   - "customer-journey"
 aliases:
@@ -18,8 +16,6 @@ aliases:
   - "Customer Journey Framework"
   - "Notice Engage Commit Embed Advocate"
 ---
-
-# Engagement Framework
 
 ## Why this exists
 

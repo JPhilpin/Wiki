@@ -9,10 +9,7 @@ updated: '2026-07-16'
 version: '0.1'
 tags:
 - application
-- structured-thought
 ---
-
-# Engagement Profile
 
 ## Working definition
 

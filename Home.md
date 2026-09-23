@@ -9,7 +9,6 @@ updated: '2026-09-23'
 version: '0.5'
 tags:
 - studio
-- structured-thought
 - knowledge-system
 ---
 

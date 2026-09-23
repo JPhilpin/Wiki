@@ -8,11 +8,8 @@ studio: STUDIO
 author: Jax Harrison
 language: en-GB
 permalink: /papers/models/
-tags:
-  - paper
+tags: []
 ---
-
-# Models
 
 ## Executive Overview
 

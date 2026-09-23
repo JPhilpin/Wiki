@@ -8,11 +8,8 @@ status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
-  - glossary
   - capability
 ---
-
-# Enable
 
 ## In Structured Thought
 

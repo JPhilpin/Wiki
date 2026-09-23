@@ -9,7 +9,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "reference"
   - "books"
 aliases: []
 ---

@@ -8,14 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - concept
   - age-of-experience
   - experience
   - context
 aliases: []
 ---
-
-# The Age of Experience
 
 **The Age of Experience** describes an emerging context in which reason remains essential but is no longer sufficient.
 

@@ -8,13 +8,10 @@ status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
-  - glossary
   - distinction
 aliases:
   - Differ
 ---
-
-# Different
 
 ## In Structured Thought
 

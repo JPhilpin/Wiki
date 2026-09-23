@@ -8,16 +8,12 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "model"
-  - "structured-thought"
   - "dikiwi"
   - "knowledge"
 aliases:
   - "DIKW+"
   - "Data - Information - Knowledge - Insight - Wisdom - Impact"
 ---
-
-# DIKIWI
 
 ## Working definition
 

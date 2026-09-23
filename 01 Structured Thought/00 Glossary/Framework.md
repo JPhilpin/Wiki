@@ -9,13 +9,9 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - glossary
-  - structured-thought
   - architecture
 aliases: []
 ---
-
-# Framework
 
 A **Framework** is an organising structure that helps us use understanding to analyse, decide or act.
 

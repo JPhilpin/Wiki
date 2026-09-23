@@ -7,9 +7,7 @@ owner: John Philpin
 created: '2026-07-14'
 updated: '2026-07-16'
 version: '0.4'
-tags:
-- template
-- paper
+tags: []
 ---
 
 # Paper 000

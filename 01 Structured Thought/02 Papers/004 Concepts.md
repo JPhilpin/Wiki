@@ -6,11 +6,8 @@ title: Concepts
 type: paper
 version: 1.0
 permalink: /papers/concepts/
-tags:
-  - paper
+tags: []
 ---
-
-# Concepts
 
 ## Executive Summary
 

@@ -5,8 +5,7 @@ slug: frameworks
 permalink: /frameworks
 type: section
 status: active
-tags:
-  - section
+tags: []
 ---
 
 Frameworks that turn the ideas into something usable.

@@ -8,15 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "concept"
-  - "structured-thought"
   - "record"
   - "business-equation"
 aliases:
   - "System of Record"
 ---
-
-# Systems of Record
 
 ## Working definition
 
