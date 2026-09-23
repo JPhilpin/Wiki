@@ -47,7 +47,7 @@ The corresponding producer-side Concept is the **Producer Efficient Supply Chain
 
 **Multi-directional value flow** - [[Value]] doesn’t just move from company to customer. Customers influence, co-create, and redistribute value across the network.
 
-**Decentralized and adaptive** - not one central supplier controlling everything, multiple nodes ([[partners]], [[platforms]], [[communities]], and [[customers]]) interact dynamically.
+**Decentralized and adaptive** - not one central supplier controlling everything, multiple nodes ([[partners]], [[platforms]], [[Community|communities]], and [[Customer|customers]]) interact dynamically.
 
 **Data as connective tissue** so that real-time signals (usage data, feedback, market shifts) flow across the network, continuously adjusting offerings, messaging, and experience.
 
