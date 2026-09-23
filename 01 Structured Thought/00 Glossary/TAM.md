@@ -6,7 +6,7 @@ permalink: /glossary/total-addressable-market/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-09-24
 tags:
   - structured-thought
   - market
