@@ -9,6 +9,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - context
+aliases:
+  - places
 ---
 
 ## In Structured Thought

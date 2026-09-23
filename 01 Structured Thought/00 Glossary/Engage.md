@@ -8,9 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-07-25
 tags: []
-aliases:
-  - engagement
 ---
+
+**See also:** [[Engagement]]
+
+Engage is the practice; Engagement is what it produces.
 
 ## Other Wiki References
 

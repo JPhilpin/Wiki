@@ -9,6 +9,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - pillar
+aliases:
+  - languages
 ---
 
 ## In Structured Thought

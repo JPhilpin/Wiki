@@ -8,9 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-23
 tags: []
-aliases:
-  - community
 ---
+
+**Often confused with:** [[Community]]
+
+Often called community. The difference: a community can exist without design; an Assembly is built so that its members find each other, not just you.
 
 ## Other Wiki References
 

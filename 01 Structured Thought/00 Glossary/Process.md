@@ -9,6 +9,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - systems
+aliases:
+  - processes
 ---
 
 ## In Structured Thought

@@ -9,7 +9,13 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - social
+aliases:
+  - communities
 ---
+
+**See also:** [[Assembly]]
+
+In the Studio, the structured practice of community is Assembly, one of the eight Domains.
 
 ## In Structured Thought
 

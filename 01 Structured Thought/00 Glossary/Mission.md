@@ -9,6 +9,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - purpose
+aliases:
+  - missions
 ---
 
 ## In Structured Thought

@@ -10,7 +10,8 @@ workflow: crafted
 updated: 2026-08-21
 tags:
   - architecture
-aliases: []
+aliases:
+  - models
 ---
 
 A **Model** is a representation of something that helps us understand how it is, behaves, relates or might change.
