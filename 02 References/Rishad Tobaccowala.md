@@ -5,7 +5,6 @@ slug: rishad-tobaccowala
 permalink: /references/rishad-tobaccowala/
 type: reference
 kind: person
-reference_type: person
 status: active
 workflow: crafted
 updated: 2026-08-21

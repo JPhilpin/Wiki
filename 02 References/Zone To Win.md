@@ -5,7 +5,6 @@ slug: zone-to-win
 permalink: /references/zone-to-win/
 type: reference
 kind: book
-reference_type: book
 status: active
 workflow: crafted
 updated: 2026-08-21

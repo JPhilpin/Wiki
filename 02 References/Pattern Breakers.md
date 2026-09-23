@@ -5,7 +5,6 @@ slug: pattern-breakers
 permalink: /references/pattern-breakers/
 type: reference
 kind: book
-reference_type: book
 status: active
 workflow: crafted
 updated: 2026-08-21

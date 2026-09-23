@@ -5,7 +5,6 @@ slug: crossing-the-chasm
 permalink: /references/crossing-the-chasm/
 type: reference
 kind: book
-reference_type: book
 status: active
 workflow: crafted
 updated: 2026-08-21
