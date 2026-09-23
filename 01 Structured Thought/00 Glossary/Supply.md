@@ -6,15 +6,28 @@ permalink: /glossary/supply/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-09-24
 tags:
-  - glossary
   - business
   - pesc
 ---
 
-# Supply
+The capability and flow through which a needed resource, product or service is made available.
 
 ## In Structured Thought
 
-Supply is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
+In a [[Producer Efficient Supply Chain]], supply leads. What is made available is decided in advance, from forecasts, contracts and production schedules, and then offered to the market.
+
+Supply is one of the four terms that make up [[PESC]].
+
+## The mirror
+
+Its opposite number in CEDN is **[[Demand]]**. Supply offers what has been planned; demand signals what is actually needed, often in real time.
+
+![[pesc-cedn-mirror.svg]]
+
+## Related
+
+- [[PESC]]
+- [[Demand]]
+- [[Producer Efficient Supply Chain]]

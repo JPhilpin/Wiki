@@ -1,23 +1,34 @@
 ---
 title: CEDN
-summary: "Customer, Experience, Demand, Network  -  the grouping of terms describing who value is made and moved for."
+summary: "Customer, Effective, Demand, Network: the grouping of terms describing who value is made and moved for."
 slug: cedn
 permalink: /glossary/cedn/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-09-13
+updated: 2026-09-24
 tags:
-  - glossary
   - cedn
 ---
 
-# CEDN
-
-Customer, Experience, Demand, Network  -  the grouping of terms describing who value is made and moved for.
+Customer, Effective, Demand, Network: the grouping of terms describing who value is made and moved for.
 
 ## In Structured Thought
 
-CEDN is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
+CEDN names the four terms of the [[Customer Effective Demand Network]]. Each is read in relation to the others, and each has an opposite number in [[PESC]]: CEDN and PESC are mirrors of each other.
 
-CEDN is the flipside of [PESC](/glossary/pesc/).
+## The mirror
+
+| CEDN | PESC |
+|---|---|
+| [[Customer]] | [[Producer]] |
+| [[Effective]] | [[Efficient]] |
+| [[Demand]] | [[Supply]] |
+| [[Network]] | [[Chain]] |
+
+![[pesc-cedn-mirror.svg]]
+
+## Related
+
+- [[PESC]]
+- [[Customer Effective Demand Network]]

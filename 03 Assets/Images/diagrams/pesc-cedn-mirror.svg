@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" role="img">
+<title>PESC and CEDN: the mirror. Producer mirrors Customer, Efficient mirrors Effective, Supply mirrors Demand, Chain mirrors Network.</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1 1L9 5L1 9" fill="none" stroke="#333" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect width="760" height="420" fill="#ffffff"/>
+<line x1="380.0" y1="40" x2="380.0" y2="390" stroke="#d0d7de" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="150" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#7f2519">PESC</text>
+<text x="150" y="86" text-anchor="middle" font-size="14" fill="#8a8a8a">how value gets made</text>
+<text x="610" y="58" text-anchor="middle" font-size="30" font-weight="700" fill="#125993">CEDN</text>
+<text x="610" y="86" text-anchor="middle" font-size="14" fill="#8a8a8a">who value is for</text>
+<text x="380.0" y="412" text-anchor="middle" font-size="12" fill="#8a8a8a">the mirror</text>
+<rect x="45" y="126" width="210" height="44" rx="22" fill="#7f2519"/>
+<text x="150" y="156" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Producer</text>
+<rect x="505" y="126" width="210" height="44" rx="22" fill="#125993"/>
+<text x="610" y="156" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Customer</text>
+<line x1="268" y1="148" x2="492" y2="148" stroke="#333" stroke-width="1.5" marker-start="url(#a)" marker-end="url(#a)"/>
+<rect x="45" y="188" width="210" height="44" rx="22" fill="#7f2519"/>
+<text x="150" y="218" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Efficient</text>
+<rect x="505" y="188" width="210" height="44" rx="22" fill="#125993"/>
+<text x="610" y="218" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Effective</text>
+<line x1="268" y1="210" x2="492" y2="210" stroke="#333" stroke-width="1.5" marker-start="url(#a)" marker-end="url(#a)"/>
+<rect x="45" y="250" width="210" height="44" rx="22" fill="#7f2519"/>
+<text x="150" y="280" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Supply</text>
+<rect x="505" y="250" width="210" height="44" rx="22" fill="#125993"/>
+<text x="610" y="280" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Demand</text>
+<line x1="268" y1="272" x2="492" y2="272" stroke="#333" stroke-width="1.5" marker-start="url(#a)" marker-end="url(#a)"/>
+<rect x="45" y="312" width="210" height="44" rx="22" fill="#7f2519"/>
+<text x="150" y="342" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Chain</text>
+<rect x="505" y="312" width="210" height="44" rx="22" fill="#125993"/>
+<text x="610" y="342" text-anchor="middle" font-size="19" font-weight="600" fill="#ffffff">Network</text>
+<line x1="268" y1="334" x2="492" y2="334" stroke="#333" stroke-width="1.5" marker-start="url(#a)" marker-end="url(#a)"/>
+</svg>

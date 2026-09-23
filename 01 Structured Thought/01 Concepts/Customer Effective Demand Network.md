@@ -34,6 +34,12 @@ The corresponding producer-side Concept is the **Producer Efficient Supply Chain
 
 **Customer + Effective + Demand + Network → Customer Effective Demand Network**
 
+## The mirror
+
+CEDN and PESC are mirrors of each other, term for term: Producer and Customer, Efficient and Effective, Supply and Demand, Chain and Network. Each glossary entry names its opposite number.
+
+![[pesc-cedn-mirror.svg]]
+
 ## Related
 
 - [[Producer Efficient Supply Chain]]

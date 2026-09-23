@@ -1,23 +1,34 @@
 ---
 title: PESC
-summary: "Producer, Efficient, Supply, Chain  -  the grouping of terms describing how value gets made and moved."
+summary: "Producer, Efficient, Supply, Chain: the grouping of terms describing how value gets made and moved."
 slug: pesc
 permalink: /glossary/pesc/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-09-13
+updated: 2026-09-24
 tags:
-  - glossary
   - pesc
 ---
 
-# PESC
-
-Producer, Efficient, Supply, Chain  -  the grouping of terms describing how value gets made and moved.
+Producer, Efficient, Supply, Chain: the grouping of terms describing how value gets made and moved.
 
 ## In Structured Thought
 
-PESC is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
+PESC names the four terms of the [[Producer Efficient Supply Chain]]. Each is read in relation to the others, and each has an opposite number in [[CEDN]]: PESC and CEDN are mirrors of each other.
 
-PESC is the flipside of [CEDN](/glossary/cedn/).
+## The mirror
+
+| PESC | CEDN |
+|---|---|
+| [[Producer]] | [[Customer]] |
+| [[Efficient]] | [[Effective]] |
+| [[Supply]] | [[Demand]] |
+| [[Chain]] | [[Network]] |
+
+![[pesc-cedn-mirror.svg]]
+
+## Related
+
+- [[CEDN]]
+- [[Producer Efficient Supply Chain]]

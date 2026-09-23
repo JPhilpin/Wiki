@@ -6,15 +6,28 @@ permalink: /glossary/efficient/
 type: glossary
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-09-24
 tags:
-  - glossary
   - quality
   - pesc
 ---
 
-# Efficient
+Producing an outcome with proportionate use of time, effort, attention and resources.
 
 ## In Structured Thought
 
-Efficient is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
+In a [[Producer Efficient Supply Chain]], efficiency is the organising goal: less cost, less waste, more throughput. It is measured from the inside, against the producer's own plans and resources.
+
+Efficient is one of the four terms that make up [[PESC]].
+
+## The mirror
+
+Its opposite number in CEDN is **[[Effective]]**. Efficiency asks whether a thing was made well. Effectiveness asks whether it was the right thing to make. A business needs both, but the emphasis has shifted.
+
+![[pesc-cedn-mirror.svg]]
+
+## Related
+
+- [[PESC]]
+- [[Effective]]
+- [[Producer Efficient Supply Chain]]
