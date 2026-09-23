@@ -88,3 +88,12 @@ open(OUT, "w", encoding="utf-8").write(doc)
 print(f"{OUT}: {len(wanted)} wanted, {len(ideas)} ideas")
 for (t, hit), refs in sorted(fixes.items()):
     print(f"NEAR-MISS  [[{t}]] probably means '{hit}'  <- {', '.join(sorted(refs))}")
+
+# Safety net: images outside _Assets get published by Blot as empty posts (they show in lists
+# with the "My apologies" placeholder). Keep every image under _Assets/ (underscore = ignored by Blot).
+IMG=(".png",".jpg",".jpeg",".gif",".svg",".webp")
+for dp, _, fs in os.walk("."):
+    rel=os.path.relpath(dp,".")
+    if rel.startswith(("_", ".git")) or "/_" in rel: continue
+    for f in fs:
+        if f.lower().endswith(IMG): print(f"STRAY IMAGE (move under _Assets/): {os.path.normpath(os.path.join(rel,f))}")
