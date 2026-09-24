@@ -29,3 +29,17 @@ The Studio comprises a few hundred pages. This is one route through them, in the
 - Press Surprise Me on the homepage and let the Studio choose.
 
 For why this exists and who builds it, see [[About]].
+
+---
+
+## Index
+
+**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
+
+Other pages in this section:
+- [[About]]
+- [[About The Logo]]
+- [[Studio Constitution]]
+- [[Relationships]]
+- [[Foundation - Contents]]
+- [[Ghost Pages]]

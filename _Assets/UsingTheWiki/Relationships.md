@@ -122,3 +122,17 @@ Before adding a declared relationship, ask:
 6. Is the reverse relationship independently true, or are we merely assuming symmetry?
 
 If the relationship survives those tests, it is probably worth declaring.
+
+---
+
+## Index
+
+**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
+
+Other pages in this section:
+- [[About]]
+- [[Start Here]]
+- [[About The Logo]]
+- [[Studio Constitution]]
+- [[Foundation - Contents]]
+- [[Ghost Pages]]

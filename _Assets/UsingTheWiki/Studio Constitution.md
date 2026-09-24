@@ -32,3 +32,17 @@ Only top-level folders are numbered. Numbers reveal order without turning the wh
 ## Stewardship rule
 
 No substantive change is silent. Earlier thinking is preserved where it remains useful, and current canonical wording has one clear home.
+
+---
+
+## Index
+
+**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
+
+Other pages in this section:
+- [[About]]
+- [[Start Here]]
+- [[About The Logo]]
+- [[Relationships]]
+- [[Foundation - Contents]]
+- [[Ghost Pages]]

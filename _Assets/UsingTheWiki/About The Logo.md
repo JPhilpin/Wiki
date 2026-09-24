@@ -38,3 +38,17 @@ The backslash has an inherently technological feel. Visually, it suggests a diff
 And then there is also this.
 
 ![[philpin-logo-sq-master.jpeg]]
+
+---
+
+## Index
+
+**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
+
+Other pages in this section:
+- [[About]]
+- [[Start Here]]
+- [[Studio Constitution]]
+- [[Relationships]]
+- [[Foundation - Contents]]
+- [[Ghost Pages]]

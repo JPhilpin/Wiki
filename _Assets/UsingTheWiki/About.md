@@ -35,4 +35,16 @@ Questions, corrections, ideas, or a page you would like to see filled in: email 
 
 The wider network lives at [philpin.com](https://philpin.com).
 
-New here? Try [[Start Here]].
+---
+
+## Index
+
+**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
+
+Other pages in this section:
+- [[Start Here]]
+- [[About The Logo]]
+- [[Studio Constitution]]
+- [[Relationships]]
+- [[Foundation - Contents]]
+- [[Ghost Pages]]

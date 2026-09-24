@@ -18,6 +18,8 @@ tags:
 
 The Studio is a working wiki for Structured Thought: the frameworks, models and ideas behind how I think about business and technology. It is built in public, so some pages are finished and some are not.
 
+**New to the wiki?** Start with [[Using The Wiki]] for orientation and context.
+
 The tiles below show the most recent changes in the Studio. The menu, top right, holds everything else.
 
 # Studio
