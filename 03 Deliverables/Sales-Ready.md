@@ -2,8 +2,9 @@
 title: "Sales-Ready"
 summary: "Turning engagement into intelligence: a data-driven system for creating better sales conversations by giving prospects a reason to reveal, and sellers something useful to act on."
 slug: sales-ready
-permalink: /concepts/sales-ready/
-type: concept
+permalink: /deliverables/sales-ready/
+type: deliverable
+domain: Reveal
 status: active
 workflow: crafted
 updated: 2026-09-19

@@ -10,8 +10,9 @@ tags: []
 
 Models for seeing how things fit together, some original and some borrowed.
 
-6 pages.
+7 pages.
 
+- **[[Chaordic]]** - A blend of chaos and order describing how self-organising systems like Visa hold together without central control. Created by Dee Hock.
 - **[[Diamond Model]]**
 - **[[DIKIWI]]** - A Structured Thought extension of DIKW that makes Insight and Impact explicit in the movement from information towards consequential action.
 - **[[DIKW]]** - The established hierarchy describing the progression from Data through Information and Knowledge to Wisdom.

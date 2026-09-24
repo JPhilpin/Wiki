@@ -39,6 +39,12 @@ The same engine runs in two directions. Turned inward, it shows an organisation 
 
 Reveal is the domain that removes agreed fiction (an organisation's fiction about itself, a visitor's fiction about their own problem). Every other domain works better once Reveal has done that. Intelligence has less noise to filter when the real question is already named. Pulse is tracking something true instead of something comfortable. Balance cannot tell you if an exchange still holds until Reveal has established what is actually being exchanged. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
 
+## Deliverables
+
+Named, market-facing applications built on Reveal's principles.
+
+- **[[Sales-Ready]]** - A data-driven system for creating better sales conversations by giving prospects a reason to reveal, and sellers something useful to act on.
+
 ---
 
 ![[eight-domains-diagram.svg]]
