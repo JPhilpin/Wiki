@@ -25,6 +25,6 @@ Dominic Rowsell is a business strategist and change management leader with 25+ y
 
 His book, *Why Killer Products Don't Sell* (co-authored with Ian Gotts), dissects this gap and explains how companies must fundamentally rethink their approach to selling innovation. It's a lesson directly applicable to Structured Thinking: before you can transform how your business operates, you must align how your people think - their assumptions, their behaviors, their entire frame of reference.
 
-## What Dominic Said About My Book
+## Testimonial
 
 ![[BookQuote00005DominicRowsell.jpg]]

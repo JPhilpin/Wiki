@@ -29,6 +29,6 @@ His latest work, SPIKE, is a strengths-based leadership philosophy built on the 
 
 René's philosophy mirrors the heart of Structured Thinking: creating environments where everyone can flourish, where diversity and inclusion drive better decisions, and where leadership is about enabling others rather than controlling them.
 
-## What René Said About My Book
+## Testimonial
 
 ![[BookQuote00001ReneCarayol.jpg]]

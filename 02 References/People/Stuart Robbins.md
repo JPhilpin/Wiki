@@ -30,6 +30,6 @@ Stuart Robbins spent over 20 years as an IT manager in Silicon Valley before dis
 
 His work echoes a central theme in Structured Thinking - that systems don't fail because of the code or architecture, but because the thinking, culture, and assumptions of the people building them are incomplete or misaligned. The system reveals what we didn't know we believed.
 
-## What Stuart Said About My Book
+## Testimonial
 
 ![[BookQuote00004StuartRobbins.jpg]]

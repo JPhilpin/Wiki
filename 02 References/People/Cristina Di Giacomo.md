@@ -19,6 +19,6 @@ tags:
 <p><strong>Famous For:</strong> <a href="">Testimonial</a></p>
 </div>
 
-## What Cristina Said About My Book
+## Testimonial
 
 ![[BookQuote00002CristinaDiGiacomo.jpg]]

@@ -21,6 +21,6 @@ tags:
 <p><strong>Famous For:</strong> Area of expertise</p>
 </div>
 
-## What Daniel Said About My Book
+## Testimonial
 
 ![[BookQuote00008DanielSzuc.jpg]]

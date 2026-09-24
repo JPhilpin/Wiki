@@ -20,6 +20,6 @@ tags:
 <p><strong>Famous For:</strong> Area of expertise</p>
 </div>
 
-## What Mary Ann Said About My Book
+## Testimonial
 
 ![[BookQuote00009MaryAnnAllison.jpg]]

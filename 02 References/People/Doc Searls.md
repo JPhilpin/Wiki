@@ -28,7 +28,7 @@ Doc Searls is a technologist, author, and editor best known as one of the four c
 
 His subsequent work on Vendor Relationship Management (VRM) extended that thinking to its logical conclusion: if markets are conversations, customers need tools that put them on equal footing with vendors. He co-founded the Internet Identity Workshop (IIW) to advance that agenda. His work sits at the heart of what Structured Thinking calls the shift from systems of record to systems of engagement - the customer as participant, not target.
 
-## What Doc Said About My Book
+## Testimonial
 
 <p></p>
 

@@ -29,6 +29,6 @@ Her philosophy: Sales 2.0 is not just technology adoption, but a combination of 
 
 Anneke now runs Reality Works Group, helping 450+ clients build sales organisations grounded in data-driven thinking and customer reality.
 
-## What Anneke Said About My Book
+## Testimonial
 
 ![[BookQuote00007AnnekeSeley.jpg]]

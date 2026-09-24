@@ -28,7 +28,7 @@ Geoffrey Moore is a Silicon Valley author, speaker, and advisor best known for C
 
 His follow-on work Zone to Win (2015) tackled how large enterprises can pursue disruptive innovation without cannibalising their existing business - a problem that sits squarely in the middle of what Structured Thinking addresses.
 
-## What Geoff Said About My Book
+## Testimonial
 
 <p></p>
 
