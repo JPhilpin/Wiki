@@ -1,6 +1,6 @@
 ---
 title: Cristina Di Giacomo
-summary: "Wikipedia: Cristina Di Giacomo Famous For: Testimonial"
+summary: "Wikipedia: Cristina Di Giacomo"
 slug: cristinadigiacomo
 permalink: /references/cristinadigiacomo/
 type: reference
@@ -16,7 +16,6 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> [[Cristina Di Giacomo]]</p>
-<p><strong>Famous For:</strong> [[Testimonial]]</p>
 </div>
 
 ## Testimonial
