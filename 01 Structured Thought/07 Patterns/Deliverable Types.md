@@ -7,9 +7,7 @@ type: pattern
 status: active
 workflow: crafted
 updated: 2026-09-25
-tags:
-  - deliverables
-  - domains
+tags: []
 aliases: []
 ---
 
