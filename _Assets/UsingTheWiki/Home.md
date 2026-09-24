@@ -26,7 +26,7 @@ The tiles below show the most recent changes in the Studio. The menu, top right,
 
 **The thinking is mine. The implementation is Claude's.**
 
-This site, like [philpin.com](https://philpin.com), is built in partnership with Claude (Anthropic). That's a different arrangement from [john.philpin.com](https://john.philpin.com), which is pure hand-crafted human  -  no AI in the writing or the build (OK - maybe the css 😉). Here, the ideas, the arguments and the judgment calls are mine. The drafting, structuring and editorial mechanics run through Claude, against rules I've set (see [[Studio Constitution]]). Neither replaces the other. They're different tools for different work.
+This site, like [philpin.com](https://philpin.com), is built in partnership with Claude (Anthropic). That's a different arrangement from [john.philpin.com](https://john.philpin.com), which is pure hand-crafted human  -  no AI in the writing or the build (OK - maybe the css 😉). Here, the ideas, the arguments and the judgment calls are mine. The drafting, structuring and editorial mechanics run through Claude, against rules I've set. Neither replaces the other. They're different tools for different work.
 
 Studio is where that partnership is actually happening.
 
@@ -70,12 +70,5 @@ Start with [[000 The World We Inherit]].
 ## Working rule
 
 The architecture is considered stable enough to test through writing. Structural changes should arise from evidence in the work, not from the search for a theoretically perfect filing system.
-
-## Related
-
-- [[Studio Constitution]]
-- [[Architecture Should Emerge]]
-- [[Structured Thought]]
-- [[Canon]]
 
 <!-- git sync test Fri Sep  4 09:12:53 NZST 2026 -->
