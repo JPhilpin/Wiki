@@ -1,6 +1,6 @@
 ---
 title: Rene Carayol
-summary: "Wikipedia: René Carayol Author: SPIKE Author: Corporate Voodoo Author: My Voodoo Famous For: Inclusive Leadership Famous For: FTSE/Fortune 500 Advisory René Carayol MBE is one..."
+summary: "René Carayol MBE is an executive coach and leadership speaker known for SPIKE, Corporate Voodoo and three decades advising boardrooms on culture and inclusive leadership."
 slug: renecarayol
 permalink: /references/renecarayol/
 type: reference

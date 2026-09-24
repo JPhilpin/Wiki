@@ -1,6 +1,6 @@
 ---
 title: "Doc Searls"
-summary: "Wikipedia: Doc Searls Author: Cluetrain Manifesto Author: The Intention Economy Famous For: Markets Are Conversations Famous For: The VRM Movement Famous For: Internet Identity..."
+summary: "A co-author of The Cluetrain Manifesto and pioneer of Vendor Relationship Management, Doc Searls has spent decades reimagining the relationship between markets, customers and technology."
 slug: docsearls
 permalink: /references/docsearls/
 type: reference

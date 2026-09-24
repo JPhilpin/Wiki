@@ -1,6 +1,6 @@
 ---
 title: Geoffrey Moore
-summary: "Wikipedia: Geoffrey Moore Author: Crossing The Chasm Author: Zone To Win Famous For: Chasm Theory Geoffrey Moore is a Silicon Valley author, speaker, and advisor best known for..."
+summary: "Geoffrey Moore is the Silicon Valley author and advisor behind Crossing The Chasm and Zone To Win, shaping how a generation of technology companies think about market adoption and disruption."
 slug: geoffreymoore
 permalink: /references/geoffreymoore/
 type: reference

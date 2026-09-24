@@ -1,6 +1,6 @@
 ---
 title: Anneke Seley
-summary: "Author: Sales 2.0 Author: Next Era Selling Famous For: Oracle Direct/Inside Sales Revolution Famous For: Reality Works Group Anneke Seley was the 12th employee at Oracle and..."
+summary: "The 12th employee at Oracle, Anneke Seley designed OracleDirect - the inside sales model that grew into a multibillion-dollar operation - and later co-authored Sales 2.0."
 slug: annekeseley
 permalink: /references/annekeseley/
 type: reference

@@ -1,6 +1,6 @@
 ---
 title: Dominic Rowsell
-summary: "Author: Why Killer Products Don't Sell Famous For: Sales Transformation Famous For: Behavioral Change in Organisations Dominic Rowsell is a business strategist and change..."
+summary: "A business strategist with 25+ years in sales transformation, Dominic Rowsell co-authored Why Killer Products Don't Sell, showing why organisational mindset - not the product - determines whether innovation succeeds."
 slug: dominicrowsell
 permalink: /references/dominicrowsell/
 type: reference
