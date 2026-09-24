@@ -10,7 +10,7 @@ version: '0.2'
 aliases:
   - Five Ds
 tags:
-  - 5ds
+  - 5D
 ---
 
 ## Working definition

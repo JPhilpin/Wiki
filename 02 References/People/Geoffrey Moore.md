@@ -14,6 +14,7 @@ tags:
   - author
   - originator
   - collaborator
+  - testimonial
 ---
 
 <div class="meta-section">

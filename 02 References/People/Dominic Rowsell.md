@@ -1,5 +1,5 @@
 ---
-title: "Dominic Rowsell"
+title: Dominic Rowsell
 summary: "Author: Why Killer Products Don't Sell Famous For: Sales Transformation Famous For: Behavioral Change in Organisations Dominic Rowsell is a business strategist and change..."
 slug: dominicrowsell
 permalink: /references/dominicrowsell/
@@ -12,6 +12,7 @@ aliases: []
 tags:
   - author
   - practitioner
+  - testimonial
 ---
 
 <div class="meta-section">

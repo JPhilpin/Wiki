@@ -1,6 +1,6 @@
 ---
 title: Promotion
-summary: "The work of making an idea, offer or achievement visible, understandable and compelling to relevant people."
+summary: The work of making an idea, offer or achievement visible, understandable and compelling to relevant people.
 slug: promotion
 permalink: /glossary/promotion/
 type: glossary
@@ -10,6 +10,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 4P
 ---
 
 ## In Structured Thought

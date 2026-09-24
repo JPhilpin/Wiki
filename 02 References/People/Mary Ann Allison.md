@@ -1,5 +1,5 @@
 ---
-title: "Mary Ann Allison"
+title: Mary Ann Allison
 summary: ""
 slug: maryannallison
 permalink: /references/maryannallison/
@@ -12,6 +12,7 @@ aliases: []
 tags:
   - collaborator
   - practitioner
+  - testimonial
 ---
 
 <div class="meta-section">

@@ -1,5 +1,5 @@
 ---
-title: "Cristina Di Giacomo"
+title: Cristina Di Giacomo
 summary: "Wikipedia: Cristina Di Giacomo Famous For: Testimonial"
 slug: cristinadigiacomo
 permalink: /references/cristinadigiacomo/
@@ -11,6 +11,7 @@ updated: 2026-08-21
 aliases: []
 tags:
   - collaborator
+  - testimonial
 ---
 
 <div class="meta-section">

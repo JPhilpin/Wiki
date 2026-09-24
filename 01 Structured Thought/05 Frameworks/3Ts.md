@@ -11,7 +11,7 @@ aliases:
   - Three Ts
   - The Three Ts
 tags:
-  - 3ts
+  - 3T
 ---
 
 ## Working definition

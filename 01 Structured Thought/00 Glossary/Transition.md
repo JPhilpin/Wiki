@@ -12,7 +12,7 @@ aliases:
   - transitions
 tags:
   - process
-  - 3ts
+  - 3T
 ---
 
 ## In Structured Thought

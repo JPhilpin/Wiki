@@ -1,5 +1,5 @@
 ---
-title: "Stuart Robbins"
+title: Stuart Robbins
 summary: "Author: Lessons in Grid Computing: The System Is a Mirror Famous For: Information Systems Theory Famous For: Silicon Valley CIO Leadership Stuart Robbins spent over 20 years as..."
 slug: stuartrobbins
 permalink: /references/stuartrobbins/
@@ -12,6 +12,7 @@ aliases: []
 tags:
   - author
   - collaborator
+  - testimonial
 ---
 
 <div class="meta-section">

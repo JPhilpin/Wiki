@@ -8,7 +8,7 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "4c"
+  - "4C"
   - "quality"
   - "design"
 aliases:

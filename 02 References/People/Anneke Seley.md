@@ -1,5 +1,5 @@
 ---
-title: "Anneke Seley"
+title: Anneke Seley
 summary: "Author: Sales 2.0 Author: Next Era Selling Famous For: Oracle Direct/Inside Sales Revolution Famous For: Reality Works Group Anneke Seley was the 12th employee at Oracle and..."
 slug: annekeseley
 permalink: /references/annekeseley/
@@ -13,6 +13,7 @@ tags:
   - author
   - collaborator
   - practitioner
+  - testimonial
 ---
 
 <div class="meta-section">

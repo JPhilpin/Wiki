@@ -1,5 +1,5 @@
 ---
-title: "Daniel Szuc"
+title: Daniel Szuc
 summary: ""
 slug: danielszuc
 permalink: /references/danielszuc/
@@ -13,6 +13,7 @@ tags:
   - author
   - practitioner
   - collaborator
+  - testimonial
 ---
 
 <div class="meta-section">

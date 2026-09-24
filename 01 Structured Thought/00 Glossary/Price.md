@@ -1,6 +1,6 @@
 ---
 title: Price
-summary: "The amount requested or accepted in exchange for an offer, distinct from the value experienced by either party."
+summary: The amount requested or accepted in exchange for an offer, distinct from the value experienced by either party.
 slug: price
 permalink: /glossary/price/
 type: glossary
@@ -12,6 +12,7 @@ aliases:
   - prices
 tags:
   - output
+  - 4P
 ---
 
 ## In Structured Thought

@@ -1,6 +1,6 @@
 ---
 title: Place
-summary: "A physical, social or conceptual context made meaningful through location, relationship and experience."
+summary: A physical, social or conceptual context made meaningful through location, relationship and experience.
 slug: place
 permalink: /glossary/place/
 type: glossary
@@ -12,6 +12,7 @@ aliases:
   - places
 tags:
   - input
+  - 4P
 ---
 
 ## In Structured Thought

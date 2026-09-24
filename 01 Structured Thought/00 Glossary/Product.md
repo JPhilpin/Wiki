@@ -1,6 +1,6 @@
 ---
 title: Product
-summary: "A deliberately shaped bundle of value that can be used, experienced, exchanged or supported."
+summary: A deliberately shaped bundle of value that can be used, experienced, exchanged or supported.
 slug: product
 permalink: /glossary/product/
 type: glossary
@@ -12,6 +12,7 @@ aliases:
   - products
 tags:
   - output
+  - 4P
 ---
 
 ## In Structured Thought

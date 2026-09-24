@@ -8,7 +8,7 @@ status: active
 workflow: crafted
 updated: 2026-09-11
 tags:
-  - "4e"
+  - "4E"
   - "engagement"
 aliases:
   - "4Es"

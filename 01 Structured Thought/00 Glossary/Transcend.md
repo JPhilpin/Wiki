@@ -10,7 +10,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
-  - 3ts
+  - 3T
 ---
 
 ## In Structured Thought

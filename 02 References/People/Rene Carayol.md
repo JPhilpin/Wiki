@@ -1,5 +1,5 @@
 ---
-title: "Rene Carayol"
+title: Rene Carayol
 summary: "Wikipedia: René Carayol Author: SPIKE Author: Corporate Voodoo Author: My Voodoo Famous For: Inclusive Leadership Famous For: FTSE/Fortune 500 Advisory René Carayol MBE is one..."
 slug: renecarayol
 permalink: /references/renecarayol/
@@ -11,6 +11,7 @@ updated: 2026-08-21
 aliases: []
 tags:
   - author
+  - testimonial
 ---
 
 <div class="meta-section">
