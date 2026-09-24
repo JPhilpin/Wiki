@@ -13,14 +13,15 @@ The Studio comprises a few hundred pages. This is one route through them, in the
 
 ## The path
 
-1. **[[Structured Thought]]** - the discipline behind everything here, and what it is for.
-2. **[[000 The World We Inherit|The World We Inherit]]** - the opening paper. Why the old playbook no longer fits.
-3. **[[The Business Equation]]** - how a business combines people, money and things to create and exchange value.
-4. **[[People, Money and Things]]** - the three elements the equation is built from.
-5. **[[PESC]] and [[CEDN]]** - the two halves of value: how it gets made, and who it gets made for.
-6. **[[Systems of Record]] and [[Systems of Engagement]]** - the shift most organisations are somewhere in the middle of.
-7. **[[The Five Ds]]** - a framework that puts the ideas to work.
-8. **[[Engage]]** - one of the eight Domains, where the thinking meets a real area of practice.
+The foundational papers, in order. Each one depends on the paper before it.
+
+1. **[[000 The World We Inherit|The World We Inherit]]** - why this exists. Knowledge is abundant, understanding is scarce, and the world needs a discipline for turning one into the other.
+2. **[[001 From Information to Understanding]]** - the chain every decision passes through: information becomes knowledge, knowledge becomes understanding, understanding becomes judgement, judgement becomes action.
+3. **[[002 The Architecture of Knowledge]]** - knowledge has structure independent of the documents that express it, built from reusable units connected by explicit relationships.
+4. **[[003 The Architecture of Concepts|Primitives]]** - the smallest stable units of meaning: the vocabulary everything else is built from.
+5. **[[004 Concepts]]** - Primitives combine through relationship into Concepts, the point where meaning first emerges.
+6. **[[005 Principles]]** - the enduring truths that govern how Concepts behave, giving knowledge continuity as it grows.
+7. **[[006 Models]]** - deliberate representations of Principles, built to make understanding shareable, testable and actionable.
 
 ## After the path
 
