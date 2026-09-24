@@ -9,7 +9,7 @@ tags:
 - start
 ---
 
-<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start" class="is-current">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/orientation">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start" class="is-current">Start Here</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/orientation">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
 
 The Studio comprises a few hundred pages. This is one route through them, in the order the ideas build on each other. Each stop takes a few minutes. Read them in sequence, or stop wherever something catches.
 
