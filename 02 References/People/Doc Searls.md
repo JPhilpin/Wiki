@@ -17,11 +17,11 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Doc_Searls">Doc Searls</a></p>
-<p><strong>Author:</strong> <a href="/cluetrain-manifesto">Cluetrain Manifesto</a></p>
-<p><strong>Author:</strong> <a href="/the-intention-economy">The Intention Economy</a></p>
-<p><strong>Famous For:</strong> <a href="/markets-are-conversations">Markets Are Conversations</a></p>
-<p><strong>Famous For:</strong> <a href="/vrm">The VRM Movement</a></p>
-<p><strong>Famous For:</strong> <a href="/internet-identity-workshop">Internet Identity Workshop</a></p>
+<p><strong>Author:</strong> [[Cluetrain Manifesto]]</p>
+<p><strong>Author:</strong> [[The Intention Economy]]</p>
+<p><strong>Famous For:</strong> [[Markets Are Conversations]]</p>
+<p><strong>Famous For:</strong> [[The VRM Movement]]</p>
+<p><strong>Famous For:</strong> [[Internet Identity Workshop]]</p>
 </div>
 
 Doc Searls is a technologist, author, and editor best known as one of the four co-authors of The Cluetrain Manifesto (1999) - the document that declared "markets are conversations" and challenged the entire premise of broadcast marketing at the moment the internet was making it obsolete.

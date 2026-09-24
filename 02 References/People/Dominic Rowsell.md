@@ -16,9 +16,9 @@ tags:
 ---
 
 <div class="meta-section">
-<p><strong>Author:</strong> <a href="/why-killer-products-dont-sell">Why Killer Products Don't Sell</a></p>
-<p><strong>Famous For:</strong> <a href="/sales-transformation">Sales Transformation</a></p>
-<p><strong>Famous For:</strong> <a href="/behavioral-change">Behavioral Change in Organisations</a></p>
+<p><strong>Author:</strong> [[Why Killer Products Don't Sell]]</p>
+<p><strong>Famous For:</strong> [[Sales Transformation]]</p>
+<p><strong>Famous For:</strong> [[Behavioral Change in Organisations]]</p>
 </div>
 
 Dominic Rowsell is a business strategist and change management leader with 25+ years of experience in sales transformation consulting. Through his work with global companies - Cisco, Airbus, Fuji-Xerox, and others - he identified a critical failure pattern: killer products do fail not because of the product, but because the selling mindset and organisational behavior don't match the customer's reality.

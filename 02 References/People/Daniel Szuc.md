@@ -17,8 +17,8 @@ tags:
 ---
 
 <div class="meta-section">
-<p><strong>Author:</strong> <a href="">Book Title</a></p>
-<p><strong>Famous For:</strong> Area of expertise</p>
+<p><strong>Author:</strong> [[Book Title]]</p>
+<p><strong>Famous For:</strong> [[Area of expertise]]</p>
 </div>
 
 ## Testimonial

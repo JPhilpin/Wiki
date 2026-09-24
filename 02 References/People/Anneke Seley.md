@@ -17,10 +17,10 @@ tags:
 ---
 
 <div class="meta-section">
-<p><strong>Author:</strong> <a href="/sales-2-0">Sales 2.0</a></p>
-<p><strong>Author:</strong> <a href="/next-era-selling">Next Era Selling</a></p>
-<p><strong>Famous For:</strong> <a href="/inside-sales-revolution">Oracle Direct/Inside Sales Revolution</a></p>
-<p><strong>Famous For:</strong> Reality Works Group</p>
+<p><strong>Author:</strong> [[Sales 2.0]]</p>
+<p><strong>Author:</strong> [[Next Era Selling]]</p>
+<p><strong>Famous For:</strong> [[Oracle Direct/Inside Sales Revolution]]</p>
+<p><strong>Famous For:</strong> [[Reality Works Group]]</p>
 </div>
 
 Anneke Seley was the 12th employee at Oracle and the designer of OracleDirect - the company's revolutionary inside sales organisation that grew into a multibillion-dollar global operation. As co-author of *Sales 2.0* (with Britton Manasco), she articulated how the marriage of Web 2.0 technologies with innovative sales processes fundamentally reimagines how companies generate revenue.

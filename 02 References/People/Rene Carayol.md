@@ -16,11 +16,11 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Carayol">René Carayol</a></p>
-<p><strong>Author:</strong> <a href="/spike-what-are-you-great-at">SPIKE</a></p>
-<p><strong>Author:</strong> <a href="/corporate-voodoo">Corporate Voodoo</a></p>
-<p><strong>Author:</strong> <a href="/my-voodoo">My Voodoo</a></p>
-<p><strong>Famous For:</strong> <a href="/inclusive-leadership">Inclusive Leadership</a></p>
-<p><strong>Famous For:</strong> FTSE/Fortune 500 Advisory</p>
+<p><strong>Author:</strong> [[SPIKE]]</p>
+<p><strong>Author:</strong> [[Corporate Voodoo]]</p>
+<p><strong>Author:</strong> [[My Voodoo]]</p>
+<p><strong>Famous For:</strong> [[Inclusive Leadership]]</p>
+<p><strong>Famous For:</strong> [[FTSE/Fortune 500 Advisory]]</p>
 </div>
 
 René Carayol MBE is one of the world's leading executive coaches and leadership speakers, specialising in organisational culture, transformation, and inclusive leadership. Appointed Member of the Order of the British Empire for his contributions to the business community, he brings over 30 years of boardroom experience advising world leaders and CEOs.

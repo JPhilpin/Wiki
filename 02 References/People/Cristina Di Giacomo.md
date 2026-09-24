@@ -15,8 +15,8 @@ tags:
 ---
 
 <div class="meta-section">
-<p><strong>Wikipedia:</strong> <a href="">Cristina Di Giacomo</a></p>
-<p><strong>Famous For:</strong> <a href="">Testimonial</a></p>
+<p><strong>Wikipedia:</strong> [[Cristina Di Giacomo]]</p>
+<p><strong>Famous For:</strong> [[Testimonial]]</p>
 </div>
 
 ## Testimonial
