@@ -15,8 +15,6 @@ tags:
 - stewardship
 ---
 
-<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution" class="is-current">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/orientation">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
-
 ## Purpose
 
 STUDIO is the working environment in which Structured Thought is captured, tested, connected and developed into durable knowledge. It is published live: what is here is the current state of that work, not a finished result.

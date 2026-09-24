@@ -13,8 +13,6 @@ tags:
 aliases: []
 ---
 
-<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/" class="is-current">Relationships</a><a href="/orientation">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
-
 Structured Thought is not simply a collection of pages. Its value also lies in the relationships between ideas, terms and structures.
 
 A link and a relationship are not the same thing.

@@ -8,8 +8,6 @@ status: active
 tags: []
 ---
 
-<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/orientation" class="is-current">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
-
 The rules, relationships and background that govern how the Studio is built.
 
 5 pages.
