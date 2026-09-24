@@ -22,7 +22,7 @@ This wiki is a living knowledge system. It publishes both the thinking (Structur
 
 ## About This Space
 
-- **[[About]]** — What the wiki is and why it exists.
+- **[About](/about)** — What the wiki is and why it exists.
 - **[[About The Logo]]** — The PHI⑊PIN mark and what it represents.
 - **[[Studio Constitution]]** — How the wiki is governed and structured.
 

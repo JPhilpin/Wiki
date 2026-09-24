@@ -30,4 +30,4 @@ The Studio comprises a few hundred pages. This is one route through them, in the
 - Follow any tag at the top of a page to see what else carries it.
 - Press Surprise Me on the homepage and let the Studio choose.
 
-For why this exists and who builds it, see [[About]].
+For why this exists and who builds it, see [About](/about).
