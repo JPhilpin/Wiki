@@ -1,6 +1,6 @@
 ---
 title: Transform
-summary: "To change the underlying form, logic or capability of something rather than merely altering its appearance."
+summary: To change the underlying form, logic or capability of something rather than merely altering its appearance.
 slug: transform
 permalink: /glossary/transform/
 type: glossary
@@ -10,6 +10,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 3ts
 ---
 
 ## In Structured Thought

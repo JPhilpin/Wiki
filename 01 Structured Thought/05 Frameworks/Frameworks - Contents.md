@@ -18,5 +18,5 @@ Frameworks that turn the ideas into something usable.
 - **[[The Five Ds]]**
 - **[[The Four Es]]** - Essence, Exchange, Ease and Experience  -  the customer-side replacement for the Four Ps, and the lens applied at every stage of the Engagement Framework.
 - **[[The Four Ps]]**
-- **[[The Three Ts]]**
+- **[[3Ts]]**
 - **[[Wardley Maps]]**

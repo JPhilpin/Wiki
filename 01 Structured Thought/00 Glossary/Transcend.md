@@ -1,6 +1,6 @@
 ---
 title: Transcend
-summary: "To move beyond an existing limit, frame or condition without necessarily discarding what came before."
+summary: To move beyond an existing limit, frame or condition without necessarily discarding what came before.
 slug: transcend
 permalink: /glossary/transcend/
 type: glossary
@@ -10,6 +10,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 3ts
 ---
 
 ## In Structured Thought

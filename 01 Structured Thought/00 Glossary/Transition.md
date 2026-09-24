@@ -1,6 +1,6 @@
 ---
 title: Transition
-summary: "The managed or emergent passage from one state, identity or operating condition to another."
+summary: The managed or emergent passage from one state, identity or operating condition to another.
 slug: transition
 permalink: /glossary/transition/
 type: glossary
@@ -12,6 +12,7 @@ aliases:
   - transitions
 tags:
   - process
+  - 3ts
 ---
 
 ## In Structured Thought

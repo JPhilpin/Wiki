@@ -1,14 +1,15 @@
 ---
-title: The Three Ts
+title: 3Ts
 type: framework
 status: active
 collection: Structured Thought
 owner: John Philpin
-created: '2026-07-14'
-updated: '2026-08-23'
-version: '0.2'
+created: 2026-07-14
+updated: 2026-08-23
+version: "0.2"
 aliases:
   - Three Ts
+  - The Three Ts
 tags:
   - 3ts
 ---
