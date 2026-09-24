@@ -14,6 +14,8 @@ tags:
 - knowledge-system
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio" class="is-current">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+
 ## Homepage Banner (live site)
 
 > Draft copy for the wiki.philpin.com homepage banner, currently hardcoded in `menu-banner.html` on Blot. Captured here so it can be edited in Obsidian, then pasted back into the template. Not yet templated/pulled automatically. Cut material moved to [[Home2]] in 05 Candidates.

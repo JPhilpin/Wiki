@@ -68,6 +68,8 @@ tags:
   - studio
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages" class="is-current">Ghost Pages</a></nav>
+
 <nav class="studio-listnav"><a href="/entries-list-alphabetical">Entries A to Z</a><a href="/entries-list-most-recent">Recent changes</a><a href="/tags-list-alphabetical">Tags A to Z</a><a href="/types-list">Types A to Z</a><a href="/families-list">Families</a><a href="/ghost-pages" class="is-current">Ghost pages</a></nav>
 
 Pages that other pages link to, but that have not been written yet. {len(wanted)} wanted and {len(ideas)} ideas, most-linked first. Generated from the vault on {datetime.date.today():%-d %B %Y}.

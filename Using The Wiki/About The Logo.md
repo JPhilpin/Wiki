@@ -9,6 +9,8 @@ tags:
 - start
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo" class="is-current">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+
 ![[philpin-logo-lscape-master.jpeg]]
 
 Is the logo just a device, or does it mean something?
@@ -38,17 +40,3 @@ The backslash has an inherently technological feel. Visually, it suggests a diff
 And then there is also this.
 
 ![[philpin-logo-sq-master.jpeg]]
-
----
-
-## Index
-
-**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
-
-Other pages in this section:
-- [[About]]
-- [[000 Using The Wiki/Start Here]]
-- [[Studio Constitution]]
-- [[Relationships]]
-- [[Foundation - Contents]]
-- [[Ghost Pages]]

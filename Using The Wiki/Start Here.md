@@ -9,6 +9,8 @@ tags:
 - start
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start" class="is-current">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+
 The Studio comprises a few hundred pages. This is one route through them, in the order the ideas build on each other. Each stop takes a few minutes. Read them in sequence, or stop wherever something catches.
 
 ## The path
@@ -29,17 +31,3 @@ The Studio comprises a few hundred pages. This is one route through them, in the
 - Press Surprise Me on the homepage and let the Studio choose.
 
 For why this exists and who builds it, see [[About]].
-
----
-
-## Index
-
-**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
-
-Other pages in this section:
-- [[About]]
-- [[About The Logo]]
-- [[Studio Constitution]]
-- [[Relationships]]
-- [[Foundation - Contents]]
-- [[Ghost Pages]]

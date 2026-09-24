@@ -9,6 +9,8 @@ tags:
   - studio
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki" class="is-current">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+
 # Using The Wiki
 
 This wiki is a living knowledge system. It publishes both the thinking (Structured Thought) and the infrastructure (how we build it). Here's what you need to know to find your way.
@@ -16,7 +18,7 @@ This wiki is a living knowledge system. It publishes both the thinking (Structur
 ## Getting Started
 
 - **[[Start Here]]** — New to the wiki? Begin here. A guided orientation to its structure and purpose.
-- **[[Home]]** — The wiki's primary entry point and navigation hub.
+- **[[Home|Studio]]** — The wiki's primary entry point and navigation hub.
 
 ## About This Space
 

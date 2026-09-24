@@ -9,6 +9,8 @@ tags:
   - studio
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages" class="is-current">Ghost Pages</a></nav>
+
 <nav class="studio-listnav"><a href="/entries-list-alphabetical">Entries A to Z</a><a href="/entries-list-most-recent">Recent changes</a><a href="/tags-list-alphabetical">Tags A to Z</a><a href="/types-list">Types A to Z</a><a href="/families-list">Families</a><a href="/ghost-pages" class="is-current">Ghost pages</a></nav>
 
 Pages that other pages link to, but that have not been written yet. 3 wanted and 0 ideas, most-linked first. Generated from the vault on 24 September 2026.
@@ -26,17 +28,3 @@ Pages the Studio clearly means to have.
 Single terms linked in passing. Each could grow into a glossary entry.
 
 None right now.
-
----
-
-## Index
-
-**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
-
-Other pages in this section:
-- [[About]]
-- [[000 Using The Wiki/Start Here]]
-- [[About The Logo]]
-- [[Studio Constitution]]
-- [[Relationships]]
-- [[Foundation - Contents]]

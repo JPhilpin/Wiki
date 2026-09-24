@@ -13,6 +13,8 @@ tags:
 aliases: []
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/" class="is-current">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+
 Structured Thought is not simply a collection of pages. Its value also lies in the relationships between ideas, terms and structures.
 
 A link and a relationship are not the same thing.
@@ -122,17 +124,3 @@ Before adding a declared relationship, ask:
 6. Is the reverse relationship independently true, or are we merely assuming symmetry?
 
 If the relationship survives those tests, it is probably worth declaring.
-
----
-
-## Index
-
-**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
-
-Other pages in this section:
-- [[About]]
-- [[000 Using The Wiki/Start Here]]
-- [[About The Logo]]
-- [[Studio Constitution]]
-- [[Foundation - Contents]]
-- [[Ghost Pages]]

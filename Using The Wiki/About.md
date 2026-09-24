@@ -9,6 +9,8 @@ tags:
 - start
 ---
 
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about" class="is-current">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+
 ## What this is
 
 The Studio is the working home of Structured Thought: the frameworks, models and ideas behind how I think about business and technology, and about the messy middle where people bump into technology.
@@ -34,17 +36,3 @@ That is a deliberate contrast with [john.philpin.com](https://john.philpin.com),
 Questions, corrections, ideas, or a page you would like to see filled in: email [wikiupdates@philpin.com](mailto:wikiupdates@philpin.com) with the page name, or just say hello. It takes a village.
 
 The wider network lives at [philpin.com](https://philpin.com).
-
----
-
-## Index
-
-**[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
-
-Other pages in this section:
-- [[000 Using The Wiki/Start Here]]
-- [[About The Logo]]
-- [[Studio Constitution]]
-- [[Relationships]]
-- [[Foundation - Contents]]
-- [[Ghost Pages]]
