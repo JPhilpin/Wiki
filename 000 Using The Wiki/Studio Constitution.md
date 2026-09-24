@@ -1,5 +1,7 @@
 ---
 title: Studio Constitution
+slug: studio-constitution
+permalink: /studio-constitution
 type: foundation
 status: active
 collection: Studio Operations
@@ -41,7 +43,7 @@ No substantive change is silent. Earlier thinking is preserved where it remains 
 
 Other pages in this section:
 - [[About]]
-- [[Start Here]]
+- [[000 Using The Wiki/Start Here]]
 - [[About The Logo]]
 - [[Relationships]]
 - [[Foundation - Contents]]

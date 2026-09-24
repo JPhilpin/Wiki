@@ -42,7 +42,7 @@ The wider network lives at [philpin.com](https://philpin.com).
 **[[Using The Wiki]]** — Orientation guide to the Studio and how to navigate it.
 
 Other pages in this section:
-- [[Start Here]]
+- [[000 Using The Wiki/Start Here]]
 - [[About The Logo]]
 - [[Studio Constitution]]
 - [[Relationships]]

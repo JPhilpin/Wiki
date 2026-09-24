@@ -47,7 +47,7 @@ And then there is also this.
 
 Other pages in this section:
 - [[About]]
-- [[Start Here]]
+- [[000 Using The Wiki/Start Here]]
 - [[Studio Constitution]]
 - [[Relationships]]
 - [[Foundation - Contents]]

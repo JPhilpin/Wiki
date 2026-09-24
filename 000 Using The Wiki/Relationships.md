@@ -131,7 +131,7 @@ If the relationship survives those tests, it is probably worth declaring.
 
 Other pages in this section:
 - [[About]]
-- [[Start Here]]
+- [[000 Using The Wiki/Start Here]]
 - [[About The Logo]]
 - [[Studio Constitution]]
 - [[Foundation - Contents]]

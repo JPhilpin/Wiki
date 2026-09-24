@@ -35,7 +35,7 @@ None right now.
 
 Other pages in this section:
 - [[About]]
-- [[Start Here]]
+- [[000 Using The Wiki/Start Here]]
 - [[About The Logo]]
 - [[Studio Constitution]]
 - [[Relationships]]

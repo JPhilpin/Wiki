@@ -1,5 +1,7 @@
 ---
 title: Studio
+slug: studio
+permalink: /studio
 type: Landing Page
 status: active
 collection: Studio
