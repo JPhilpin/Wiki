@@ -32,4 +32,4 @@ His subsequent work on Vendor Relationship Management (VRM) extended that thinki
 
 <p></p>
 
-![Book Quote from Doc Searls](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00006DocSearls.jpg)
+![[BookQuote00006DocSearls.jpg]]

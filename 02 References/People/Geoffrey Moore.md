@@ -32,4 +32,4 @@ His follow-on work Zone to Win (2015) tackled how large enterprises can pursue d
 
 <p></p>
 
-![Book Quote from Geoffrey Moore](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00003GeoffreyMoore.jpg)
+![[BookQuote00003GeoffreyMoore.jpg]]

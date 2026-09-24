@@ -23,4 +23,4 @@ tags:
 
 ## What Daniel Said About My Book
 
-![Book Quote from Daniel Szuc](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00008DanielSzuc.jpg)
+![[BookQuote00008DanielSzuc.jpg]]

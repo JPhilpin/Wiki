@@ -27,4 +27,4 @@ His book, *Why Killer Products Don't Sell* (co-authored with Ian Gotts), dissect
 
 ## What Dominic Said About My Book
 
-![Book Quote from Dominic Rowsell](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00005DominicRowsell.jpg)
+![[BookQuote00005DominicRowsell.jpg]]

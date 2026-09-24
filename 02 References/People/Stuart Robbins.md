@@ -32,4 +32,4 @@ His work echoes a central theme in Structured Thinking - that systems don't fail
 
 ## What Stuart Said About My Book
 
-![Book Quote from Stuart Robbins](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00004StuartRobbins.jpg)
+![[BookQuote00004StuartRobbins.jpg]]

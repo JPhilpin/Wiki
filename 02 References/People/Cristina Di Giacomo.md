@@ -21,4 +21,4 @@ tags:
 
 ## What Cristina Said About My Book
 
-![Book Quote from Cristina Di Giacomo](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00002CristinaDiGiacomo.jpg)
+![[BookQuote00002CristinaDiGiacomo.jpg]]

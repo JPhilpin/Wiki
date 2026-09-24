@@ -22,4 +22,4 @@ tags:
 
 ## What Mary Ann Said About My Book
 
-![Book Quote from Mary Ann Allison](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00009MaryAnnAllison.jpg)
+![[BookQuote00009MaryAnnAllison.jpg]]

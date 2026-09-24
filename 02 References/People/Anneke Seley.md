@@ -31,4 +31,4 @@ Anneke now runs Reality Works Group, helping 450+ clients build sales organisati
 
 ## What Anneke Said About My Book
 
-![Book Quote from Anneke Seley](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00007AnnekeSeley.jpg)
+![[BookQuote00007AnnekeSeley.jpg]]

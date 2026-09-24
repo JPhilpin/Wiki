@@ -31,4 +31,4 @@ René's philosophy mirrors the heart of Structured Thinking: creating environmen
 
 ## What René Said About My Book
 
-![Book Quote from Rene Carayol](https://philpin.com/resources/public/images/mybooktestimonials/BookQuote00001ReneCarayol.jpg)
+![[BookQuote00001ReneCarayol.jpg]]
