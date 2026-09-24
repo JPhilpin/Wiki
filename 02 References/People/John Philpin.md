@@ -1,6 +1,6 @@
 ---
 title: "John Philpin"
-summary: "Famous For: Structured Thought Famous For: The Business Equation"
+summary: "Known For: Structured Thought Known For: The Business Equation"
 slug: john-philpin
 permalink: /references/john-philpin/
 type: reference
@@ -16,6 +16,6 @@ tags:
 ---
 
 <div class="meta-section">
-<p><strong>Famous For:</strong> <a href="/structured-thought">Structured Thought</a></p>
-<p><strong>Famous For:</strong> <a href="/business-equation">The Business Equation</a></p>
+<p><strong>Known For:</strong> <a href="/structured-thought">Structured Thought</a></p>
+<p><strong>Known For:</strong> <a href="/business-equation">The Business Equation</a></p>
 </div>

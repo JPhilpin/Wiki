@@ -1,6 +1,6 @@
 ---
 title: "Seth Godin"
-summary: "Wikipedia: Seth Godin Famous For: Permission Marketing Famous For: Purple Cow Seth Simple and obvious… or nuanced and complicated?"
+summary: "Wikipedia: Seth Godin Known For: Permission Marketing Known For: Purple Cow Seth Simple and obvious… or nuanced and complicated?"
 slug: seth-godin
 permalink: /references/seth-godin/
 type: reference
@@ -16,8 +16,8 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Seth_Godin">Seth Godin</a></p>
-<p><strong>Famous For:</strong> <a href="">Permission Marketing</a></p>
-<p><strong>Famous For:</strong> <a href="">Purple Cow</a></p>
+<p><strong>Known For:</strong> <a href="">Permission Marketing</a></p>
+<p><strong>Known For:</strong> <a href="">Purple Cow</a></p>
 </div>
 
 Seth

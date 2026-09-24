@@ -1,6 +1,6 @@
 ---
 title: "Harold Leavitt"
-summary: "Wikipedia: Harold Leavitt Famous For: People, Process and Technology Harold Leavitt was an American organisational psychologist and professor at Stanford Graduate School of..."
+summary: "Wikipedia: Harold Leavitt Known For: People, Process and Technology Harold Leavitt was an American organisational psychologist and professor at Stanford Graduate School of..."
 slug: harold-leavitt
 permalink: /references/harold-leavitt/
 type: reference
@@ -16,7 +16,7 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Harold_Leavitt" target="_blank">Harold Leavitt</a></p>
-<p><strong>Famous For:</strong> <a href="/people-process-technology">People, Process and Technology</a></p>
+<p><strong>Known For:</strong> <a href="/people-process-technology">People, Process and Technology</a></p>
 </div>
 
 Harold Leavitt was an American organisational psychologist and professor at Stanford Graduate School of Business. In 1964 he proposed what became known as the Leavitt Diamond - a model showing that organisations are made up of four interdependent variables: people, task, structure, and technology. Change one and you inevitably disturb the others.

@@ -1,6 +1,6 @@
 ---
 title: "Ted Levitt"
-summary: "Wikipedia: Theodore Levitt Famous For: Marketing Myopia Famous For: The Globalisation of Markets Famous For: Editor, Harvard Business Review Ted Levitt was a Harvard Business..."
+summary: "Wikipedia: Theodore Levitt Known For: Marketing Myopia Known For: The Globalisation of Markets Known For: Editor, Harvard Business Review Ted Levitt was a Harvard Business..."
 slug: ted-levitt
 permalink: /references/ted-levitt/
 type: reference
@@ -17,9 +17,9 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Theodore_Levitt" target="_blank">Theodore Levitt</a></p>
-<p><strong>Famous For:</strong> Marketing Myopia</p>
-<p><strong>Famous For:</strong> The Globalisation of Markets</p>
-<p><strong>Famous For:</strong> Editor, Harvard Business Review</p>
+<p><strong>Known For:</strong> Marketing Myopia</p>
+<p><strong>Known For:</strong> The Globalisation of Markets</p>
+<p><strong>Known For:</strong> Editor, Harvard Business Review</p>
 </div>
 
 Ted Levitt was a Harvard Business School professor and one of the most influential thinkers in the history of marketing. His 1960 article *Marketing Myopia* is one of the best-selling Harvard Business Review reprints ever published, and its central argument remains as sharp today as when he wrote it.

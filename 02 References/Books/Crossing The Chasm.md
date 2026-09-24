@@ -1,6 +1,6 @@
 ---
 title: "Crossing The Chasm"
-summary: "Author: Structured Thinking/ People/Geoffrey Moore Famous For: Wikipedia: At its core, _Crossing the Chasm_ is about how breakthrough technologies move from early enthusiasts..."
+summary: "Author: Structured Thinking/ People/Geoffrey Moore Known For: Wikipedia: At its core, _Crossing the Chasm_ is about how breakthrough technologies move from early enthusiasts..."
 slug: crossing-the-chasm
 permalink: /references/crossing-the-chasm/
 type: reference
@@ -16,7 +16,7 @@ tags: []
 	
 	<div class="meta-section"> 
 	<strong>Author:</strong> [[Geoffrey Moore]]
-	<strong>Famous For:</strong>
+	<strong>Known For:</strong>
 	<strong>Wikipedia:</strong>
  </div>
 

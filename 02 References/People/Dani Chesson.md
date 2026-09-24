@@ -16,5 +16,5 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="">Dani Chesson</a></p>
-<p><strong>Famous For:</strong> <a href="">Podcasting</a></p>
+<p><strong>Known For:</strong> <a href="">Podcasting</a></p>
 </div>

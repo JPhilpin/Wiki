@@ -1,6 +1,6 @@
 ---
 title: "Dee Hock"
-summary: "Wikipedia: Dee Hock Famous For: The Chaordic Organisation Dee Hock founded Visa in 1970 and built it deliberately as a chaordic organisation - one that sits in the grey area..."
+summary: "Wikipedia: Dee Hock Known For: The Chaordic Organisation Dee Hock founded Visa in 1970 and built it deliberately as a chaordic organisation - one that sits in the grey area..."
 slug: dee-hock
 permalink: /references/dee-hock/
 type: reference
@@ -15,7 +15,7 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Dee_Hock" target="_blank">Dee Hock</a></p>
-<p><strong>Famous For:</strong> <a href="/chaordic">The Chaordic Organisation</a></p>
+<p><strong>Known For:</strong> <a href="/chaordic">The Chaordic Organisation</a></p>
 </div>
 
 Dee Hock founded Visa in 1970 and built it deliberately as a chaordic organisation - one that sits in the grey area between order and chaos. He coined the term in 1996 to describe systems that are simultaneously chaotic and ordered, arguing that the most adaptive and resilient organisations are neither rigidly controlled nor anarchic, but something harder to achieve and much harder to maintain.

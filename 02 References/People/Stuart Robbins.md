@@ -17,8 +17,8 @@ tags:
 
 <div class="meta-section">
 <p><strong>Author:</strong> [[Lessons in Grid Computing: The System Is a Mirror]]</p>
-<p><strong>Famous For:</strong> [[Information Systems Theory]]</p>
-<p><strong>Famous For:</strong> [[Silicon Valley CIO Leadership]]</p>
+<p><strong>Known For:</strong> [[Information Systems Theory]]</p>
+<p><strong>Known For:</strong> [[Silicon Valley CIO Leadership]]</p>
 </div>
 
 

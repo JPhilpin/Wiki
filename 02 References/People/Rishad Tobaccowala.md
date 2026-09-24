@@ -1,6 +1,6 @@
 ---
 title: "Rishad Tobaccowala"
-summary: "Wikipedia: Rishad Tobaccowala Famous For: Advertising & Marketing Famous For: Media Leadership"
+summary: "Wikipedia: Rishad Tobaccowala Known For: Advertising & Marketing Known For: Media Leadership"
 slug: rishad-tobaccowala
 permalink: /references/rishad-tobaccowala/
 type: reference
@@ -16,6 +16,6 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Rishad_Tobaccowala">Rishad Tobaccowala</a></p>
-<p><strong>Famous For:</strong> <a href="">Advertising & Marketing</a></p>
-<p><strong>Famous For:</strong> <a href="">Media Leadership</a></p>
+<p><strong>Known For:</strong> <a href="">Advertising & Marketing</a></p>
+<p><strong>Known For:</strong> <a href="">Media Leadership</a></p>
 </div>
