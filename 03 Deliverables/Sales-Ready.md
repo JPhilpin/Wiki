@@ -1,5 +1,5 @@
 ---
-title: "Sales-Ready"
+title: Sales-Ready
 summary: "Turning engagement into intelligence: a data-driven system for creating better sales conversations by giving prospects a reason to reveal, and sellers something useful to act on."
 slug: sales-ready
 permalink: /deliverables/sales-ready/
@@ -9,11 +9,7 @@ status: active
 workflow: crafted
 updated: 2026-09-19
 tags:
-  - "reveal"
-  - "sales-ready"
-  - "engagement"
-  - "intelligence"
-  - "data"
+  - reveal
 aliases:
   - "Sales-Ready: Turning Engagement into Intelligence"
 ---

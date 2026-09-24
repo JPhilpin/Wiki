@@ -10,6 +10,7 @@ tags: []
 
 Recurring shapes worth recognising when they appear.
 
-1 page.
+2 pages.
 
+- **[[Deliverable Types]]** - The five ways Structured Thought becomes something a client engages with, inside any Domain: Advisory, Consulting, Product, License, Enablement.
 - **[[Engagement Profile]]**
