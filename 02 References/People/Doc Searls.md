@@ -12,6 +12,7 @@ aliases: []
 tags:
   - author
   - collaborator
+  - testimonial
 ---
 
 <div class="meta-section">
