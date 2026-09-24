@@ -9,7 +9,7 @@ tags:
 - start
 ---
 
-<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about" class="is-current">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+<nav class="studio-listnav"><a href="/using-the-wiki">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about" class="is-current">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/orientation">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
 
 ## What this is
 

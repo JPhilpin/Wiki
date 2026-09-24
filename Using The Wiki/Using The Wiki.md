@@ -9,7 +9,7 @@ tags:
   - studio
 ---
 
-<nav class="studio-listnav"><a href="/using-the-wiki" class="is-current">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/foundation">Foundation</a><a href="/ghost-pages">Ghost Pages</a></nav>
+<nav class="studio-listnav"><a href="/using-the-wiki" class="is-current">Using The Wiki</a><a href="/start">Start Here</a><a href="/studio">Studio</a><a href="/about">About</a><a href="/logo">About The Logo</a><a href="/studio-constitution">Studio Constitution</a><a href="/foundation/relationships/">Relationships</a><a href="/orientation">Orientation</a><a href="/ghost-pages">Ghost Pages</a></nav>
 
 # Using The Wiki
 
@@ -29,5 +29,5 @@ This wiki is a living knowledge system. It publishes both the thinking (Structur
 ## Context & Relationships
 
 - **[[Relationships]]** — How this wiki connects to the broader PHILPIN ecosystem (john.philpin.com, philpin.com, etc.).
-- **[[Foundation - Contents]]** — A map of foundational knowledge within the wiki.
+- **[[Orientation]]** — A map of foundational knowledge within the wiki.
 - **[[Ghost Pages]]** — Pages the wiki is asking for. A transparent window into what's missing.
