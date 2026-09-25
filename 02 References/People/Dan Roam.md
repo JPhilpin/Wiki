@@ -1,6 +1,6 @@
 ---
 title: Dan Roam
-summary: "Dan Roam is the bestselling author and visual thinking pioneer whose work on using simple drawings to solve complex problems has reshaped how global enterprises communicate, innovate, and make decisions."
+summary: Dan Roam is the bestselling author and visual thinking pioneer whose work on using simple drawings to solve complex problems has reshaped how global enterprises communicate, innovate, and make decisions.
 slug: danroam
 permalink: /references/people/danroam/
 type: reference
@@ -9,7 +9,6 @@ status: active
 workflow: crafted
 updated: 2026-09-26
 aliases:
-  - Dan Roams
 tags:
   - author
   - originator
@@ -31,7 +30,11 @@ tags:
 
 Dan Roam is a visual communication strategist and bestselling author best known for The Back of the Napkin (2008), which proved that a simple drawing on a humble napkin can communicate more powerfully than the most polished PowerPoint presentation. His central insight: everyone possesses an innate capacity for visual thinking, even those who swear they cannot draw. This insight has influenced how thousands of organisations approach problem-solving and innovation.
 
-**Roam's foundational contribution to Structured Thought is this: if I can't draw an idea, it is usually because I don't (yet) understand it well enough.** Drawing is not decoration or confirmation; it is the discipline of understanding. The inability to externalise thought into visual form exposes gaps in reasoning, clarifies what we thought we knew but actually do not. This is Structured Thought in action: visibility as the prerequisite for rigour.
+**Roam's contribution to Structured Thought is this foundational and behind the scenes contributes to one of my [[Johnisms]];
+
+> If I can't draw an idea, it is usually because I don't (yet) understand it well enough.
+
+Drawing is not decoration or confirmation; it is the discipline of understanding. The inability to externalise thought into visual form exposes gaps in reasoning, clarifies what we thought we knew but actually do not. To my mind, this is Structured Thought in action: visibility as the prerequisite for rigour.
 
 Drawing on more than twenty-five years of experience and grounded in vision science, Roam teaches that visual thinking follows a sequence: looking, seeing, imagining, and showing. His SQVID framework (Simple, Quality, Vision, Individual, Change) provides a practical toolkit for translating any complex problem into clear, actionable visuals. This work sits directly at the intersection where Structured Thinking operates: making the invisible visible, and turning abstract problems into concrete, shareable solutions.
 
