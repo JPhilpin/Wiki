@@ -19,9 +19,9 @@ tags:
 <div class="meta-section">
 <p><strong>Website:</strong> <a href="https://www.scottbrinker.com/">scottbrinker.com</a></p>
 <p><strong>Email:</strong> Chief Martec Newsletter</p>
-<p><strong>Known For:</strong> [[Human-in-the-Loop (HITL)]]</p>
-<p><strong>Known For:</strong> [[Marketing Abundance]]</p>
-<p><strong>Known For:</strong> [[Marketing Technology Architecture]]</p>
+<p><strong>Known For:</strong> Human-in-the-Loop (HITL)</p>
+<p><strong>Known For:</strong> Marketing Abundance</p>
+<p><strong>Known For:</strong> Marketing Technology Architecture</p>
 <p><strong>Founded:</strong> ChiefMartec</p>
 </div>
 

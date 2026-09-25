@@ -18,11 +18,11 @@ tags:
 
 <div class="meta-section">
 <p><strong>Website:</strong> <a href="https://www.danroam.com/">danroam.com</a></p>
-<p><strong>Author:</strong> [[The Back of the Napkin]]</p>
-<p><strong>Author:</strong> [[Blah Blah Blah]]</p>
-<p><strong>Author:</strong> [[Draw to Win]]</p>
-<p><strong>Author:</strong> [[Show and Tell]]</p>
-<p><strong>Known For:</strong> [[Visual Thinking]]</p>
+<p><strong>Author:</strong> The Back of the Napkin</p>
+<p><strong>Author:</strong> Blah Blah Blah</p>
+<p><strong>Author:</strong> Draw to Win</p>
+<p><strong>Author:</strong> Show and Tell</p>
+<p><strong>Known For:</strong> Visual Thinking</p>
 <p><strong>Known For:</strong> SQVID Framework</p>
 <p><strong>Founded:</strong> Napkin Academy</p>
 </div>
