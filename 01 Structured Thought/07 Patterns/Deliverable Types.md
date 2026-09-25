@@ -13,19 +13,25 @@ aliases: []
 
 ![[deliverable-types-diagram.svg]]
 
+[ ] Action - Update This Page to 6 types
+[ ] Action - Adjust Diagram
+[ ] Action - 6 elements organised
+
 Every [[01 Structured Thought/08 Domains/Domains Index|Domain]] can produce a [[Deliverables|Deliverable]] - a named, market-facing application of its thinking. The Domain changes. The five ways it can reach a client do not.
 
-## The five types
+## The six types
 
 **Advisory** - You think alongside the client. Strategic guidance, not hands-on delivery. They still do the work; you help them see it clearly.
 
 **Consulting** - You do the work for them. Hands-on delivery inside their organisation, using the Domain's thinking to solve a specific problem.
 
-**Product** - They use something you built. [[Sales-Ready]] is the first example: a system built on Reveal that a client engages with directly, without you in the room.
+**Enablement** - You transfer the capability. Their own team learns to run the methodology themselves. Distinct from License (no IP handover) and from Consulting (you're not the one doing it).
+
+**Injection** - 
 
 **License** - They get rights to the IP itself. The methodology, the framework, the system - transferred, with no ongoing involvement from you required.
 
-**Enablement** - You transfer the capability. Their own team learns to run the methodology themselves. Distinct from License (no IP handover) and from Consulting (you're not the one doing it).
+**Product** - They use something you built. [[Sales-Ready]] is the first example: a system built on Reveal that a client engages with directly, without you in the room.
 
 ## The axis this isn't
 
