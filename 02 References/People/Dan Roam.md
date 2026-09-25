@@ -30,7 +30,7 @@ tags:
 
 Dan Roam is a visual communication strategist and bestselling author best known for The Back of the Napkin (2008), which proved that a simple drawing on a humble napkin can communicate more powerfully than the most polished PowerPoint presentation. His central insight: everyone possesses an innate capacity for visual thinking, even those who swear they cannot draw. This insight has influenced how thousands of organisations approach problem-solving and innovation.
 
-**Roam's contribution to Structured Thought is this foundational and behind the scenes contributes to one of my [[Johnisms]];
+**Roam's contribution to Structured Thought is this foundational and behind the scenes contributes to one of my [[Johnisms]];**
 
 > If I can't draw an idea, it is usually because I don't (yet) understand it well enough.
 
