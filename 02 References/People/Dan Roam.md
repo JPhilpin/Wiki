@@ -14,6 +14,8 @@ tags:
   - author
   - originator
   - practitioner
+  - people
+  - visual-thinker
 ---
 
 <div class="meta-section">
@@ -28,6 +30,8 @@ tags:
 </div>
 
 Dan Roam is a visual communication strategist and bestselling author best known for The Back of the Napkin (2008), which proved that a simple drawing on a humble napkin can communicate more powerfully than the most polished PowerPoint presentation. His central insight — that everyone possesses an innate capacity for visual thinking, even those who swear they cannot draw — has influenced how thousands of organisations approach problem-solving and innovation.
+
+**Roam's foundational contribution to Structured Thought is elemental: the act of drawing forces clarity. If you cannot draw it simply, you do not yet understand it well enough.** This insight transforms the role of visual expression from ornament to discipline — making the invisible visible by requiring that abstract thinking submit to the test of representation.
 
 Drawing on more than twenty-five years of experience and grounded in vision science, Roam teaches that visual thinking follows a sequence: looking, seeing, imagining, and showing. His SQVID framework (Simple, Quality, Vision, Individual, Change) provides a practical toolkit for translating any complex problem into clear, actionable visuals. This work sits directly at the intersection where Structured Thinking operates — making the invisible visible, and turning abstract problems into concrete, shareable solutions.
 

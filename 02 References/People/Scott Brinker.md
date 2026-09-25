@@ -14,6 +14,8 @@ tags:
   - originator
   - voice
   - practitioner
+  - people
+  - visual-thinker
 ---
 
 <div class="meta-section">
@@ -26,6 +28,8 @@ tags:
 </div>
 
 Scott Brinker is a marketing technology strategist and essayist best known for flipping the conventional anxiety about artificial intelligence entirely on its head. Where most discourse treats AI as a replacement for human judgment, Brinker argues that as AI handles routine tasks, it paradoxically expands the scope of valuable human work—what he calls **Marketing Abundance**.
+
+**Brinker's contribution to Structured Thought is the visualisation of human judgment's role within technological systems.** His Human-in-the-Loop (HITL) matrix renders visible the precise work that humans must do at each stage of an automated workflow—not as overhead, but as the irreplaceable layer of discernment and wisdom that technology amplifies. This is what Structured Thought means by making human judgment scalable: you cannot optimise what you cannot see.
 
 His Human-in-the-Loop (HITL) framework breaks down human involvement in AI workflows into four quadrants—Verification, Consideration, Discernment, and Wisdom—allocating human judgment to the tasks where it is most precious: those requiring expertise, contextual understanding, and the ability to weigh competing values. This directly parallels Structured Thought's own core insight: that the real bottleneck in modern organisations is not whether to deploy technology, but how to create the discipline and infrastructure to make human judgment visible, testable, and scalable.
 
