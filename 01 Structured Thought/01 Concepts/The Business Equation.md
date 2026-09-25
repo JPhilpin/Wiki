@@ -19,11 +19,11 @@ At its core, any business combines **People, Money and Things**, applies capabil
 
 ## Graphics
 
-Two versions currently in circulation - candidates while a single canonical version and narrative get worked out.
+Two versions currently in circulation - candidates while a single canonical version and narrative get worked out. The second has been redrawn clean (the original had a stray artifact and a muddy centre).
 
 ![[the-business-equation.png]]
 
-![[the-business-equation-simplified.png]]
+![[the-business-equation-clean.svg]]
 
 The Equation also frames a larger transition in where business power resides. Producer-led organisations historically optimised around supply, control, efficiency and systems of record. Increasingly, customers, networks, engagement and live demand signals shape how value is created and delivered.
 
