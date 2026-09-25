@@ -41,7 +41,7 @@ Reveal is the domain that removes agreed fiction (an organisation's fiction abou
 
 ## Deliverables
 
-Named, market-facing applications built on Reveal's principles. Every Domain can produce the same five kinds - see [[Deliverable Types]].
+Named, market-facing applications built on Reveal's principles. Every Domain can produce the same six kinds - see [[Deliverable Types]].
 
 - **[[Sales-Ready]]** - A data-driven system for creating better sales conversations by giving prospects a reason to reveal, and sellers something useful to act on.
 
