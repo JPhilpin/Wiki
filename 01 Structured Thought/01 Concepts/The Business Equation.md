@@ -15,8 +15,6 @@ aliases:
 
 **The Business Equation** provides a high-level context for understanding how a business creates value and how that context is changing.
 
-![[the-business-equation.png]]
-
 At its core, any business combines **People, Money and Things**, applies capability, process and judgement, and creates value that other people or organisations are willing to exchange for.
 
 The Equation also frames a larger transition in where business power resides. Producer-led organisations historically optimised around supply, control, efficiency and systems of record. Increasingly, customers, networks, engagement and live demand signals shape how value is created and delivered.
