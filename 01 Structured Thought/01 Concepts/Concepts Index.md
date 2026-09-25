@@ -5,7 +5,8 @@ slug: concepts
 permalink: /concepts
 type: section
 status: active
-tags: []
+tags:
+  - index
 ---
 
 The core ideas that Structured Thought is built on.

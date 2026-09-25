@@ -5,7 +5,8 @@ slug: patterns
 permalink: /patterns
 type: section
 status: active
-tags: []
+tags:
+  - index
 ---
 
 Recurring shapes worth recognising when they appear.

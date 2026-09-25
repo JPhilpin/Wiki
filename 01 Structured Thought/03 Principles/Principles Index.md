@@ -5,7 +5,8 @@ slug: principles
 permalink: /principles
 type: section
 status: active
-tags: []
+tags:
+  - index
 ---
 
 The commitments that shape how the work is done.

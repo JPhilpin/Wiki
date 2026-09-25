@@ -5,7 +5,8 @@ slug: glossary
 permalink: /glossary
 type: section
 status: active
-tags: []
+tags:
+  - index
 ---
 
 The working vocabulary of Structured Thought: short definitions of the terms used across the Studio.

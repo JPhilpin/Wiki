@@ -5,7 +5,8 @@ slug: deliverables
 permalink: /deliverables
 type: section
 status: active
-tags: []
+tags:
+  - index
 ---
 
 Named, packaged applications of Structured Thought, built inside a Domain and aimed at a market. Where Frameworks organise the thinking, Deliverables are what someone actually engages with. Every Domain can produce the same six types - see [[Deliverable Types]].

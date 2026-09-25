@@ -6,6 +6,7 @@ permalink: /ghost-pages
 type: section
 status: active
 tags:
+  - index
   - studio
 ---
 
