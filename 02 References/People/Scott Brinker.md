@@ -12,7 +12,6 @@ aliases: []
 tags:
   - author
   - originator
-  - voice
   - practitioner
   - people
   - visual-thinker
