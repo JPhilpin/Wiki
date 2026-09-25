@@ -17,6 +17,18 @@ aliases:
 
 At its core, any business combines **People, Money and Things**, applies capability, process and judgement, and creates value that other people or organisations are willing to exchange for.
 
+## Graphics
+
+Four versions currently in circulation - candidates while a single canonical version and narrative get worked out.
+
+![[the-business-equation.png]]
+
+![[the-business-equation-simplified.png]]
+
+![[the-business-equation-peoplefirst-1.png]]
+
+![[the-business-equation-peoplefirst-2.jpg]]
+
 The Equation also frames a larger transition in where business power resides. Producer-led organisations historically optimised around supply, control, efficiency and systems of record. Increasingly, customers, networks, engagement and live demand signals shape how value is created and delivered.
 
 This transition is expressed through two related Concepts:
