@@ -1,6 +1,6 @@
 ---
 title: Scott Brinker
-summary: "Scott Brinker is the technology strategist and author who reframed artificial intelligence and marketing automation not as threats to human workers, but as catalysts for expanding the scope of valuable human judgment and decision-making."
+summary: Scott Brinker is the technology strategist and author who reframed artificial intelligence and marketing automation not as threats to human workers, but as catalysts for expanding the scope of valuable human judgment and decision-making.
 slug: scottbrinker
 permalink: /references/people/scottbrinker/
 type: reference
@@ -14,7 +14,6 @@ tags:
   - originator
   - practitioner
   - people
-  - visual-thinker
 ---
 
 <div class="meta-section">
