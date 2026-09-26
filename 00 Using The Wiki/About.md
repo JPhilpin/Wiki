@@ -9,6 +9,8 @@ tags:
 - start
 ---
 
+*Making the invisible visible.*
+
 ## What this is
 
 The Studio is the working home of Structured Thought: the frameworks, models and ideas behind how I think about business and technology, and about the messy middle where people bump into technology.
