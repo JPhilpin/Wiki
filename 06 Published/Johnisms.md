@@ -10,7 +10,7 @@ updated: 2026-09-26
 ---
 ## Ten Random Johnisms
 
-.. and there are nearly 300 more of these in the database.
+.. with nearly 300 more of these in the database if you want to keep hitting '**refresh**'.
 
 <ul id="random-johnisms-list" style="list-style: none; padding: 0;"></ul>
 
