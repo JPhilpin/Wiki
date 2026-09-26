@@ -1,6 +1,6 @@
 ---
 title: "The Tipping Point"
-summary: "Author: Malcolm Gladwell Mavens: The Knowledge Accumulators Mavens are data banks."
+summary: "How ideas spread as social epidemics through three interdependent player types—Mavens who know, Connectors who reach, and Communicators who persuade."
 slug: the-tipping-point
 permalink: /references/the-tipping-point/
 type: reference

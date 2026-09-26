@@ -1,6 +1,6 @@
 ---
 title: "Pattern Breakers"
-summary: "Author: Mike Maples Wikipedia: Mike Maples Jr."
+summary: "How successful entrepreneurs map current reality to future vision—and the patterns they break to get there."
 slug: pattern-breakers
 permalink: /references/pattern-breakers/
 type: reference

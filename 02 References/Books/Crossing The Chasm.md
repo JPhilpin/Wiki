@@ -1,6 +1,6 @@
 ---
 title: "Crossing The Chasm"
-summary: "Author: Structured Thinking/ People/Geoffrey Moore Known For: Wikipedia: At its core, _Crossing the Chasm_ is about how breakthrough technologies move from early enthusiasts..."
+summary: "How breakthrough technologies move from early enthusiasts to the mainstream market—and the strategic focus required to cross the gap between them."
 slug: crossing-the-chasm
 permalink: /references/crossing-the-chasm/
 type: reference

@@ -1,6 +1,6 @@
 ---
 title: "For Business Leaders Slapped In The Face By A World They Thought They Knew"
-summary: "The comfortable playbook is broken."
+summary: "A manifesto for leaders navigating structural change—moving from systems of record to systems of engagement through structured thinking and the Business Equation framework."
 slug: for-business-leaders
 permalink: /references/for-business-leaders/
 type: reference
