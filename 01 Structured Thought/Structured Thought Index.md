@@ -9,7 +9,7 @@ tags:
   - index
 ---
 
-The body of work at the heart of the Studio, in eleven sections.
+The body of work at the heart of the Studio, in ten sections.
 
 - **[Glossary](/glossary)** - the working vocabulary
 - **[Concepts](/concepts)** - the core ideas
@@ -19,6 +19,5 @@ The body of work at the heart of the Studio, in eleven sections.
 - **[Frameworks](/frameworks)** - the ideas made usable
 - **[Systems](/systems)** - how the parts work together
 - **[Patterns](/patterns)** - recurring shapes worth recognising
-- **[Domains](/domains)** - the eight fields where Structured Thought is applied
 - **[Design Journals](/design-journals)** - how parts of the Studio were designed
 - **[Maps](/maps)** - visual guides to the territory
