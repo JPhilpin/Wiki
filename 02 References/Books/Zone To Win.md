@@ -14,6 +14,8 @@ tags:
   - transformation
 ---
 
-**Author:** [[Geoffrey Moore]]
+<div class="meta-section">
+<p><strong>Author:</strong> [[Geoffrey Moore]]</p>
+</div>
 
-![[moore-zone-to-win.png]]
+Geoffrey Moore's follow-up to Crossing The Chasm, tackling a different problem: how large, established companies pursue disruptive innovation without cannibalising the business that funds them. His answer is to run four distinct zones—Performance, Productivity, Incubation, and Transformation—each with its own resourcing, metrics, and management logic, so new bets aren't starved by the demands of the core business.

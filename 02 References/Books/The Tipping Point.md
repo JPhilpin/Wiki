@@ -12,11 +12,9 @@ aliases: []
 tags: []
 ---
 
-<div class="entry-body">
-	
-	<div class="meta-section"> 
-	<strong>Author:</strong> [[Malcolm Gladwell]]
-	</div>
+<div class="meta-section">
+<p><strong>Author:</strong> [[Malcolm Gladwell]]</p>
+</div>
 
 Gladwell's core insight: ideas spread like epidemics through three interdependent roles. Each brings something essential. Remove one, and momentum stalls.
 
@@ -63,5 +61,3 @@ Together, they create an inside-outside balance. One explains social epidemics; 
 ## Why This Matters
 
 This model is foundational to **People First** thinking in organisational team building. When you understand these three roles, you stop trying to find one superhero and start orchestrating a triad. You recognise that growth acceleration requires all three, that missing one creates a ceiling.
-
-</div>

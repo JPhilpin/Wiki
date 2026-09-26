@@ -12,14 +12,9 @@ aliases: []
 tags: []
 ---
 
-<div class="entry-body">
-
- <div class="meta-section">
- <p><strong>Author:</strong> [[Mike Maples|Mike Maples]]</p>
- <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Mike_Maples_Jr.">Mike Maples Jr.</a></p>
- </div>
+<div class="meta-section">
+<p><strong>Author:</strong> [[Mike Maples|Mike Maples]]</p>
+<p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Mike_Maples_Jr.">Mike Maples Jr.</a></p>
 </div>
 
-![[Invisibles/_Images/quotes/pattern-breakersmike-maples.png]]
-
-<p>It’s the mapping of ‘Current Reality’ to ‘Future Vision’ …</p>
+It's the mapping of 'Current Reality' to 'Future Vision' — the discipline of seeing where a market or technology is heading before consensus catches up, then building toward that future rather than reacting to the present.
