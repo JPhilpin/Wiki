@@ -11,6 +11,6 @@ updated: 2026-09-26
 
 A considered collection of Johnisms: provocative statements designed to reveal underlying truths and challenge assumptions about people, technology, work, value, and the systems we build.
 
-271 Johnisms and counting.
+281 Johnisms and counting.
 
 More to come.
