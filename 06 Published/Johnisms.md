@@ -1,6 +1,6 @@
 ---
 title: Johnisms
-summary: A collection of provocative statements that reveal underlying truths.
+summary: Provocative statements designed to reveal underlying truths and challenge assumptions about people, technology, work, value, and the systems we build.
 slug: johnisms
 permalink: /published/johnisms/
 type: page
@@ -8,14 +8,9 @@ status: active
 workflow: stub
 updated: 2026-09-26
 ---
+## Ten Random Johnisms
 
-Johnisms: 
-
-> provocative statements designed to reveal underlying truths and challenge assumptions about people, technology, work, value, and the systems we build.
-
-281 - and counting.
-
-## Ten At Random
+.. and there are nearly 300 more of these in the database.
 
 <ul id="random-johnisms-list" style="list-style: none; padding: 0;"></ul>
 
