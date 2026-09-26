@@ -15,36 +15,36 @@ The people, books and outside sources the thinking draws on.
 
 ## People
 
-- Mary Ann. **Allison**
-- Stowe. **Boyd**
-- Scott. **Brinker**
-- Rene. **Carayol**
-- John. **Caswell**
-- Dani. **Chesson**
-- Sangeet Paul. **Choudary**
-- Cristina. **Di Giacomo**
-- Malcolm. **Gladwell**
-- Seth. **Godin**
-- Dee. **Hock**
-- Harold. **Leavitt**
-- Garrett. **Lisi**
-- Mike. **Maples**
-- Roger. **Martin**
-- David. **McCandless**
-- Geoffrey. **Moore**
-- John. **Philpin**
-- Dan. **Roam**
-- Stuart. **Robbins**
-- Dominic. **Rowsell**
-- Paul. **Saffo**
-- Prabhat Ranjan. **Sarkar**
-- Doc. **Searls**
-- Dave. **Snowden**
-- Daniel. **Szuc**
-- Rishad. **Tobaccowala**
-- Edward. **Tufte**
-- Simon. **Wardley**
-- Nathan. **Yau**
+- Mary Ann **[[Allison]]**
+- Stowe **[[Boyd]]**
+- Scott **[[Brinker]]**
+- Rene **[[Carayol]]**
+- John **[[Caswell]]**
+- Dani **[[Chesson]]**
+- Sangeet Paul **[[Choudary]]**
+- Cristina **[[Di Giacomo]]**
+- Malcolm **[[Gladwell]]**
+- Seth **[[Godin]]**
+- Dee **[[Hock]]**
+- Harold **[[Leavitt]]**
+- Garrett **[[Lisi]]**
+- Mike **[[Maples]]**
+- Roger **[[Martin]]**
+- David **[[McCandless]]**
+- Geoffrey **[[Moore]]**
+- John **[[Philpin]]**
+- Dan **[[Roam]]**
+- Stuart **[[Robbins]]**
+- Dominic **[[Rowsell]]**
+- Paul **[[Saffo]]**
+- Prabhat Ranjan **[[Sarkar]]**
+- Doc **[[Searls]]**
+- Dave **[[Snowden]]**
+- Daniel **[[Szuc]]**
+- Rishad **[[Tobaccowala]]**
+- Edward **[[Tufte]]**
+- Simon **[[Wardley]]**
+- Nathan **[[Yau]]**
 
 ## Books
 
