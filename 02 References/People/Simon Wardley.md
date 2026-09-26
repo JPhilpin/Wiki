@@ -15,7 +15,7 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Simon_Wardley" target="_blank">Simon Wardley</a></p>
-<p><strong>Known For:</strong> <a href="/wardley-maps">Wardley Maps</a></p>
+<p><strong>Known For:</strong> <a href="/frameworks/wardley-maps/">Wardley Maps</a></p>
 </div>
 
 Simon Wardley is a British researcher and business strategist who developed Wardley Mapping - a technique for visualising the components of a business or system against two axes: value chain position (how visible to the user) and evolutionary stage (from genesis through custom-built and product to commodity). The resulting map makes strategic position visible in a way that conventional strategy tools simply cannot.

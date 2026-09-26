@@ -15,7 +15,7 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Floodgate_Fund" target="_blank">Floodgate</a></p>
-<p><strong>Known For:</strong> <a href="/pattern-breakers">Pattern Breakers</a></p>
+<p><strong>Known For:</strong> <a href="/references/pattern-breakers/">Pattern Breakers</a></p>
 </div>
 
 Mike Maples Jr. is a co-founder of Floodgate, one of Silicon Valley's most successful early-stage venture funds, with investments in Twitter, Lyft, and Twitch among others. His book Pattern Breakers (2024, co-authored with Peter Ziebelman) argues that the startups that truly change the world do not compete within existing patterns - they break them entirely, inflecting how people live and work in ways that incumbent thinking cannot see coming.

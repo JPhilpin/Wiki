@@ -1,6 +1,6 @@
 ---
 title: "Malcolm Gladwell"
-summary: "Wikipedia: Malcolm Gladwell Known For: The Tipping Point Malcolm Gladwell is a Canadian journalist and author who has made a career of taking counterintuitive ideas from..."
+summary: "The journalist and author behind The Tipping Point, best known for making counterintuitive research findings accessible to a general audience."
 slug: malcolm-gladwell
 permalink: /references/malcolm-gladwell/
 type: reference
@@ -15,7 +15,7 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Malcolm_Gladwell" target="_blank">Malcolm Gladwell</a></p>
-<p><strong>Known For:</strong> <a href="/the-tipping-point">The Tipping Point</a></p>
+<p><strong>Known For:</strong> <a href="/references/the-tipping-point/">The Tipping Point</a></p>
 </div>
 
 Malcolm Gladwell is a Canadian journalist and author who has made a career of taking counterintuitive ideas from academic research and making them accessible to a general audience. The Tipping Point (2000) introduced the idea that social change happens not gradually but in sudden epidemics - and that the people who drive those epidemics fall into distinct types: Connectors, Mavens, and Salesmen.

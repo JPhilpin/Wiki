@@ -17,7 +17,7 @@ tags:
 
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Stewart_Brand" target="_blank">Stewart Brand</a></p>
-<p><strong>Known For:</strong> <a href="/pace-layers">Pace Layers</a></p>
+<p><strong>Known For:</strong> <a href="/models/pace-layers/">Pace Layers</a></p>
 <p><strong>Known For:</strong> Whole Earth Catalog</p>
 </div>
 

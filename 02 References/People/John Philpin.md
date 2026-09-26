@@ -16,6 +16,6 @@ tags:
 ---
 
 <div class="meta-section">
-<p><strong>Known For:</strong> <a href="/structured-thought">Structured Thought</a></p>
-<p><strong>Known For:</strong> <a href="/business-equation">The Business Equation</a></p>
+<p><strong>Known For:</strong> <a href="/concepts/structured-thought/">Structured Thought</a></p>
+<p><strong>Known For:</strong> <a href="/concepts/the-business-equation/">The Business Equation</a></p>
 </div>
