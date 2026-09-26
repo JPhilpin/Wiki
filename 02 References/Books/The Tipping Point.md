@@ -18,6 +18,8 @@ tags: []
 	<strong>Author:</strong> [[Malcolm Gladwell]]
 	</div>
 
+Gladwell's core insight: ideas spread like epidemics through three interdependent roles. Each brings something essential. Remove one, and momentum stalls.
+
 ## Mavens: The Knowledge Accumulators
 
 Mavens are data banks. They gather, process, and share useful information. People turn to them for advice because they're reliably knowledgeable.
