@@ -13,6 +13,7 @@ tags:
   - marketing
 aliases:
   - 4Ps
+  - The Four Ps
 ---
 
 ## Working definition
@@ -31,7 +32,7 @@ Stub. More to come.
 
 ### Related
 
-- [[The Four Es]]
+- [[Four Es]]
 - [[E. Jerome McCarthy]]
 
 

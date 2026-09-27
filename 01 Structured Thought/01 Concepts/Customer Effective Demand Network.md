@@ -38,8 +38,8 @@ CEDN and PESC are mirrors of each other, term for term: Producer and Customer, E
 ## Related
 
 - [[Producer Efficient Supply Chain]]
-- [[The Business Equation]]
-- [[The Age of Experience]]
+- [[Business Equation]]
+- [[Age of Experience]]
 
 ## Additional characteristics and examples
 

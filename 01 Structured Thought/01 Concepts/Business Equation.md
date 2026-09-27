@@ -10,7 +10,7 @@ updated: 2026-08-21
 tags:
   - business-equation
 aliases:
-  - Business Equation
+  - The Business Equation
 ---
 
 **The Business Equation** provides a high-level context for understanding how a business creates value and how that context is changing.
@@ -38,7 +38,7 @@ The Business Equation is therefore not a formula in the mathematical sense. It i
 - [[People, Money and Things]]
 - [[Producer Efficient Supply Chain]]
 - [[Customer Effective Demand Network]]
-- [[The Age of Experience]]
+- [[Age of Experience]]
 
 ## The Shift in Business Power
 
@@ -54,4 +54,4 @@ This does not make operational efficiency irrelevant. It changes the question. D
 
 **Producer Efficient Supply Chain → Customer Effective Demand Network**
 
-Related: [[Systems of Record]], [[Systems of Engagement]], [[The Age of Reason]], [[The Age of Experience]].
+Related: [[Systems of Record]], [[Systems of Engagement]], [[Age of Reason]], [[Age of Experience]].

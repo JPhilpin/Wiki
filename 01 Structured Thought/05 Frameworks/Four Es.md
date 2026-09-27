@@ -13,13 +13,14 @@ tags:
   - 4E
 aliases:
   - 4Es
+  - The Four Es
 ---
 
 ## The Four Ps, and why they stop working
 
-The Four Ps  -  Product, Price, Place, Promotion  -  describe a seller pushing a fixed offer into a passive market. They assume the business decides what exists, what it costs, where it is found, and how the market hears about it. That model suited an [[The Age of Reason|Age of Reason]] world: population thinking, standard offers, broadcast media, a clear boundary between seller and buyer.
+The Four Ps  -  Product, Price, Place, Promotion  -  describe a seller pushing a fixed offer into a passive market. They assume the business decides what exists, what it costs, where it is found, and how the market hears about it. That model suited an [[Age of Reason|Age of Reason]] world: population thinking, standard offers, broadcast media, a clear boundary between seller and buyer.
 
-That is not the world we are in. This is the [[The Age of Experience|Age of Experience]]  -  the age of engagement  -  where the customer already knows more than the seller assumes, moves through a private arc long before any seller is in the room (see [[Engagement Framework]]), and judges a business by what it is like to deal with, not by what it is told to think. The Four Ps have nothing to say about any of that. No P describes why someone should care, what they are actually giving up to engage, how much friction stands in their way, or what the relationship feels like once it is underway.
+That is not the world we are in. This is the [[Age of Experience|Age of Experience]]  -  the age of engagement  -  where the customer already knows more than the seller assumes, moves through a private arc long before any seller is in the room (see [[Engagement Framework]]), and judges a business by what it is like to deal with, not by what it is told to think. The Four Ps have nothing to say about any of that. No P describes why someone should care, what they are actually giving up to engage, how much friction stands in their way, or what the relationship feels like once it is underway.
 
 ## The Four Es
 
@@ -39,7 +40,7 @@ Essence, Exchange, Ease and Experience are not stages  -  they are a lens applie
 
 ## Related
 
-- [[The Four Ps]]
+- [[Four Ps]]
 - [[Engagement Framework]]
-- [[The Age of Experience]]
+- [[Age of Experience]]
 - [[Systems of Engagement]]

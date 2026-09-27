@@ -21,9 +21,9 @@ Within Studio, Structured Thought provides the methodology that connects Primiti
 
 ## Related
 
-- [[The Age of Reason]]
-- [[The Age of Experience]]
-- [[The Business Equation]]
+- [[Age of Reason]]
+- [[Age of Experience]]
+- [[Business Equation]]
 
 ## Extended Guide
 

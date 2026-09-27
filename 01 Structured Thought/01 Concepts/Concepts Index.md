@@ -22,6 +22,6 @@ The core ideas that Structured Thought is built on.
 - **[[Structured Thought]]** - A discipline for giving structure to complexity so that people can understand, decide and act with greater clarity.
 - **[[Systems of Engagement]]** - A family of systems designed to improve how people, teams and organisations engage with work, one another and purpose.
 - **[[Systems of Record]]** - A family of systems that maintain authoritative organisational records, transactions and state.
-- **[[The Age of Experience]]** - An emerging context in which experience, relationships, networks and changing context complement reason as foundations for understanding.
-- **[[The Age of Reason]]** - A way of understanding an era dominated by linearity, standardisation, categorisation and confidence in rational systems.
-- **[[The Business Equation]]** - A contextual model of how a business combines people, money and things to create and exchange value.
+- **[[Age of Experience]]** - An emerging context in which experience, relationships, networks and changing context complement reason as foundations for understanding.
+- **[[Age of Reason]]** - A way of understanding an era dominated by linearity, standardisation, categorisation and confidence in rational systems.
+- **[[Business Equation]]** - A contextual model of how a business combines people, money and things to create and exchange value.

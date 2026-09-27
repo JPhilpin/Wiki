@@ -9,7 +9,8 @@ workflow: crafted
 updated: 2026-08-21
 tags:
   - structured-thought
-aliases: []
+aliases:
+  - The Age of Reason
 ---
 
 **The Age of Reason** describes a way of thinking in which the world is made understandable by dividing it into categories, processes, hierarchies and repeatable structures.
@@ -24,5 +25,5 @@ The **Age of Experience** names the emerging context in which those additional d
 
 ## Related
 
-- [[The Age of Experience]]
+- [[Age of Experience]]
 - [[Structured Thought]]

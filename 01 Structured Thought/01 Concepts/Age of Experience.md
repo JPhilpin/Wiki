@@ -9,7 +9,8 @@ workflow: crafted
 updated: 2026-08-21
 tags:
   - structured-thought
-aliases: []
+aliases:
+  - The Age of Experience
 ---
 
 **The Age of Experience** describes an emerging context in which reason remains essential but is no longer sufficient.
@@ -24,6 +25,6 @@ Structured Thought is designed to operate in this environment: enough structure 
 
 ## Related
 
-- [[The Age of Reason]]
+- [[Age of Reason]]
 - [[Structured Thought]]
 - [[Customer Effective Demand Network]]

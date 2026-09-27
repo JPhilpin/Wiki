@@ -23,6 +23,6 @@ Within the Business Equation, Systems of Record represent the record, compliance
 
 ### Related
 
-- [[The Business Equation]]
+- [[Business Equation]]
 - [[Systems of Engagement]]
 - [[Producer Efficient Supply Chain]]

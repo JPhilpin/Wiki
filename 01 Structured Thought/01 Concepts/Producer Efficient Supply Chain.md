@@ -38,7 +38,7 @@ PESC and CEDN are mirrors of each other, term for term: Producer and Customer, E
 ## Related
 
 - [[Customer Effective Demand Network]]
-- [[The Business Equation]]
+- [[Business Equation]]
 
 ## Additional characteristics and examples
 

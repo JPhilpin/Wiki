@@ -10,7 +10,7 @@ status: active
 workflow: crafted
 updated: 2026-09-28
 aliases:
-  - Five Ds
+  - The Five Ds
 tags:
   - 5D
 ---

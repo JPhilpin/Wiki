@@ -31,4 +31,4 @@ This makes the Concept a foundational component of **The Business Equation**.
 
 ## Related
 
-- [[The Business Equation]]
+- [[Business Equation]]

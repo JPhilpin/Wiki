@@ -56,29 +56,29 @@ The rules governing links, direction and declared relationships are defined in [
 
 24. [[Systems of Record]] → `complements` → [[Systems of Engagement]]
 
-25. [[The Age of Reason]] → `evolves-towards` → [[The Age of Experience]]
+25. [[Age of Reason]] → `evolves-towards` → [[Age of Experience]]
 
 26. [[DIKIWI]] → `extends` → [[DIKW]]
 
 ## The Business Equation
 
-27. [[The Business Equation]] → `incorporates` → [[People, Money and Things]]
+27. [[Business Equation]] → `incorporates` → [[People, Money and Things]]
 
-28. [[The Business Equation]] → `incorporates` → [[Producer Efficient Supply Chain]]
+28. [[Business Equation]] → `incorporates` → [[Producer Efficient Supply Chain]]
 
-29. [[The Business Equation]] → `incorporates` → [[Customer Effective Demand Network]]
+29. [[Business Equation]] → `incorporates` → [[Customer Effective Demand Network]]
 
-30. [[The Business Equation]] → `incorporates` → [[Systems of Record]]
+30. [[Business Equation]] → `incorporates` → [[Systems of Record]]
 
-31. [[The Business Equation]] → `incorporates` → [[Systems of Engagement]]
+31. [[Business Equation]] → `incorporates` → [[Systems of Engagement]]
 
-32. [[The Business Equation]] → `connects` → [[The Age of Reason]]
+32. [[Business Equation]] → `connects` → [[Age of Reason]]
 
-33. [[The Business Equation]] → `connects` → [[The Age of Experience]]
+33. [[Business Equation]] → `connects` → [[Age of Experience]]
 
 ## Other Architectural Candidates
 
-34. [[Structured Thought]] → `organises` → [[The Business Equation]]
+34. [[Structured Thought]] → `organises` → [[Business Equation]]
 
 35. [[Engagement Profile]] → `applies-to` → [[01 Structured Thought/00 Glossary/Work]]
 
