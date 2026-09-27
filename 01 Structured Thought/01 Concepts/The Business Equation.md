@@ -1,8 +1,8 @@
 ---
 title: The Business Equation
 summary: A contextual model of how a business combines people, money and things to create and exchange value.
-slug: the-business-equation
-permalink: /concepts/the-business-equation/
+slug: business-equation
+permalink: /concepts/business-equation
 type: concept
 status: active
 workflow: crafted

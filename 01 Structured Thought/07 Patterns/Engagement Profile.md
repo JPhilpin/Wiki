@@ -1,12 +1,13 @@
 ---
 title: Engagement Profile
+summary: ""
+slug: engagement-profile
+permalink: /patterns/engagement-profile
 type: pattern
 status: stub
-collection: Structured Thought
-owner: John Philpin
-created: '2026-07-14'
-updated: '2026-07-16'
-version: '0.1'
+workflow: raw
+updated: 2026-09-28
+aliases: []
 tags:
 - application
 ---
@@ -24,5 +25,5 @@ This page is a Studio stub. It exists so relationships can be recorded before th
 ### Related
 
 - [[Systems of Engagement]]
-- [[Work]]
+- [[01 Structured Thought/00 Glossary/Work]]
 - [[Context Before Personality]]

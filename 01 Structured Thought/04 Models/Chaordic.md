@@ -4,16 +4,26 @@ summary: "A blend of chaos and order describing how self-organising systems like
 slug: chaordic
 permalink: /models/chaordic/
 type: model
-status: active
-workflow: crafted
-updated: 2026-08-21
+origin: borrowed
+source: "[[Dee Hock]]"
+status: stub
+workflow: raw
+updated: 2026-09-28
 tags:
-  - "3rd-party-models"
+  - chaordic
 aliases: []
 ---
 
-Wikipedia: 
+## Working definition
 
-Created by [[Dee Hock|Dee Hock]]
+A blend of chaos and order describing how self-organising systems hold together without central control.
+
+## Provenance
+
+Borrowed from [[Dee Hock]], who coined the term in 1996 and built Visa on it.
+
+## The model
+
+Stub. More to come.
 
 ![[chaord.png]]

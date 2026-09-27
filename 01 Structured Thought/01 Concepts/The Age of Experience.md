@@ -1,8 +1,8 @@
 ---
 title: The Age of Experience
 summary: An emerging context in which experience, relationships, networks and changing context complement reason as foundations for understanding.
-slug: the-age-of-experience
-permalink: /concepts/the-age-of-experience/
+slug: age-of-experience
+permalink: /concepts/age-of-experience
 type: concept
 status: active
 workflow: crafted

@@ -1,8 +1,8 @@
 ---
 title: The Age of Reason
 summary: A way of understanding an era dominated by linearity, standardisation, categorisation and confidence in rational systems.
-slug: the-age-of-reason
-permalink: /concepts/the-age-of-reason/
+slug: age-of-reason
+permalink: /concepts/age-of-reason
 type: concept
 status: active
 workflow: crafted

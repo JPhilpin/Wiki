@@ -4,12 +4,15 @@ summary: ""
 slug: strategic-priorities
 permalink: /frameworks/strategic-priorities/
 type: framework
-status: active
-workflow: crafted
-updated: 2026-08-21
-tags:
-  - "3rd-party-models"
+origin: 
+source: 
+status: stub
+workflow: raw
+updated: 2026-09-28
+tags: []
 aliases: []
 ---
 
-st-
+## Working definition
+
+Stub. Origin not yet determined - the page has no content to classify from.

@@ -1,16 +1,17 @@
 import os, re, sys
 ROOT = "."
 S = [
- ("00 Foundation","Foundation","foundation","The rules, relationships and background that govern how the Studio is built.","title"),
  ("01 Structured Thought/00 Glossary","Glossary","glossary","The working vocabulary of Structured Thought: short definitions of the terms used across the Studio.","letters"),
  ("01 Structured Thought/01 Concepts","Concepts","concepts","The core ideas that Structured Thought is built on.","title"),
  ("01 Structured Thought/02 Papers","Papers","papers","The paper series, in reading order. Each paper builds on the ones before it.","file"),
  ("01 Structured Thought/03 Principles","Principles","principles","The commitments that shape how the work is done.","title"),
  ("01 Structured Thought/04 Models","Models","models","Models for seeing how things fit together, some original and some borrowed.","title"),
  ("01 Structured Thought/05 Frameworks","Frameworks","frameworks","Frameworks that turn the ideas into something usable.","title"),
+ ("01 Structured Thought/06 Systems","Systems","systems","How the parts work together.","title"),
  ("01 Structured Thought/07 Patterns","Patterns","patterns","Recurring shapes worth recognising when they appear.","title"),
  ("01 Structured Thought/08 Domains","Domains","domains","The eight Domains, where the thinking meets an area of practice.","title"),
  ("01 Structured Thought/09 Design Journals","Design Journals","design-journals","Working notes on how parts of the Studio were designed and why.","title"),
+ ("01 Structured Thought/10 Maps","Maps","maps","Visual guides to the territory.","title"),
  ("02 References","References","references","The people, books and outside sources the thinking draws on.","title"),
 ]
 def fm(path):
@@ -22,10 +23,10 @@ def fm(path):
             mm=re.match(r"^(title|summary|kind):\s*(.*)$",line)
             if mm: d[mm.group(1)]=mm.group(2).strip().strip('"').strip("'")
     return d
-def clean(s): return re.sub(r"^\d{3}\s+","",s).strip()
+def clean(s): return re.sub(r"^\d{2,3}\s+","",s).strip()
 out=[]
 for folder,name,slug,intro,order in S:
-    fname=f"{name} - Contents.md"
+    fname=f"{name} Index.md"
     target=os.path.join(folder,fname)
     items=[]
     for dp,_,fs in os.walk(folder):
@@ -57,7 +58,7 @@ for folder,name,slug,intro,order in S:
             body.append(f"- **{link(b,t)}**" + (f" - {s}" if s else ""))
     doc=f"""---
 title: {name}
-summary: Contents of the {name} section.
+summary: Index of the {name} section.
 slug: {slug}
 permalink: /{slug}
 type: section

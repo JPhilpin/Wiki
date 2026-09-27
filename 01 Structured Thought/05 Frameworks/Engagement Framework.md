@@ -4,9 +4,11 @@ summary: "The customer journey from Everyone through Notice, Engage, Commit, Emb
 slug: engagement-framework
 permalink: /frameworks/engagement-framework/
 type: framework
+origin: built
+source: 
 status: active
 workflow: crafted
-updated: 2026-09-11
+updated: 2026-09-28
 tags:
   - "engagement"
   - "customer-journey"

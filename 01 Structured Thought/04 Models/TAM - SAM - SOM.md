@@ -4,9 +4,11 @@ summary: "A market opportunity model that distinguishes total, serviceable and r
 slug: tam-sam-som
 permalink: /models/tam-sam-som/
 type: model
+origin: borrowed
+source: "Common business vocabulary, no single originator"
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-09-28
 tags:
   - "market"
   - "business"

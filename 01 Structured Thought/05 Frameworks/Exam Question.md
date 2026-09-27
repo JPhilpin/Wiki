@@ -4,12 +4,22 @@ summary: ""
 slug: exam-question
 permalink: /frameworks/exam-question/
 type: framework
-status: active
-workflow: crafted
-updated: 2026-08-21
+origin: borrowed
+source: "[[John Caswell]]"
+status: stub
+workflow: raw
+updated: 2026-09-28
 tags:
-  - "3rd-party-models"
+  - questions
 aliases: []
 ---
+
+## Working definition
+
+Stub. More to come.
+
+## Provenance
+
+Borrowed from [[John Caswell]].
 
 

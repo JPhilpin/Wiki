@@ -4,9 +4,11 @@ summary: "The established hierarchy describing the progression from Data through
 slug: dikw
 permalink: /models/dikw/
 type: model
+origin: borrowed
+source: "[[Russell Ackoff]]"
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-09-28
 tags:
   - "dikw"
   - "knowledge"

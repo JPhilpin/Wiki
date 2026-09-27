@@ -4,9 +4,11 @@ summary: "A Structured Thought extension of DIKW that makes Insight and Impact e
 slug: dikiwi
 permalink: /models/dikiwi/
 type: model
+origin: bent
+source: "[[Russell Ackoff]] via [[DIKW]]"
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-09-28
 tags:
   - "dikiwi"
   - "knowledge"

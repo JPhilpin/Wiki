@@ -1,14 +1,37 @@
 ---
 title: "The Four Ps"
 summary: ""
-slug: the-four-ps
-permalink: /frameworks/the-four-ps/
+slug: 4ps
+permalink: /frameworks/4ps
 type: framework
-status: active
-workflow: crafted
-updated: 2026-08-21
-tags: []
-aliases: []
+origin: borrowed
+source: "[[E. Jerome McCarthy]]"
+status: stub
+workflow: raw
+updated: 2026-09-28
+tags:
+  - marketing
+aliases:
+  - 4Ps
 ---
+
+## Working definition
+
+Product, Price, Place and Promotion - the seller-side categories that ran marketing for sixty years.
+
+## Provenance
+
+Borrowed from [[E. Jerome McCarthy]], set out in Basic Marketing (1960).
+
+## The framework
+
+Stub. More to come.
+
+## Relationships
+
+### Related
+
+- [[The Four Es]]
+- [[E. Jerome McCarthy]]
 
 

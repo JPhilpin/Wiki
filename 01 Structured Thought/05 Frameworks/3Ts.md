@@ -1,12 +1,14 @@
 ---
 title: 3Ts
+summary: A progression of intended impact - Transform people, Transition organisations, Transcend markets.
+slug: 3ts
+permalink: /frameworks/3ts/
 type: framework
+origin: built
+source: 
 status: active
-collection: Structured Thought
-owner: John Philpin
-created: 2026-07-14
-updated: 2026-08-23
-version: "0.2"
+workflow: crafted
+updated: 2026-09-28
 aliases:
   - Three Ts
   - The Three Ts

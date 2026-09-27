@@ -4,12 +4,20 @@ summary: ""
 slug: wardley-maps
 permalink: /frameworks/wardley-maps/
 type: framework
-status: active
-workflow: crafted
-updated: 2026-08-21
+origin: borrowed
+source: "[[Simon Wardley]]"
+status: stub
+workflow: raw
+updated: 2026-09-28
 tags:
-  - "3rd-party-models"
+  - strategy
 aliases: []
 ---
 
-[[Simon Wardley]]
+## Working definition
+
+Stub. More to come.
+
+## Provenance
+
+Borrowed from [[Simon Wardley]].

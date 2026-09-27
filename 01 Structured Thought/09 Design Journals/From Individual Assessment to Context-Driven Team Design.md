@@ -1,12 +1,13 @@
 ---
 title: From Individual Assessment to Context-Driven Team Design
+summary: ""
+slug: from-individual-assessment-to-context-driven-team-design
+permalink: /design-journals/from-individual-assessment-to-context-driven-team-design
 type: design-journal
 status: working
-collection: Structured Thought
-owner: John Philpin
-created: '2026-07-14'
-updated: '2026-07-16'
-version: '0.1'
+workflow: raw
+updated: 2026-09-28
+aliases: []
 tags: []
 ---
 
@@ -354,6 +355,6 @@ It enables organisations to transform people, transition organisations, and tran
 
 - [[Engagement Profile]]
 - [[Systems of Engagement]]
-- [[Work]]
+- [[01 Structured Thought/00 Glossary/Work]]
 - [[The Five Ds|Five Ds]]
 - [[3Ts|Three Ts]]

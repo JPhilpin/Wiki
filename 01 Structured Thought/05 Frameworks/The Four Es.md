@@ -1,17 +1,18 @@
 ---
-title: "The Four Es"
-summary: "Essence, Exchange, Ease and Experience  -  the customer-side replacement for the Four Ps, and the lens applied at every stage of the Engagement Framework."
-slug: the-four-es
-permalink: /frameworks/the-four-es/
+title: The Four Es
+summary: Essence, Exchange, Ease and Experience  -  the customer-side replacement for the Four Ps, and the lens applied at every stage of the Engagement Framework.
+slug: 4es
+permalink: /frameworks/4es
 type: framework
+origin: built
+source: 
 status: active
 workflow: crafted
-updated: 2026-09-11
+updated: 2026-09-28
 tags:
-  - "4E"
-  - "engagement"
+  - 4E
 aliases:
-  - "4Es"
+  - 4Es
 ---
 
 ## The Four Ps, and why they stop working

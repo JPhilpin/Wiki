@@ -1,12 +1,13 @@
 ---
 title: Stewardship
+summary: ""
+slug: stewardship
+permalink: /principles/stewardship
 type: principle
 status: stub
-collection: Structured Thought
-owner: John Philpin
-created: '2026-07-14'
-updated: '2026-07-16'
-version: '0.1'
+workflow: raw
+updated: 2026-09-28
+aliases: []
 tags: []
 ---
 
