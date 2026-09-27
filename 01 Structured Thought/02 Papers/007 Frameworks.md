@@ -21,7 +21,7 @@ Within Structured Thought, Frameworks occupy the constitutional layer where repr
 
 ---
 
-# 1. From Models to Frameworks
+## 1. From Models to Frameworks
 
 Models represent.
 
@@ -47,7 +47,7 @@ Frameworks organise understanding.
 
 ---
 
-# 2. Structure Creates Capability
+## 2. Structure Creates Capability
 
 Knowledge alone does not produce capability.
 
@@ -77,7 +77,7 @@ This transformation is one of the defining characteristics of civilisation itsel
 
 ---
 
-# 3. Frameworks Reveal Relationships
+## 3. Frameworks Reveal Relationships
 
 Reality is not composed of isolated objects.
 
@@ -105,7 +105,7 @@ The greater the complexity of a domain, the greater the importance of recognisin
 
 ---
 
-# 4. Coherence Before Completeness
+## 4. Coherence Before Completeness
 
 One of the greatest mistakes in knowledge architecture is believing that completeness is more important than coherence.
 
@@ -133,7 +133,7 @@ It should never overwhelm it.
 
 ---
 
-# 5. Frameworks Enable Collaboration
+## 5. Frameworks Enable Collaboration
 
 Collaboration depends upon shared understanding.
 
@@ -171,7 +171,7 @@ Frameworks therefore become the language through which interdisciplinary collabo
 
 ---
 
-# 6. Frameworks and Scale
+## 6. Frameworks and Scale
 
 As understanding grows, scale introduces complexity.
 
@@ -195,7 +195,7 @@ They remain recognisable regardless of the scale at which they operate.
 
 ---
 
-# 7. Frameworks and Decision-Making
+## 7. Frameworks and Decision-Making
 
 Every meaningful decision exists within a Framework, whether recognised or not.
 
@@ -217,7 +217,7 @@ The constitutional responsibility of a Framework is therefore to improve judgeme
 
 ---
 
-# 8. Frameworks and Adaptation
+## 8. Frameworks and Adaptation
 
 A Framework must possess stability without becoming rigid.
 
@@ -251,7 +251,7 @@ It is one of its intended functions.
 
 ---
 
-# 9. Frameworks and Intelligence
+## 9. Frameworks and Intelligence
 
 Intelligence depends upon organisation.
 
@@ -283,7 +283,7 @@ This constitutional role grows more important as humanity collaborates with incr
 
 ---
 
-# 10. Frameworks and Stewardship
+## 10. Frameworks and Stewardship
 
 Every generation inherits Frameworks from those who came before.
 
@@ -317,7 +317,7 @@ Where a Framework continues to strengthen humanity, stewardship requires its pro
 
 ---
 
-# 11. Frameworks and Collaboration
+## 11. Frameworks and Collaboration
 
 Modern civilisation depends increasingly upon collaboration across disciplines, institutions and nations.
 
@@ -343,7 +343,7 @@ This principle lies at the heart of every enduring civilisation.
 
 ---
 
-# 12. Frameworks and Complexity
+## 12. Frameworks and Complexity
 
 Complexity is often misunderstood.
 
@@ -372,7 +372,7 @@ In doing so, Frameworks allow humanity to address problems whose scale would oth
 ---
 
 
-# 13. Constitutional Characteristics of a Framework
+## 13. Constitutional Characteristics of a Framework
 
 Within Structured Thought, every Framework should exhibit the following constitutional characteristics.
 
@@ -444,7 +444,7 @@ The constitutional purpose of a Framework is always to strengthen humanity's cap
 
 ---
 
-# 14. Constitutional Responsibilities
+## 14. Constitutional Responsibilities
 
 Those who design Frameworks assume responsibilities extending beyond organisation.
 
@@ -468,7 +468,7 @@ People do not exist for Frameworks.
 
 ---
 
-# 15. Frameworks Within the Architecture of Knowledge
+## 15. Frameworks Within the Architecture of Knowledge
 
 The constitutional progression now becomes increasingly operational.
 
@@ -500,7 +500,7 @@ With Frameworks, Models become an organised architecture capable of supporting i
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 Civilisations are not sustained by knowledge alone.
 
@@ -528,7 +528,7 @@ In doing so, they prepare understanding for its next constitutional expression: 
 
 ---
 
-# Related Concepts
+## Related Concepts
 
 - [[004 Concepts]]
 - [[005 Principles]]
@@ -538,7 +538,7 @@ In doing so, they prepare understanding for its next constitutional expression: 
 
 ---
 
-# Studio Links
+## Studio Links
 
 **Previous**
 
@@ -550,7 +550,7 @@ In doing so, they prepare understanding for its next constitutional expression: 
 
 ---
 
-# Revision History
+## Revision History
 
 | Version | Date | Summary |
 |----------|------|---------|

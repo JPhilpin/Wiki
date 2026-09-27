@@ -17,7 +17,7 @@ tags:
 permalink: /papers/from-information-to-understanding/
 ---
 
-# Paper 001
+## Paper 001
 
 type: paper
 status: definitive-draft
@@ -36,7 +36,7 @@ tags:
 
 Paper 001
 
-# From Information to Understanding
+## From Information to Understanding
 ## Executive Overview
 Humanity has solved the problem of producing information. We have not solved the problem of understanding it.
 

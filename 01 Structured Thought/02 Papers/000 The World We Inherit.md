@@ -17,9 +17,9 @@ tags:
 permalink: /papers/the-world-we-inherit/
 ---
 
-# Paper 000
+## Paper 000
 
-# The World We Inherit
+## The World We Inherit
 
 ## Executive Overview
 
@@ -33,7 +33,7 @@ This collection is an attempt to build that discipline.
 
 ---
 
-# Why This Library Exists
+## Why This Library Exists
 
 Modern knowledge is fragmented.
 
@@ -49,7 +49,7 @@ Knowledge should become easier to navigate as it grows, not harder.
 
 ---
 
-# What Studio Is
+## What Studio Is
 
 Studio is a living knowledge system.
 
@@ -71,7 +71,7 @@ The value of the library lies not simply in each individual paper, but in the co
 
 ---
 
-# What Studio Is Not
+## What Studio Is Not
 
 Studio is not a filing cabinet.
 
@@ -93,7 +93,7 @@ Every paper should improve understanding of the whole.
 
 ---
 
-# A Language Before a Library
+## A Language Before a Library
 
 Every discipline develops its own vocabulary.
 
@@ -113,7 +113,7 @@ The goal is not novelty. The goal is precision.
 
 ---
 
-# Primitives
+## Primitives
 
 Every complex system rests upon simple building blocks.
 
@@ -133,7 +133,7 @@ As the library develops, these primitives become the shared language from which 
 
 ---
 
-# How to Read This Library
+## How to Read This Library
 
 This collection is not designed to be read from beginning to end.
 
@@ -155,7 +155,7 @@ It is to improve the quality of the questions we ask.
 
 ---
 
-# A Living Work
+## A Living Work
 
 No serious body of knowledge is ever finished.
 
@@ -177,7 +177,7 @@ It is evidence that understanding has improved.
 
 ---
 
-# Closing
+## Closing
 
 The world does not need more information.
 

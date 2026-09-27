@@ -21,7 +21,7 @@ Within Structured Thought, Patterns occupy the constitutional layer where observ
 
 ---
 
-# 1. From Systems to Patterns
+## 1. From Systems to Patterns
 
 Systems operate.
 
@@ -53,7 +53,7 @@ Patterns reveal the character of that behaviour over time.
 
 ---
 
-# 2. Recognition Rather Than Invention
+## 2. Recognition Rather Than Invention
 
 Patterns are never created by observation.
 
@@ -91,7 +91,7 @@ It is to reveal reality more clearly.
 
 ---
 
-# 3. Patterns Reveal What Events Conceal
+## 3. Patterns Reveal What Events Conceal
 
 Events demand attention.
 
@@ -125,7 +125,7 @@ Only then can humanity begin moving from response towards prevention.
 
 ---
 
-# 4. Patterns and Prescience
+## 4. Patterns and Prescience
 
 Prescience begins before prediction.
 
@@ -155,7 +155,7 @@ With Patterns there can be foresight.
 
 ---
 
-# 5. Patterns Exist Across Every Domain
+## 5. Patterns Exist Across Every Domain
 
 Patterns are universal.
 
@@ -185,7 +185,7 @@ Knowledge becomes transferable because Patterns transcend disciplinary boundarie
 
 ---
 
-# 6. Patterns Reveal Health
+## 6. Patterns Reveal Health
 
 Healthy Systems produce healthy Patterns.
 
@@ -209,7 +209,7 @@ It is to recognise the Patterns from which those outcomes continually emerge.
 
 ---
 
-# 7. Patterns and Intelligence
+## 7. Patterns and Intelligence
 
 Intelligence is measured not by the quantity of information it possesses, but by the quality of the Patterns it recognises.
 
@@ -235,7 +235,7 @@ Together they create a richer and more faithful understanding of reality than ei
 
 ---
 
-# 8. Patterns and Learning
+## 8. Patterns and Learning
 
 Learning is itself the recognition of Pattern.
 
@@ -261,7 +261,7 @@ Experience provides the opportunity to recognise increasingly subtle Patterns.
 
 ---
 
-# 9. Patterns and Adaptation
+## 9. Patterns and Adaptation
 
 Healthy Systems continually reveal changing Patterns.
 
@@ -289,7 +289,7 @@ Adaptability therefore depends not upon abandoning Pattern recognition, but upon
 
 ---
 
-# 10. Patterns and Early Warning
+## 10. Patterns and Early Warning
 
 The earliest signals of significant change rarely appear as dramatic events.
 
@@ -317,7 +317,7 @@ By the time a crisis becomes obvious, many opportunities for peaceful interventi
 
 ---
 
-# 11. Patterns and Prevention
+## 11. Patterns and Prevention
 
 Pattern recognition achieves its greatest value when it enables prevention.
 
@@ -345,7 +345,7 @@ It is to recognise emerging Patterns early enough that better futures remain pos
 
 ---
 
-# 12. Patterns and Collective Memory
+## 12. Patterns and Collective Memory
 
 Civilisations remember through Patterns.
 
@@ -377,7 +377,7 @@ Structured Thought seeks to preserve these Patterns so that future generations i
 
 ---
 
-# 13. Constitutional Characteristics of a Pattern
+## 13. Constitutional Characteristics of a Pattern
 
 Within Structured Thought, every Pattern recognised should be evaluated according to the following constitutional characteristics.
 
@@ -465,7 +465,7 @@ Understanding without application remains incomplete.
 
 ---
 
-# 14. Constitutional Responsibilities
+## 14. Constitutional Responsibilities
 
 Those entrusted with recognising Patterns accept profound constitutional responsibilities.
 
@@ -489,7 +489,7 @@ Wisdom lies in remaining open to continual refinement while possessing the coura
 
 ---
 
-# 15. Patterns Within the Architecture of Knowledge
+## 15. Patterns Within the Architecture of Knowledge
 
 The constitutional architecture now approaches completion.
 
@@ -519,7 +519,7 @@ Each derives meaning through its relationship with every other.
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 The future rarely arrives without warning.
 
@@ -557,7 +557,7 @@ It is to glimpse what may yet become.
 
 ---
 
-# Related Concepts
+## Related Concepts
 
 - [[006 Models]]
 - [[007 Frameworks]]
@@ -567,7 +567,7 @@ It is to glimpse what may yet become.
 
 ---
 
-# Studio Links
+## Studio Links
 
 **Previous**
 
@@ -579,7 +579,7 @@ It is to glimpse what may yet become.
 
 ---
 
-# Revision History
+## Revision History
 
 | Version | Date | Summary |
 |----------|------|---------|

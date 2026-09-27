@@ -21,7 +21,7 @@ Within Structured Thought, Systems represent the constitutional transition from 
 
 ---
 
-# 1. From Frameworks to Systems
+## 1. From Frameworks to Systems
 
 Frameworks organise.
 
@@ -51,7 +51,7 @@ Systems reveal how that understanding behaves in reality.
 
 ---
 
-# 2. Systems Are Defined by Relationships
+## 2. Systems Are Defined by Relationships
 
 A System is not defined by the number of its parts.
 
@@ -77,7 +77,7 @@ This constitutional Principle applies across every domain of human endeavour.
 
 ---
 
-# 3. Purpose Gives Systems Meaning
+## 3. Purpose Gives Systems Meaning
 
 No System exists without purpose.
 
@@ -109,7 +109,7 @@ Operation must never replace purpose.
 
 ---
 
-# 4. Systems Create Emergent Behaviour
+## 4. Systems Create Emergent Behaviour
 
 One of the defining characteristics of a System is emergence.
 
@@ -135,7 +135,7 @@ It is through emergence that complexity becomes capable of producing intelligenc
 
 ---
 
-# 5. Systems Depend Upon Feedback
+## 5. Systems Depend Upon Feedback
 
 Every healthy System learns.
 
@@ -163,7 +163,7 @@ It is one of the constitutional characteristics of every resilient System.
 
 ---
 
-# 6. Healthy Systems Preserve Balance
+## 6. Healthy Systems Preserve Balance
 
 Every System exists within limits.
 
@@ -191,7 +191,7 @@ They are those that continually maintain equilibrium across many objectives.
 
 ---
 
-# 7. Systems and Intelligence
+## 7. Systems and Intelligence
 
 Intelligence does not exist independently of Systems.
 
@@ -215,7 +215,7 @@ Structured Thought therefore recognises that improving intelligence often begins
 
 ---
 
-# 8. Systems and Stewardship
+## 8. Systems and Stewardship
 
 Every System shapes the lives of those who depend upon it.
 
@@ -249,7 +249,7 @@ The constitutional responsibility of stewardship is therefore to ensure that Sys
 
 ---
 
-# 9. Systems and Resilience
+## 9. Systems and Resilience
 
 No System operates in perfect conditions.
 
@@ -285,7 +285,7 @@ Within Structured Thought, resilience is therefore recognised as a constitutiona
 
 ---
 
-# 10. Systems and Complexity
+## 10. Systems and Complexity
 
 Complexity should never be confused with confusion.
 
@@ -309,7 +309,7 @@ Together they transform complexity into coordinated capability.
 
 ---
 
-# 11. Systems and Human Flourishing
+## 11. Systems and Human Flourishing
 
 Every System ultimately exists to influence human outcomes.
 
@@ -341,7 +341,7 @@ Systems remain instruments through which that purpose is fulfilled.
 
 ---
 
-# 12. Systems as Living Architecture
+## 12. Systems as Living Architecture
 
 Unlike static structures, Systems continually evolve through interaction.
 
@@ -369,7 +369,7 @@ It is creating conditions under which Systems continually improve themselves whi
 
 ---
 
-# 13. Constitutional Characteristics of a System
+## 13. Constitutional Characteristics of a System
 
 Within Structured Thought, every System should demonstrate the following constitutional characteristics.
 
@@ -453,7 +453,7 @@ Never the reverse.
 
 ---
 
-# 14. Constitutional Responsibilities
+## 14. Constitutional Responsibilities
 
 Those entrusted with designing, operating or stewarding Systems accept responsibilities extending beyond technical competence.
 
@@ -475,7 +475,7 @@ It is how faithfully it advances human wellbeing.
 
 ---
 
-# 15. Systems Within the Architecture of Knowledge
+## 15. Systems Within the Architecture of Knowledge
 
 The constitutional architecture now approaches operational maturity.
 
@@ -507,7 +507,7 @@ With Systems, Frameworks become living expressions of constitutional purpose.
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 The world is shaped not by isolated events but by the Systems that continually produce them.
 
@@ -535,7 +535,7 @@ They create the conditions from which resilience, trust, prosperity and peace ma
 
 ---
 
-# Related Concepts
+## Related Concepts
 
 - [[005 Principles]]
 - [[006 Models]]
@@ -545,7 +545,7 @@ They create the conditions from which resilience, trust, prosperity and peace ma
 
 ---
 
-# Studio Links
+## Studio Links
 
 **Previous**
 
@@ -557,7 +557,7 @@ They create the conditions from which resilience, trust, prosperity and peace ma
 
 ---
 
-# Revision History
+## Revision History
 
 | Version | Date | Summary |
 |----------|------|---------|

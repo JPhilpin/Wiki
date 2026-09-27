@@ -33,7 +33,7 @@ be recognised as a single idea, a Concept emerges.
 
 > Shared Concepts make collaboration possible.
 
-# 1. From Identity to Meaning
+## 1. From Identity to Meaning
 
 A Primitive answers the question, "What is this?"
 
@@ -44,45 +44,45 @@ through relationship. The movement from Primitive to Concept represents
 the first moment at which knowledge begins to explain rather than merely
 identify.
 
-# 2. Concepts Are Acts of Recognition
+## 2. Concepts Are Acts of Recognition
 
 Concepts are not invented. They are recognised.
 
 Definitions describe Concepts; they do not create them. Naming gives
 Concepts clarity. Recognition gives them existence.
 
-# 3. Context Creates Meaning
+## 3. Context Creates Meaning
 
 No Concept possesses universal meaning independent of context. Context
 does not weaken Concepts; it strengthens them by making meaning precise.
 
-# 4. Concepts Are Living
+## 4. Concepts Are Living
 
 Concepts evolve as understanding deepens. They remain recognisable while
 continuing to mature through evidence, experience and dialogue.
 
-# 5. Concepts Form Networks
+## 5. Concepts Form Networks
 
 Concepts rarely stand alone. Their greatest value comes from the
 relationships they form with other Concepts.
 
-# 6. Human Understanding
+## 6. Human Understanding
 
 Human beings think primarily in Concepts rather than isolated facts.
 Structured Thought makes those conceptual structures explicit and
 reusable.
 
-# 7. Artificial Intelligence
+## 7. Artificial Intelligence
 
 Explicit Concepts reduce ambiguity and provide a shared architecture
 through which humans and intelligent systems can collaborate.
 
-# 8. Stewardship
+## 8. Stewardship
 
 The goal is not an expanding glossary but a deepening understanding.
 Concepts should be refined before new ones are created.
 
-# Constitutional Principles
+## Constitutional Principles
 
 -   Concepts emerge through the meaningful composition of Primitives.
 -   Concepts are recognised rather than invented.
@@ -91,13 +91,13 @@ Concepts should be refined before new ones are created.
 -   Concepts remain living structures capable of continual refinement.
 -   Shared Concepts enable shared understanding.
 
-# Conclusion
+## Conclusion
 
 Concepts allow humanity to move beyond observation towards explanation,
 communication and collaboration. They form the shared language through
 which knowledge becomes collective rather than individual.
 
-# Studio Links
+## Studio Links
 
 Previous: \[\[003 Primitives\]\]
 

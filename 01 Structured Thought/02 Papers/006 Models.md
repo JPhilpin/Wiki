@@ -17,7 +17,7 @@ If Principles describe the enduring truths that govern reality, then Models are 
 
 ---
 
-# 1. From Principles to Models
+## 1. From Principles to Models
 
 Principles explain.
 
@@ -51,7 +51,7 @@ They transform enduring understanding into practical representations while remai
 
 ---
 
-# 2. Representation Rather Than Reality
+## 2. Representation Rather Than Reality
 
 Every Model is necessarily incomplete.
 
@@ -79,7 +79,7 @@ Reality is never obliged to conform to representation.
 
 ---
 
-# 3. Why Humanity Creates Models
+## 3. Why Humanity Creates Models
 
 Human beings create Models because complexity exceeds unaided cognition.
 
@@ -117,7 +117,7 @@ The purpose is understanding.
 
 ---
 
-# 4. Good Models
+## 4. Good Models
 
 A useful Model possesses several distinguishing characteristics.
 
@@ -149,7 +149,7 @@ It is one of the defining characteristics of intellectual integrity.
 
 ---
 
-# 5. Models Make Thinking Visible
+## 5. Models Make Thinking Visible
 
 One of humanity's greatest challenges is that thought is invisible.
 
@@ -173,7 +173,7 @@ They allow understanding to move beyond individuals and become part of humanity'
 
 ---
 
-# 6. Models Exist at Every Scale
+## 6. Models Exist at Every Scale
 
 Models are not limited to science or engineering.
 
@@ -197,7 +197,7 @@ Every Model exists to improve understanding within its intended context while re
 
 ---
 
-# 7. Models and Understanding
+## 7. Models and Understanding
 
 Models do not exist to replace thought.
 
@@ -215,7 +215,7 @@ The value of a Model lies not in possessing answers, but in improving the qualit
 
 ---
 
-# 8. Models and Prediction
+## 8. Models and Prediction
 
 Every Model contains an implicit view of the future.
 
@@ -235,7 +235,7 @@ It is disciplined anticipation.
 
 ---
 
-# 9. Models and Decision-Making
+## 9. Models and Decision-Making
 
 Every significant decision is guided by a Model, whether explicit or implicit.
 
@@ -261,7 +261,7 @@ It is to continually improve the Models from which those decisions arise.
 
 ---
 
-# 10. Models and Artificial Intelligence
+## 10. Models and Artificial Intelligence
 
 Artificial Intelligence is fundamentally a modeller.
 
@@ -295,7 +295,7 @@ This partnership represents one of the defining opportunities of the coming cent
 
 ---
 
-# 11. Models and Adaptation
+## 11. Models and Adaptation
 
 No Model is final.
 
@@ -327,7 +327,7 @@ Wisdom lies in preserving constitutional foundations while continually refining 
 
 ---
 
-# 12. Models as Shared Language
+## 12. Models as Shared Language
 
 Perhaps the greatest contribution of Models is that they create a common language between people who possess different experiences, disciplines and perspectives.
 
@@ -354,7 +354,7 @@ This transformation lies at the heart of civilisation itself.
 ---
 
 
-# 13. Constitutional Characteristics of a Model
+## 13. Constitutional Characteristics of a Model
 
 Within Structured Thought, every Model should aspire to exhibit the following constitutional characteristics.
 
@@ -416,7 +416,7 @@ The value of a Model is measured not by its sophistication but by the clarity an
 
 ---
 
-# 14. Constitutional Responsibilities
+## 14. Constitutional Responsibilities
 
 Those who construct Models assume constitutional responsibilities.
 
@@ -440,7 +440,7 @@ The constitutional responsibility of modelling is therefore both intellectual an
 
 ---
 
-# 15. Models Within the Architecture of Knowledge
+## 15. Models Within the Architecture of Knowledge
 
 The progression established by Structured Thought now becomes increasingly deliberate.
 
@@ -468,7 +468,7 @@ They are the first deliberate act of design within the constitutional architectu
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 Every generation seeks to understand the world.
 
@@ -504,7 +504,7 @@ It is the bridge through which understanding becomes action.
 
 ---
 
-# Related Concepts
+## Related Concepts
 
 - [[003 The Architecture of Concepts|Primitives]]
 - [[004 Concepts]]
@@ -514,7 +514,7 @@ It is the bridge through which understanding becomes action.
 
 ---
 
-# Studio Links
+## Studio Links
 
 **Previous**
 
@@ -526,7 +526,7 @@ It is the bridge through which understanding becomes action.
 
 ---
 
-# Revision History
+## Revision History
 
 | Version | Date | Summary |
 |----------|------|---------|

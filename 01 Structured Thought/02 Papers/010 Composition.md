@@ -609,7 +609,7 @@ It is humanity's continuing invitation to recognise, preserve, protect and compo
 
 ---
 
-# Related Concepts
+## Related Concepts
 
 - [[000 The World We Inherit]]
 - [[001 From Information to Understanding|From Information to Understanding]]
@@ -625,7 +625,7 @@ It is humanity's continuing invitation to recognise, preserve, protect and compo
 
 ---
 
-# Studio Links
+## Studio Links
 
 **Previous**
 
@@ -637,7 +637,7 @@ It is humanity's continuing invitation to recognise, preserve, protect and compo
 
 ---
 
-# Revision History
+## Revision History
 
 | Version | Date | Summary |
 |----------|------|---------|

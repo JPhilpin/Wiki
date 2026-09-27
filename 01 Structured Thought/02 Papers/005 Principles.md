@@ -151,7 +151,7 @@ They become the bridge between understanding the present and recognising the fut
 
 ⸻
 
-# 6. Principles Create Coherence
+## 6. Principles Create Coherence
 
 Knowledge expands continuously.
 
@@ -179,7 +179,7 @@ The role of Principles is therefore not simply to explain reality, but to preser
 
 ---
 
-# 7. Principles and Human Judgement
+## 7. Principles and Human Judgement
 
 Principles do not remove the need for judgement.
 
@@ -205,7 +205,7 @@ Structured Thought therefore values principled judgement above procedural compli
 
 ---
 
-# 8. Principles and Intelligence
+## 8. Principles and Intelligence
 
 The purpose of intelligence is not merely to accumulate information.
 
@@ -231,7 +231,7 @@ This shared constitutional foundation allows human intelligence and artificial i
 
 ---
 
-# 9. Principles and Trust
+## 9. Principles and Trust
 
 Trust is not created by technology.
 
@@ -255,7 +255,7 @@ The stronger the alignment between behaviour and Principle, the stronger the fou
 
 ---
 
-# 10. Principles and Stewardship
+## 10. Principles and Stewardship
 
 Knowledge is inherited.
 
@@ -283,7 +283,7 @@ Only then can knowledge continue to evolve without losing its constitutional fou
 
 ---
 
-# 11. Principles as Constitutional Foundations
+## 11. Principles as Constitutional Foundations
 
 Within the Studio, Principles occupy a unique constitutional position.
 
@@ -315,7 +315,7 @@ They preserve coherence between discovery and action, between knowledge and wisd
 
 ---
 
-# 12. Constitutional Principles
+## 12. Constitutional Principles
 
 The following constitutional Principles govern Structured Thought and every artefact created within the Studio.
 
@@ -413,7 +413,7 @@ Knowledge that fails to serve humanity has departed from its constitutional purp
 
 ---
 
-# Closing Reflection
+## Closing Reflection
 
 Every civilisation leaves behind monuments.
 
@@ -443,7 +443,7 @@ With Principles there can be wisdom.
 
 ---
 
-# Related Concepts
+## Related Concepts
 
 - [[002 The Architecture of Knowledge]]
 - [[003 The Architecture of Concepts|Primitives]]
@@ -453,7 +453,7 @@ With Principles there can be wisdom.
 
 ---
 
-# Studio Links
+## Studio Links
 
 **Previous**
 
@@ -465,7 +465,7 @@ With Principles there can be wisdom.
 
 ---
 
-# Revision History
+## Revision History
 
 | Version | Date | Summary |
 |----------|------|---------|
