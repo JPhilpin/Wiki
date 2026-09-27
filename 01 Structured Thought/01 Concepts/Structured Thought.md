@@ -1,6 +1,6 @@
 ---
-title: "Structured Thought"
-summary: "A discipline for giving structure to complexity so that people can understand, decide and act with greater clarity."
+title: Structured Thought
+summary: A discipline for giving structure to complexity so that people can understand, decide and act with greater clarity.
 slug: structured-thought
 permalink: /concepts/structured-thought/
 type: concept
@@ -8,8 +8,6 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "knowledge"
-  - "thinking"
 aliases: []
 ---
 

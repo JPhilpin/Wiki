@@ -8,8 +8,8 @@ created: 2026-07-14
 updated: 2026-07-16
 version: "0.1"
 tags:
-  - structured-thought
   - pillar
+  - business-equation
 ---
 
 # Work

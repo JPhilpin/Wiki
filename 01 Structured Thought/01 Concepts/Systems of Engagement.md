@@ -1,6 +1,6 @@
 ---
-title: "Systems of Engagement"
-summary: "A family of systems designed to improve how people, teams and organisations engage with work, one another and purpose."
+title: Systems of Engagement
+summary: A family of systems designed to improve how people, teams and organisations engage with work, one another and purpose.
 slug: systems-of-engagement
 permalink: /concepts/systems-of-engagement/
 type: concept
@@ -8,10 +8,9 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "engagement"
-  - "people"
+  - business-equation
 aliases:
-  - "System of Engagement"
+  - System of Engagement
 ---
 
 ## Working definition
@@ -27,5 +26,5 @@ This page is a Studio stub. It exists so relationships can be recorded before th
 - [[Engagement]]
 - [[Systems of Record]]
 - [[Engagement Profile]]
-- [[Work]]
+- [[01 Structured Thought/00 Glossary/Work]]
 - [[People First]]

@@ -1,6 +1,6 @@
 ---
 title: Decide
-summary: "To convert consideration into commitment by selecting a course, position or priority."
+summary: To convert consideration into commitment by selecting a course, position or priority.
 slug: decide
 permalink: /glossary/decide/
 type: glossary
@@ -10,6 +10,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 5D
+  - 4D
 ---
 
 ## In Structured Thought

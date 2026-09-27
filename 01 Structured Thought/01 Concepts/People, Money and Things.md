@@ -1,6 +1,6 @@
 ---
-title: "People, Money and Things"
-summary: "Three fundamental resources that organisations combine, organise and transform in order to create value."
+title: People, Money and Things
+summary: Three fundamental resources that organisations combine, organise and transform in order to create value.
 slug: people-money-and-things
 permalink: /concepts/people-money-and-things/
 type: concept
@@ -8,11 +8,9 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "business-equation"
-  - "people"
-  - "resources"
+  - business-equation
 aliases:
-  - "PMT"
+  - PMT
 ---
 
 **People, Money and Things** is a deliberately simple way of describing the fundamental resources available to an organisation.

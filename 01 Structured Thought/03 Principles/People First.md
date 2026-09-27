@@ -27,4 +27,4 @@ This page is a Studio stub. It exists so relationships can be recorded before th
 
 - [[Structured Thought]]
 - [[Systems of Engagement]]
-- [[Work]]
+- [[01 Structured Thought/00 Glossary/Work]]

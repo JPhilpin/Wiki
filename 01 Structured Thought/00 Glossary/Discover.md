@@ -1,6 +1,6 @@
 ---
 title: Discover
-summary: "To encounter, reveal or recognise something that was previously unknown, unseen or insufficiently understood."
+summary: To encounter, reveal or recognise something that was previously unknown, unseen or insufficiently understood.
 slug: discover
 permalink: /glossary/discover/
 type: glossary
@@ -10,6 +10,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 5D
+  - 4D
 ---
 
 ## In Structured Thought

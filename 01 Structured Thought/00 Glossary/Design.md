@@ -1,6 +1,6 @@
 ---
 title: Design
-summary: "The intentional shaping of relationships, structures and experiences to make a preferred outcome more likely."
+summary: The intentional shaping of relationships, structures and experiences to make a preferred outcome more likely.
 slug: design
 permalink: /glossary/design/
 type: glossary
@@ -12,6 +12,7 @@ aliases:
   - designs
 tags:
   - process
+  - 5D
 ---
 
 ## In Structured Thought

@@ -1,6 +1,6 @@
 ---
 title: Deploy
-summary: "To place a capability, resource or system into active use in a specific context."
+summary: To place a capability, resource or system into active use in a specific context.
 slug: deploy
 permalink: /glossary/deploy/
 type: glossary
@@ -10,6 +10,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 5D
+  - 4D
 ---
 
 ## In Structured Thought

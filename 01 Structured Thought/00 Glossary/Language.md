@@ -11,7 +11,7 @@ updated: 2026-07-25
 aliases:
   - languages
 tags:
-  - system
+  - pillar
 ---
 
 ## In Structured Thought

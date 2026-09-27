@@ -1,6 +1,6 @@
 ---
 title: Develop
-summary: "To increase maturity, capability or usefulness through deliberate learning, iteration and practice."
+summary: To increase maturity, capability or usefulness through deliberate learning, iteration and practice.
 slug: develop
 permalink: /glossary/develop/
 type: glossary
@@ -10,6 +10,8 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 5D
+  - 4D
 ---
 
 ## In Structured Thought

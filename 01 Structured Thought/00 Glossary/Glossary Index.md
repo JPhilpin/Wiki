@@ -186,4 +186,4 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 ## W
 
 - [[Wisdom]]
-- [[Work]]
+- [[01 Structured Thought/00 Glossary/Work]]

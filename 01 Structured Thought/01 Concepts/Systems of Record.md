@@ -1,6 +1,6 @@
 ---
-title: "Systems of Record"
-summary: "A family of systems that maintain authoritative organisational records, transactions and state."
+title: Systems of Record
+summary: A family of systems that maintain authoritative organisational records, transactions and state.
 slug: systems-of-record
 permalink: /concepts/systems-of-record/
 type: concept
@@ -8,10 +8,9 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "record"
-  - "business-equation"
+  - business-equation
 aliases:
-  - "System of Record"
+  - System of Record
 ---
 
 ## Working definition

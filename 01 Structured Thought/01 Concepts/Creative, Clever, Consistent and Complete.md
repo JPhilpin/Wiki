@@ -1,6 +1,6 @@
 ---
-title: "Creative, Clever, Consistent and Complete"
-summary: "Four complementary qualities used together to test whether an idea or piece of work is imaginative, intelligent, dependable and finished."
+title: Creative, Clever, Consistent and Complete
+summary: Four complementary qualities used together to test whether an idea or piece of work is imaginative, intelligent, dependable and finished.
 slug: creative-clever-consistent-complete
 permalink: /concepts/creative-clever-consistent-complete/
 type: concept
@@ -8,13 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "4C"
-  - "quality"
-  - "design"
+  - 4C
 aliases:
-  - "The Four Cs"
-  - "Four Cs"
-  - "4Cs"
+  - The Four Cs
+  - Four Cs
+  - 4Cs
 ---
 
 **Creative, Clever, Consistent and Complete** brings four distinct Primitives together as a practical test of the quality of an idea, solution or piece of work.

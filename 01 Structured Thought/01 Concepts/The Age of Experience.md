@@ -8,9 +8,7 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - age-of-experience
-  - experience
-  - context
+  - structured-thought
 aliases: []
 ---
 

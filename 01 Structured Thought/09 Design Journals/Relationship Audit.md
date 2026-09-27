@@ -80,7 +80,7 @@ The rules governing links, direction and declared relationships are defined in [
 
 34. [[Structured Thought]] → `organises` → [[The Business Equation]]
 
-35. [[Engagement Profile]] → `applies-to` → [[Work]]
+35. [[Engagement Profile]] → `applies-to` → [[01 Structured Thought/00 Glossary/Work]]
 
 36. [[Systems of Engagement]] → `supports` → [[Engagement Profile]]
 

@@ -1,5 +1,5 @@
 ---
-title: "Producer Efficient Supply Chain"
+title: Producer Efficient Supply Chain
 summary: ""
 slug: producer-efficient-supply-chain
 permalink: /concepts/producer-efficient-supply-chain/
@@ -8,12 +8,11 @@ status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - "business-equation"
-  - "pesc"
-  - "business"
+  - business-equation
+  - pesc
 aliases:
-  - "Producer Efficient Supply Chains"
-  - "PESC"
+  - Producer Efficient Supply Chains
+  - PESC
 ---
 
 A **Producer Efficient Supply Chain (PESC)** is a producer-led approach in which internal planning, supplier relationships and production efficiency drive the creation and distribution of goods or services.

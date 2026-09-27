@@ -1,6 +1,6 @@
 ---
 title: Deliver
-summary: "To turn a promise, intention or design into an outcome that reaches the people or place for which it was intended."
+summary: To turn a promise, intention or design into an outcome that reaches the people or place for which it was intended.
 slug: deliver
 permalink: /glossary/deliver/
 type: glossary
@@ -10,6 +10,7 @@ workflow: crafted
 updated: 2026-07-25
 tags:
   - process
+  - 5D
 ---
 
 ## In Structured Thought
