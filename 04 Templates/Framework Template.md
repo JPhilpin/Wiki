@@ -6,6 +6,7 @@ permalink: /templates/framework-template
 type: template
 origin: 
 source: 
+family: 
 status: stub
 workflow: raw
 updated: 
@@ -58,6 +59,8 @@ Bent is a property of the framework, not the page. Framing, commentary and wirin
 **A bent page must link to its borrowed parent.** If the parent does not exist, either write it or the page is not bent - it is built. The exception is a bend that keeps the original name, where there is no second page to make.
 
 **source** - required for borrowed and bent. A `[[Person]]` link where one exists, otherwise the origin in plain words. Empty for built.
+
+**family** - the curated set this page belongs to, where it belongs to one (`4C`, `CEDN`, `PESC`). Renders as a **Family:** row in the meta card and groups the page on `/families-list`. Leave empty when the page is not part of a set. The value must match a Glossary page, because the meta row links to `/glossary/<family>/`.
 
 **status** - `stub` until there is thinking on the page. A title and a link is a stub, whatever else it looks like.
 

@@ -7,7 +7,7 @@ type: foundation
 status: active
 workflow: crafted
 updated: '2026-09-28'
-version: '0.7'
+version: '0.8'
 tags:
 - studio
 - governance
@@ -75,6 +75,14 @@ A bent page links to the borrowed page it came from. Where that parent does not 
 `source:` is required for borrowed and bent, and empty for built. Borrowed or bent without a source is an unverifiable claim.
 
 Provenance is a property, not a place. A borrowed model is filed as a model, and References holds sources - people, books, podcasts, organisations - not ideas sorted by where they came from.
+
+## Families
+
+A page that belongs to a curated set declares it in a `family:` field. CEDN, PESC, the numeral sets. The field renders as a **Family:** row on the page and groups every member together on the families list.
+
+Membership is a field, not a tag. The set already has a page of its own, so a tag named after it would create a second thing answering the same question - the same reason a tag never duplicates a section. The field links to the set's page; a tag would only gesture at it.
+
+Every family has a Glossary entry, because that is where the field's link resolves to. A set with no definition is not yet a family.
 
 ## Index, never contents
 
