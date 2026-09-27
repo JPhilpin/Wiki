@@ -27,4 +27,4 @@ Simple and obvious… or nuanced and complicated?
 
 https://seths.blog/2025/12/simple-and-obvious-or-nuanced-and-complicated/
 
-![[Invisibles/_Images/third-party-graphics/redraw/simple-nuanced.webp]]
+![[godin-simple-nuanced.png]]
