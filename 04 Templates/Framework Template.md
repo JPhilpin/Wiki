@@ -1,9 +1,9 @@
 ---
-title: ""
-summary: ""
-slug: 
-permalink: /
-type: framework
+title: Framework Template
+summary: Template for a new Framework page - copy it, fill it in, delete the field notes.
+slug: framework-template
+permalink: /templates/framework-template
+type: template
 origin: 
 source: 
 status: stub
@@ -63,4 +63,4 @@ Bent is a property of the framework, not the page. Framing, commentary and wirin
 
 **workflow** - `raw` on creation, `crafted` once written and checked.
 
-**slug and permalink** - `slug` is authored, `permalink` is derived. Permalink is always `/` plus the slug, flat, with no section in the path. A page keeps its URL when it moves between sections. The two must never disagree.
+**slug and permalink** - `slug` is authored, `permalink` is derived. The shape is `/[section]/[slug]`, one level, no trailing slash. The two must never disagree. See the Studio Constitution for the full slug rules.
