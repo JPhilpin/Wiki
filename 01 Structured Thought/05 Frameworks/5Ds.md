@@ -1,11 +1,11 @@
 ---
-title: The Five Ds
+title: 5Ds
 summary: A progression through Discover, Decide, Develop, Design, Deploy and Deliver, with Decide and Develop run as a loop.
 slug: 5ds
 permalink: /frameworks/5ds
 type: framework
 origin: built
-source: 
+source:
 status: active
 workflow: crafted
 updated: 2026-09-28

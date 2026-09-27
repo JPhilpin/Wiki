@@ -1,11 +1,11 @@
 ---
-title: The Four Es
+title: 4Es
 summary: Essence, Exchange, Ease and Experience  -  the customer-side replacement for the Four Ps, and the lens applied at every stage of the Engagement Framework.
 slug: 4es
 permalink: /frameworks/4es
 type: framework
 origin: built
-source: 
+source:
 status: active
 workflow: crafted
 updated: 2026-09-28
@@ -40,7 +40,7 @@ Essence, Exchange, Ease and Experience are not stages  -  they are a lens applie
 
 ## Related
 
-- [[Four Ps]]
+- [[4Ps]]
 - [[Engagement Framework]]
 - [[Age of Experience]]
 - [[Systems of Engagement]]

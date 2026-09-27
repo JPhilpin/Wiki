@@ -16,8 +16,8 @@ Frameworks that turn the ideas into something usable.
 - **[[Engagement Framework]]** - The customer journey from Everyone through Notice, Engage, Commit, Embed and Advocate, organised alongside TAM/SAM/SOM, internal ownership and the Four Es, replacing the MQL/SQL stage-conflation with a single spine.
 - **[[Exam Question]]**
 - **[[Strategic Priorities]]**
-- **[[Five Ds]]**
-- **[[Four Es]]** - Essence, Exchange, Ease and Experience  -  the customer-side replacement for the Four Ps, and the lens applied at every stage of the Engagement Framework.
-- **[[Four Ps]]**
+- **[[5Ds]]**
+- **[[4Es]]** - Essence, Exchange, Ease and Experience  -  the customer-side replacement for the Four Ps, and the lens applied at every stage of the Engagement Framework.
+- **[[4Ps]]**
 - **[[3Ts]]**
 - **[[Wardley Maps]]**

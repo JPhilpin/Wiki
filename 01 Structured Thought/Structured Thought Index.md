@@ -1,8 +1,8 @@
 ---
-title: Structured Thought
-summary: Contents of the Structured Thought sections.
-slug: structured-thought-contents
-permalink: /structured-thought
+title: Structured Thought Index
+summary: Index of the ten Structured Thought sections.
+slug: structured-thought-index
+permalink: /structured-thought-index
 type: section
 status: active
 tags:

@@ -1,5 +1,5 @@
 ---
-title: "The Four Ps"
+title: 4Ps
 summary: ""
 slug: 4ps
 permalink: /frameworks/4ps
@@ -32,7 +32,7 @@ Stub. More to come.
 
 ### Related
 
-- [[Four Es]]
+- [[4Es]]
 - [[E. Jerome McCarthy]]
 
 

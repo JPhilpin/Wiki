@@ -2,11 +2,11 @@
 title: Structured Thought
 summary: A discipline for giving structure to complexity so that people can understand, decide and act with greater clarity.
 slug: structured-thought
-permalink: /concepts/structured-thought/
-type: concept
+permalink: /structured-thought
+type: section
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-09-28
 tags:
 aliases: []
 ---
@@ -25,7 +25,12 @@ Within Studio, Structured Thought provides the methodology that connects Primiti
 - [[Age of Experience]]
 - [[Business Equation]]
 
+## Sections
+
+The body of work, in ten sections. Full listing at [[Structured Thought Index|the index]].
+
 ## Extended Guide
+
 
 ## 1. The Beginning
 

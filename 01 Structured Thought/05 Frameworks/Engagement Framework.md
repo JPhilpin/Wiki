@@ -23,7 +23,7 @@ aliases:
 
 MQL, SQL, SAL and the rest of the acronym stack look like stages of one continuous funnel. They are not. They are proxies invented by different departments  -  Marketing, Sales  -  measuring different, disconnected transitions, and the confusion this creates is structural, not a labelling problem.
 
-This Framework organises the customer's journey on a single spine, described from the customer's side rather than the seller's, and marks explicitly who inside the organisation owns each stage, where TAM/SAM/SOM narrows the population, and where the [[Four Es]] apply as a lens at each point.
+This Framework organises the customer's journey on a single spine, described from the customer's side rather than the seller's, and marks explicitly who inside the organisation owns each stage, where TAM/SAM/SOM narrows the population, and where the [[4Es]] apply as a lens at each point.
 
 ## The spine
 
@@ -113,7 +113,7 @@ The customer side tells you what state they are in. The business side is what ca
 ## Related
 
 - [[TAM - SAM - SOM|TAM / SAM / SOM]]
-- [[Four Es]]
+- [[4Es]]
 - [[Systems of Engagement]]
 - [[Systems of Record]]
 - [[Business Equation]]
