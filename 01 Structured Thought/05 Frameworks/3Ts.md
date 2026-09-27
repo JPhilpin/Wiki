@@ -6,6 +6,7 @@ permalink: /frameworks/3ts/
 type: framework
 origin: built
 source: 
+family: 3T
 status: active
 workflow: crafted
 updated: 2026-09-28
@@ -13,7 +14,6 @@ aliases:
   - Three Ts
   - The Three Ts
 tags:
-  - 3T
 ---
 
 ## Working definition

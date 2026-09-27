@@ -5,6 +5,7 @@ slug: product
 permalink: /glossary/product/
 type: glossary
 kind: term
+family: 4P
 status: active
 workflow: crafted
 updated: 2026-07-25
@@ -12,7 +13,6 @@ aliases:
   - products
 tags:
   - output
-  - 4P
 ---
 
 ## In Structured Thought

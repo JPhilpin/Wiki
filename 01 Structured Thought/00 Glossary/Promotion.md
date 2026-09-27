@@ -5,12 +5,12 @@ slug: promotion
 permalink: /glossary/promotion/
 type: glossary
 kind: term
+family: 4P
 status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
   - process
-  - 4P
 ---
 
 ## In Structured Thought

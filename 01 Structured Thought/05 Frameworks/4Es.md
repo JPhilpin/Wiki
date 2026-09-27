@@ -6,11 +6,11 @@ permalink: /frameworks/4es
 type: framework
 origin: built
 source:
+family: 4E
 status: active
 workflow: crafted
 updated: 2026-09-28
 tags:
-  - 4E
 aliases:
   - 4Es
   - The Four Es

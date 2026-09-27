@@ -5,11 +5,11 @@ slug: essence
 permalink: /glossary/essence/
 type: glossary
 kind: term
+family: 4E
 status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
-  - 4E
   - purpose
 ---
 

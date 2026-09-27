@@ -5,6 +5,7 @@ slug: price
 permalink: /glossary/price/
 type: glossary
 kind: term
+family: 4P
 status: active
 workflow: crafted
 updated: 2026-07-25
@@ -12,7 +13,6 @@ aliases:
   - prices
 tags:
   - output
-  - 4P
 ---
 
 ## In Structured Thought

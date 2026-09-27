@@ -5,12 +5,12 @@ slug: transcend
 permalink: /glossary/transcend/
 type: glossary
 kind: term
+family: 3T
 status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
   - process
-  - 3T
 ---
 
 ## In Structured Thought

@@ -5,13 +5,13 @@ slug: exchange
 permalink: /glossary/exchange/
 type: glossary
 kind: term
+family: 4E
 status: active
 workflow: crafted
 updated: 2026-07-25
 aliases:
   - exchanges
 tags:
-  - 4E
   - output
 ---
 

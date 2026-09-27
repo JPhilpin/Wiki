@@ -5,12 +5,12 @@ slug: decide
 permalink: /glossary/decide/
 type: glossary
 kind: term
+family: 5D
 status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
   - process
-  - 5D
   - 4D
 ---
 

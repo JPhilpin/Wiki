@@ -6,13 +6,13 @@ permalink: /frameworks/5ds
 type: framework
 origin: built
 source:
+family: 5D
 status: active
 workflow: crafted
 updated: 2026-09-28
 aliases:
   - The Five Ds
 tags:
-  - 5D
 ---
 
 ## Working definition

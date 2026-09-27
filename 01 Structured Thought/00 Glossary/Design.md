@@ -5,6 +5,7 @@ slug: design
 permalink: /glossary/design/
 type: glossary
 kind: term
+family: 5D
 status: active
 workflow: crafted
 updated: 2026-07-25
@@ -12,7 +13,6 @@ aliases:
   - designs
 tags:
   - process
-  - 5D
 ---
 
 ## In Structured Thought

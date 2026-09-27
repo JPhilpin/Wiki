@@ -5,6 +5,7 @@ slug: transition
 permalink: /glossary/transition/
 type: glossary
 kind: term
+family: 3T
 status: active
 workflow: crafted
 updated: 2026-07-25
@@ -12,7 +13,6 @@ aliases:
   - transitions
 tags:
   - process
-  - 3T
 ---
 
 ## In Structured Thought

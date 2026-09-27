@@ -6,11 +6,11 @@ permalink: /maps/creative-clever-consistent-complete-map
 type: map
 origin: built
 source: 
+family: 4C
 status: stub
 workflow: raw
 updated: 2026-09-28
 tags:
-  - 4C
 aliases: []
 ---
 

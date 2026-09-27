@@ -5,11 +5,11 @@ slug: consistent
 permalink: /glossary/consistent/
 type: glossary
 kind: term
+family: 4C
 status: active
 workflow: crafted
 updated: 2026-07-25
 tags:
-  - 4C
   - output
 ---
 

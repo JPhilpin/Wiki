@@ -4,11 +4,11 @@ summary: Four complementary qualities used together to test whether an idea or p
 slug: creative-clever-consistent-complete
 permalink: /concepts/creative-clever-consistent-complete/
 type: concept
+family: 4C
 status: active
 workflow: crafted
 updated: 2026-08-21
 tags:
-  - 4C
 aliases:
   - The Four Cs
   - Four Cs

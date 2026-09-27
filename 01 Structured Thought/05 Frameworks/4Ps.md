@@ -6,6 +6,7 @@ permalink: /frameworks/4ps
 type: framework
 origin: borrowed
 source: "[[E. Jerome McCarthy]]"
+family: 4P
 status: stub
 workflow: raw
 updated: 2026-09-28

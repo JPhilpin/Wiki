@@ -5,6 +5,7 @@ slug: place
 permalink: /glossary/place/
 type: glossary
 kind: term
+family: 4P
 status: active
 workflow: crafted
 updated: 2026-07-25
@@ -12,7 +13,6 @@ aliases:
   - places
 tags:
   - input
-  - 4P
 ---
 
 ## In Structured Thought
