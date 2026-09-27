@@ -5,7 +5,7 @@ slug: partner
 permalink: /glossary/partner/
 type: glossary
 kind: term
-part_of: CEDN
+family: CEDN
 status: active
 workflow: crafted
 updated: 2026-09-24

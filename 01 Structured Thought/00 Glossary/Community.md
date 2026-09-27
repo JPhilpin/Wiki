@@ -5,7 +5,7 @@ slug: community
 permalink: /glossary/community/
 type: glossary
 kind: term
-part_of: CEDN
+family: CEDN
 status: active
 workflow: crafted
 updated: 2026-07-25

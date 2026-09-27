@@ -9,8 +9,6 @@ status: active
 workflow: crafted
 updated: 2026-09-24
 tags:
-  - input
-  - system
 ---
 
 ## In Structured Thought

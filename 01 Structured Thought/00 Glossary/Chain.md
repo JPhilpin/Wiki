@@ -5,7 +5,7 @@ slug: chain
 permalink: /glossary/chain/
 type: glossary
 kind: term
-part_of: PESC
+family: PESC
 status: active
 workflow: crafted
 updated: 2026-09-24
