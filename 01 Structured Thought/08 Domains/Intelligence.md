@@ -37,6 +37,10 @@ This has always been available to large organisations: teams of analysts, resear
 
 Intelligence is the domain that turns noise into something worth acting on. It is foundational in a literal sense: you cannot build knowledge on noise. Reveal has a real question to work from once Intelligence has cut through what does not matter. Pulse's trend lines mean more read against Intelligence's picture of what is happening in the wider world. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
 
+## Deliverables Built in Intelligence
+
+- [[Intelligence]] - A structured system for converting raw data into actionable insight, making the invisible visible by connecting patterns across customers, markets, and outcomes.
+
 ---
 
 ![[eight-domains-diagram.svg]]

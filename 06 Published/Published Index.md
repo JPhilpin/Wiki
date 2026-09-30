@@ -11,6 +11,16 @@ tags:
 
 Work that has been finished and published, rather than work in progress.
 
-1 page.
+This section contains two categories:
 
-- **[[Johnisms]]** - The collection, with ten at random on every visit.
+## Collections
+
+Curated collections of finished work.
+
+- **[[Johnisms]]** - Provocative statements that reveal underlying truths. Nearly 300 statements in the database, displayed ten at random on each visit.
+
+## Structured THOUGHTs
+
+A Structured THOUGHT applies the Structured Thought methodology to examine a specific subject, problem, or change, arriving at a clear position through evidence, reasoning, and perspective.
+
+*Coming soon.*

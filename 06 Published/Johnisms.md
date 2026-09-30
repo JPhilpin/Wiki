@@ -5,8 +5,8 @@ slug: johnisms
 permalink: /published/johnisms/
 type: page
 status: active
-workflow: stub
-updated: 2026-09-26
+workflow: published
+updated: 2026-09-30
 ---
 ## Ten Random Johnisms
 
