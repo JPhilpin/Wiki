@@ -56,7 +56,7 @@ The deliverable types a Domain can take: Advisory, Consulting, Enablement, Injec
 
 File: `deliverable-types-diagram.svg`
 
-## DIKIWI
+## Stages of understanding
 
 The six stages of [[DIKIWI]], drawn as static images. Interactive versions of the six are on philpin.com.
 
