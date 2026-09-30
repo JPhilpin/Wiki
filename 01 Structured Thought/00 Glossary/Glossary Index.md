@@ -97,7 +97,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 - [[Information]]
 - [[Insight]]
 - [[Integrity]]
-- [[Intelligence]]
+- [[01 Structured Thought/00 Glossary/Intelligence]]
 - [[Intentional]]
 
 ## K

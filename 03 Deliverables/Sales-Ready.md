@@ -7,14 +7,14 @@ type: deliverable
 domain: Reveal
 status: active
 workflow: crafted
-updated: 2026-09-19
+updated: 2026-09-30
 tags:
   - reveal
 aliases:
   - "Sales-Ready: Turning Engagement into Intelligence"
 ---
 
-**Sales-Ready** is a data-driven system for creating better sales conversations. It creates useful interactions through which prospects reveal information about their situation, turns that information into structured data, and uses the data to return insight to the prospect and knowledge to the seller  -  knowledge that then improves what happens next.
+**Sales-Ready** is a data-driven system for creating better sales conversations. It creates useful interactions through which prospects reveal information about their situation, turns that information into structured data, and uses the data to return insight to the prospect and knowledge to the seller - knowledge that then improves what happens next.
 
 ## Related
 
@@ -62,9 +62,9 @@ The prospect is not initially being asked to accept the seller's conclusion. The
 
 ## From Interaction to Reveal
 
-A prospect knows things the seller does not  -  something about their organisation, priorities, pressures, performance, processes and problems.
+A prospect knows things the seller does not - something about their organisation, priorities, pressures, performance, processes and problems.
 
-The seller knows things the prospect may not  -  patterns across customers, the consequences of particular problems, possible benchmarks, relationships between symptoms and causes, and where particular solutions may apply.
+The seller knows things the prospect may not - patterns across customers, the consequences of particular problems, possible benchmarks, relationships between symptoms and causes, and where particular solutions may apply.
 
 Ordinary outbound marketing struggles to connect those two bodies of knowledge. Sales-Ready creates a structured interaction between them: the prospect reveals information about their situation, Sales-Ready interprets that information against knowledge supplied by the seller, and the prospect receives something useful back. Something that was previously implicit, fragmented or invisible can become visible. That is why Sales-Ready belongs within [[Reveal]].
 
@@ -84,11 +84,11 @@ Both parties learn something. The prospect understands more about their problem,
 
 ## The Important Asset Is the Data
 
-This is where Sales-Ready becomes more than an engaging front-end interaction. The information revealed is not discarded when the interaction finishes  -  it becomes structured data.
+This is where Sales-Ready becomes more than an engaging front-end interaction. The information revealed is not discarded when the interaction finishes - it becomes structured data.
 
 That distinction matters. An interaction can produce engagement. A report can produce insight. Structured data can continue working.
 
-The prospect's responses can reveal information about their current situation, problems and pressure points, priorities, capabilities, gaps, concerns, urgency, intent, readiness and relevant solutions. That data can then power other applications built around the same underlying dataset. The interaction is therefore not the end of the process  -  it creates the data that powers what happens next.
+The prospect's responses can reveal information about their current situation, problems and pressure points, priorities, capabilities, gaps, concerns, urgency, intent, readiness and relevant solutions. That data can then power other applications built around the same underlying dataset. The interaction is therefore not the end of the process - it creates the data that powers what happens next.
 
 ## From Data to Continuity
 
@@ -104,13 +104,13 @@ The same underlying data can inform multiple interactions. What the prospect rev
 
 Sales-Ready Leads obviously generates leads. But generating a lead is not the most interesting thing it does.
 
-Traditional lead generation can tell us: *this person engaged.* Sales-Ready can begin to tell us: *this person engaged, and this is what we now know*  -  what they told us, what matters to them, where particular gaps appear, what they have already discovered, what information is likely to be relevant next. And we can give that knowledge to the person who is about to have the sales conversation.
+Traditional lead generation can tell us: *this person engaged.* Sales-Ready can begin to tell us: *this person engaged, and this is what we now know* - what they told us, what matters to them, where particular gaps appear, what they have already discovered, what information is likely to be relevant next. And we can give that knowledge to the person who is about to have the sales conversation.
 
 Sales-Ready is not simply generating leads. It is generating knowledge that makes a lead useful to Sales. That is what makes the lead Sales-Ready.
 
 ## Better Sales Conversations
 
-The immediate commercial purpose follows naturally: Sales-Ready is a data-driven system for creating better sales conversations. Better does not simply mean friendlier or more personalised  -  it means better informed.
+The immediate commercial purpose follows naturally: Sales-Ready is a data-driven system for creating better sales conversations. Better does not simply mean friendlier or more personalised - it means better informed.
 
 The salesperson does not need to begin blind. The prospect does not need to repeat everything. The seller does not need to open with a generic product pitch. Instead of:
 
@@ -128,7 +128,7 @@ Sales-Ready sits within a larger structure. At its simplest:
 
 **Reveal → Sales-Ready → Leads**
 
-[[Reveal]] is the Domain. Reveal is concerned with surfacing something that is not otherwise visible by structuring an interaction so that useful information can emerge. Sales-Ready applies that principle to the relationship between buyers and sellers. Leads is one application of Sales-Ready  -  it uses the approach to create prospects who arrive at Sales with useful knowledge attached.
+[[Reveal]] is the Domain. Reveal is concerned with surfacing something that is not otherwise visible by structuring an interaction so that useful information can emerge. Sales-Ready applies that principle to the relationship between buyers and sellers. Leads is one application of Sales-Ready - it uses the approach to create prospects who arrive at Sales with useful knowledge attached.
 
 The distinction matters because Sales-Ready is not limited to lead generation, and Reveal is not limited to Sales-Ready. Each layer is an implementation of the layer above in a more specific context.
 
@@ -136,7 +136,7 @@ The distinction matters because Sales-Ready is not limited to lead generation, a
 
 This hierarchy also explains why the underlying data matters so much. If Sales-Ready Leads were simply an assessment that produced a PDF, its value would largely end when the PDF was produced.
 
-But if the interaction creates structured data, the same information can support other Sales-Ready applications  -  informing what the prospect sees and learns, what Sales sees and asks, which evidence is presented, which content and solution are relevant, how the opportunity is qualified, and what happens in follow-up. The value compounds as applications use the same knowledge. The data provides the connection.
+But if the interaction creates structured data, the same information can support other Sales-Ready applications - informing what the prospect sees and learns, what Sales sees and asks, which evidence is presented, which content and solution are relevant, how the opportunity is qualified, and what happens in follow-up. The value compounds as applications use the same knowledge. The data provides the connection.
 
 ## The Architecture and the Experience
 
