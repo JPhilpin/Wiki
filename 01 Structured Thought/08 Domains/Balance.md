@@ -7,10 +7,12 @@ type: domain
 status: draft
 workflow: crafted
 version: '0.3'
-updated: '2026-08-24'
+updated: '2026-09-30'
 tags: []
 aliases: []
 confidence: red
+backlinks:
+  - "[[RoI]] (deliverable in Balance domain)"
 ---
 
 **Glossary definition:** [Balance](/glossary/balance/)
@@ -36,10 +38,6 @@ Strip away who the parties are and what currency they are trading in, and it is 
 ## How It Fits
 
 Balance is the domain the others resolve into. Pulse tracks how people feel, Reveal shows what is really going on, Assembly builds the relationships, Intelligence supplies the picture, Library holds what is been learned, and Balance is the point where all of it gets tested against one question: does the exchange still hold. *(Provisional. Full eight-domain relationship map still to be built; this will be replaced by that single shared source once it exists.)*
-
-## Deliverables Built in Balance
-
-- [[RoI]] - Demonstrating the business value of change by connecting investment to outcome, making the case for transformation visible through structured evidence and reasoning.
 
 ## The Definitions
 

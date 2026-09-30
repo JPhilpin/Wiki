@@ -7,6 +7,8 @@ type: section
 status: active
 tags:
   - index
+backlinks:
+  - "[[Johnisms]] (collection)"
 ---
 
 Work that has been finished and published, rather than work in progress.

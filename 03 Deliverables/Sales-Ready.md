@@ -12,6 +12,8 @@ tags:
   - reveal
 aliases:
   - "Sales-Ready: Turning Engagement into Intelligence"
+backlinks:
+  - "Built within [[Reveal]] domain"
 ---
 
 **Sales-Ready** is a data-driven system for creating better sales conversations. It creates useful interactions through which prospects reveal information about their situation, turns that information into structured data, and uses the data to return insight to the prospect and knowledge to the seller - knowledge that then improves what happens next.

@@ -7,6 +7,8 @@ type: page
 status: active
 workflow: published
 updated: 2026-09-30
+backlinks:
+  - "Published in [[Published]] section — Collections category"
 ---
 ## Ten Random Johnisms
 

@@ -12,6 +12,8 @@ tags:
   - intelligence
 aliases:
   - "Intelligence: From Data to Understanding"
+backlinks:
+  - "Built within [[Intelligence]] domain"
 ---
 
 **Intelligence** transforms data into understanding. It is the process of making patterns visible that would otherwise remain hidden — connecting signals across customers, behaviours, markets and outcomes in ways that create clarity for decision-making.

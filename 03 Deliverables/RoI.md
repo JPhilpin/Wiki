@@ -12,6 +12,8 @@ tags:
   - balance
 aliases:
   - "Return on Investment"
+backlinks:
+  - "Built within [[Balance]] domain"
 ---
 
 **RoI** is the structured argument that connects what an organisation invests to what it gains in return. It is not a calculation. It is the discipline of making the business case for change visible — showing not just that investment produces return, but why, how, and on what timeline.
