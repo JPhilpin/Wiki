@@ -5,11 +5,11 @@ slug: intelligence
 permalink: /deliverables/intelligence
 type: deliverable
 domain: Intelligence
+family: Intelligence
 status: active
 workflow: crafted
 updated: 2026-09-30
-tags:
-  - intelligence
+tags: []
 aliases:
   - "Intelligence: From Data to Understanding"
 backlinks:

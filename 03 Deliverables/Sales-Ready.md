@@ -5,11 +5,11 @@ slug: sales-ready
 permalink: /deliverables/sales-ready/
 type: deliverable
 domain: Reveal
+family: Reveal
 status: active
 workflow: crafted
 updated: 2026-09-30
-tags:
-  - reveal
+tags: []
 aliases:
   - "Sales-Ready: Turning Engagement into Intelligence"
 backlinks:

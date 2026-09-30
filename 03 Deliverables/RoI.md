@@ -5,11 +5,11 @@ slug: roi
 permalink: /deliverables/roi
 type: deliverable
 domain: Balance
+family: Balance
 status: active
 workflow: crafted
 updated: 2026-09-30
-tags:
-  - balance
+tags: []
 aliases:
   - "Return on Investment"
 backlinks:
