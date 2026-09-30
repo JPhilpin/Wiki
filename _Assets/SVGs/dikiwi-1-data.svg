@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<title>Data</title>
+<rect width="400" height="400" fill="#FAFAFA"/>
+<text x="200" y="362" text-anchor="middle" font-family="'Space Grotesk',sans-serif" font-size="13" font-weight="500" letter-spacing="0.16em" fill="#2C4A6E">DATA</text>
+<text x="200" y="380" text-anchor="middle" font-family="'Inter',sans-serif" font-size="10" fill="#BBBBBB" letter-spacing="0.06em">scattered · unconnected · raw</text>
+<!-- nodes only — no lines — irregular placement -->
+<circle cx="48" cy="52" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="92" cy="38" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="145" cy="58" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="198" cy="42" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="255" cy="55" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="310" cy="44" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="360" cy="60" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="68" cy="88" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="118" cy="95" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="172" cy="82" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="228" cy="98" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="278" cy="85" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="335" cy="92" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="375" cy="78" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="42" cy="128" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="98" cy="138" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="155" cy="122" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="205" cy="140" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="262" cy="128" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="318" cy="135" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="368" cy="122" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="58" cy="168" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="112" cy="175" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="165" cy="162" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="220" cy="178" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="272" cy="168" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="325" cy="178" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="372" cy="162" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="45" cy="208" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="102" cy="215" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="158" cy="202" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="212" cy="218" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="265" cy="208" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="315" cy="218" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="368" cy="205" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="62" cy="248" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="118" cy="255" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="172" cy="242" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="228" cy="258" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="280" cy="245" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="335" cy="255" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="378" cy="242" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="48" cy="288" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="105" cy="295" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="162" cy="282" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="218" cy="298" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="272" cy="285" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="325" cy="295" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="372" cy="282" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="78" cy="325" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="135" cy="332" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="192" cy="320" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="248" cy="335" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="302" cy="322" r="3" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+<circle cx="355" cy="332" r="4" fill="none" stroke="#CCCCCC" stroke-width="0.8"/>
+</svg>

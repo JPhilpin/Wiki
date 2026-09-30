@@ -1,0 +1,333 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
+<defs>
+
+<style>
+@keyframes domainPulse {
+  0%, 58%, 100% { opacity:.68; }
+  5%  { opacity:.92; }
+  9%  { opacity:1; }
+  13% { opacity:.86; }
+  17% { opacity:1; }
+  23% { opacity:.76; }
+}
+.domain-item {
+  animation: domainPulse 6.4s ease-in-out infinite;
+}
+#d-intelligence { animation-delay: 0s; }
+#d-pulse        { animation-delay: -.8s; }
+#d-assembly     { animation-delay: -1.6s; }
+#d-engage       { animation-delay: -2.4s; }
+#d-library      { animation-delay: -3.2s; }
+#d-personal     { animation-delay: -4s; }
+#d-balance      { animation-delay: -4.8s; }
+#d-reveal       { animation-delay: -5.6s; }
+
+.intelligence-only{opacity:0;pointer-events:none;transition:opacity .45s}
+.intelligence-on .intelligence-only{opacity:1}
+
+
+.intelligence-on .domain-segment{fill:#e6e9ec;filter:none}
+.intelligence-on #d-intelligence .domain-segment{fill:#BFEFF9;filter:url(#glow-intelligence)}
+.intelligence-on .fade-intelligence{fill:#e6e9ec}
+
+.eg-on .fade-eg{fill:#e6e9ec;opacity:1}
+</style>
+
+<filter id="glow-intelligence" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#00D4FF" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-pulse" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#39FF14" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-assembly" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#FF6EFF" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-reveal" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#FF9500" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-library" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#FFE600" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-personal" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#FF4D9E" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-balance" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#B478FF" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<filter id="glow-engage" x="-80%" y="-80%" width="260%" height="260%" color-interpolation-filters="sRGB">
+<feFlood flood-color="#FF3B3B" flood-opacity="1" result="colour"/>
+<feComposite in="colour" in2="SourceAlpha" operator="in" result="mask"/>
+<feGaussianBlur in="mask" stdDeviation="30" result="outer"/>
+<feGaussianBlur in="mask" stdDeviation="15" result="middle"/>
+<feGaussianBlur in="mask" stdDeviation="5" result="inner"/>
+<feMerge>
+<feMergeNode in="outer"/><feMergeNode in="middle"/><feMergeNode in="inner"/><feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+ <linearGradient id="inject"><stop stop-color="#f9fbfd"/><stop offset=".5" stop-color="#d5e1e9"/><stop offset="1" stop-color="#f4f8fa"/></linearGradient>
+ <radialGradient id="value"><stop stop-color="#8b6c08"/><stop offset=".3" stop-color="#352900"/><stop offset="1"/></radialGradient>
+ <radialGradient id="halo"><stop stop-color="#fff4aa" stop-opacity=".95"/><stop offset=".35" stop-color="#ffbf00" stop-opacity=".5"/><stop offset="1" stop-color="#ffbf00" stop-opacity="0"/></radialGradient>
+ <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="17" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+ <marker id="roiArrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="6" markerHeight="6" orient="auto"><path d="M1 1 L11 6 L1 11 L4.5 6 Z" fill="#7F2519"/></marker>
+ <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="6" markerHeight="6" orient="auto">
+<path d="M1 1 L11 6 L1 11 L4.5 6 Z" fill="#125993"/>
+</marker>
+ <style>
+ text{font-family:Arial,Helvetica,sans-serif;font-weight:700;fill:#172536}
+ .domain-segment{stroke:#fff;stroke-width:6;vector-effect:non-scaling-stroke;transition:fill .45s,opacity .45s}
+ .domain-label{font-size:18px}
+ .cap{font-size:21px} .inject{font-size:24px;letter-spacing:3px} .value{font-size:56px;fill:#FFD43D;font-weight:900}
+ .client-only,.roi-only{opacity:0;pointer-events:none;transition:opacity .45s}
+ .btn rect{fill:#125993;transition:fill .25s}
+.btn text{fill:#fff;font-size:17px;transition:fill .25s}
+.btn{cursor:pointer}
+.btn:hover rect{fill:#FFBF00}
+.btn:hover text{fill:#172536}
+ .eg-on .domain-segment{fill:#e6e9ec;filter:none}
+ .eg-on #d-reveal .domain-segment{fill:#FFE0B8;filter:url(#glow-reveal)}
+ .eg-on .client-only{opacity:1}
+ .roi-on #d-balance .domain-segment{fill:#E5D3FA;filter:url(#glow-balance)}
+ .roi-on .roi-only{opacity:1}
+ .eg-on #egBtn rect,.roi-on #roiBtn rect,.intelligence-on #intelligenceBtn rect{fill:#FFBF00}.eg-on #egBtn text,.roi-on #roiBtn text,.intelligence-on #intelligenceBtn text{fill:#172536}
+ </style>
+
+<filter id="valuePulseGlow" x="-100%" y="-100%" width="300%" height="300%" color-interpolation-filters="sRGB">
+  <feGaussianBlur in="SourceGraphic" stdDeviation="28" result="wide"/>
+  <feGaussianBlur in="SourceGraphic" stdDeviation="11" result="mid"/>
+  <feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="tight"/>
+  <feMerge>
+    <feMergeNode in="wide"/>
+    <feMergeNode in="mid"/>
+    <feMergeNode in="tight"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+
+<style>
+@keyframes valueBreathe {
+  0%,100% { opacity:.72; stroke-width:5.5px; }
+  18% { opacity:.82; stroke-width:6.2px; }
+  38% { opacity:1; stroke-width:8.2px; }
+  55% { opacity:.92; stroke-width:7.2px; }
+  72% { opacity:.78; stroke-width:6px; }
+  88% { opacity:.74; stroke-width:5.6px; }
+}
+.value-pulse-ring {
+  animation: valueBreathe 7.5s cubic-bezier(.45,.05,.28,.98) infinite;
+}
+</style>
+
+
+<marker id="intelligenceArrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="6" markerHeight="6" orient="auto">
+  <path d="M1 1 L11 6 L1 11 L4.5 6 Z" fill="#00D4FF"/>
+</marker>
+
+</defs>
+<rect width="1200" height="1200" fill="#fff"/>
+<g id="wheel"><g class="domain-item" id="d-intelligence">
+<path class="domain-segment" d="M401.00,119.58 A520,520 0 0 1 799.00,119.58 L753.07,230.45 A400,400 0 0 0 446.93,230.45Z" fill="#BFEFF9" filter="url(#glow-intelligence)"/>
+<g transform="translate(600.00 145.00)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Intelligence
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-pulse">
+<path class="domain-segment" d="M799.00,119.58 A520,520 0 0 1 1080.42,401.00 L969.55,446.93 A400,400 0 0 0 753.07,230.45Z" fill="#D1FBC8" filter="url(#glow-pulse)"/>
+<g transform="translate(921.73 278.27)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Pulse
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-assembly">
+<path class="domain-segment" d="M1080.42,401.00 A520,520 0 0 1 1080.42,799.00 L969.55,753.07 A400,400 0 0 0 969.55,446.93Z" fill="#F8D1F8" filter="url(#glow-assembly)"/>
+<g transform="translate(1055.00 600.00)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Assembly
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-engage">
+<path class="domain-segment" d="M1080.42,799.00 A520,520 0 0 1 799.00,1080.42 L753.07,969.55 A400,400 0 0 0 969.55,753.07Z" fill="#FFD0D0" filter="url(#glow-engage)"/>
+<g transform="translate(921.73 921.73)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Engage
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-library">
+<path class="domain-segment" d="M799.00,1080.42 A520,520 0 0 1 401.00,1080.42 L446.93,969.55 A400,400 0 0 0 753.07,969.55Z" fill="#FFF6B8" filter="url(#glow-library)"/>
+<g transform="translate(600.00 1055.00)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Library
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-personal">
+<path class="domain-segment" d="M401.00,1080.42 A520,520 0 0 1 119.58,799.00 L230.45,753.07 A400,400 0 0 0 446.93,969.55Z" fill="#FFD0E4" filter="url(#glow-personal)"/>
+<g transform="translate(278.27 921.73)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Personal
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-balance">
+<path class="domain-segment" d="M119.58,799.00 A520,520 0 0 1 119.58,401.00 L230.45,446.93 A400,400 0 0 0 230.45,753.07Z" fill="#E5D3FA" filter="url(#glow-balance)"/>
+<g transform="translate(145.00 600.00)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Balance
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g><g class="domain-item" id="d-reveal">
+<path class="domain-segment" d="M119.58,401.00 A520,520 0 0 1 401.00,119.58 L446.93,230.45 A400,400 0 0 0 230.45,446.93Z" fill="#FFE0B8" filter="url(#glow-reveal)"/>
+<g transform="translate(278.27 278.27)"><text class="domain-label" text-anchor="middle" dominant-baseline="middle">Reveal
+<animateTransform attributeName="transform" type="rotate" from="0 0 0" to="-360 0 0" dur="80s" repeatCount="indefinite"/></text></g></g>
+<animateTransform attributeName="transform" type="rotate" from="0 600 600" to="360 600 600" dur="80s" repeatCount="indefinite"/></g>
+
+<!-- Seam-free Inject ring -->
+<circle cx="600" cy="600" r="395" fill="#e5e5e7" stroke="#60778a" stroke-width="2"/>
+<circle cx="600" cy="600" r="310" fill="#fff"/>
+<text x="600" y="252.5" text-anchor="middle" dominant-baseline="middle" class="inject">Inject</text>
+<text x="600" y="947.5" text-anchor="middle" dominant-baseline="middle" class="inject">Inject</text>
+
+<path d="M300.00,600.00 A300,300 0 0 1 600.00,300.00 L600.00,445.00 A155,155 0 0 0 445.00,600.00Z" fill="#DFC8C6" stroke="#fff" stroke-width="7"/>
+<path d="M600.00,300.00 A300,300 0 0 1 900.00,600.00 L755.00,600.00 A155,155 0 0 0 600.00,445.00Z" fill="#DFC8C6" stroke="#fff" stroke-width="7" class="fade-eg"/>
+<path d="M900.00,600.00 A300,300 0 0 1 600.00,900.00 L600.00,755.00 A155,155 0 0 0 755.00,600.00Z" fill="#DFC8C6" stroke="#fff" stroke-width="7" class="fade-intelligence"/>
+<path d="M600.00,900.00 A300,300 0 0 1 300.00,600.00 L445.00,600.00 A155,155 0 0 0 600.00,755.00Z" fill="#DFC8C6" stroke="#fff" stroke-width="7" class="fade-intelligence"/>
+<text x="452" y="448" text-anchor="middle" class="cap">Licence</text>
+<text x="748" y="448" text-anchor="middle" class="cap">Advisory</text>
+<text x="748" y="764" text-anchor="middle" class="cap">Consulting</text>
+<text x="452" y="764" text-anchor="middle" class="cap">Enablement</text>
+
+<circle cx="600" cy="600" r="145" fill="#125993"/>
+<circle cx="600" cy="600" r="145" fill="none" stroke="#FFBF00" stroke-width="6" class="value-pulse-ring" filter="url(#valuePulseGlow)"/>
+<text x="600" y="620" text-anchor="middle" class="value" filter="url(#glow)">Value</text>
+
+<!-- eG overlay: Reveal feeds Licence, Enablement and Consulting -->
+<g class="client-only">
+ <path d="M300 900 C292 730 320 555 392 492 C405 480 417 472 430 466"
+   fill="none" stroke="#125993" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"
+   marker-end="url(#arrow)" opacity=".92"/>
+ <path d="M304 908 C330 858 355 820 390 796 C404 786 416 780 428 774"
+   fill="none" stroke="#125993" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"
+   marker-end="url(#arrow)" opacity=".92"/>
+ <path d="M315 918 C450 884 595 837 684 792 C697 785 708 778 718 772"
+   fill="none" stroke="#125993" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"
+   marker-end="url(#arrow)" opacity=".92"/>
+ <text x="170" y="1035" text-anchor="middle" font-size="24" font-weight="800" fill="#125993">Sales-Ready</text>
+</g>
+
+<!-- Intelligence flow: Intelligence -> Licence and Advisory -->
+<g class="intelligence-only">
+  <!-- Intelligence -> Licence -->
+  <path d="M285 430
+           C300 470 320 505 350 530
+           C390 565 430 570 470 535"
+        fill="none" stroke="#125993" stroke-width="4.5"
+        stroke-linecap="round" stroke-linejoin="round"
+        marker-end="url(#arrow)" opacity=".92"/>
+  <!-- Intelligence -> Advisory -->
+  <path d="M300 445
+           C390 455 485 465 575 480
+           C650 492 715 510 770 535"
+        fill="none" stroke="#125993" stroke-width="4.5"
+        stroke-linecap="round" stroke-linejoin="round"
+        marker-end="url(#arrow)" opacity=".92"/>
+</g>
+
+<!-- ROI flow: Balance -> Inject -> Reveal, near-complete rust circle through Inject -->
+<g class="roi-only">
+  <path d="M580 1045
+           C580 955 540 910 490 910
+           C440 910 400 955 400 995"
+        fill="none" stroke="#7F2519" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round"
+        marker-end="url(#roiArrow)" opacity=".94"/>
+</g>
+
+<!-- ROI annotation outside Balance -->
+<text class="roi-only" x="600" y="1145" text-anchor="middle" dominant-baseline="middle" font-size="25" font-weight="800" fill="#7F2519">ROI</text>
+
+<!-- Toggle buttons -->
+<g id="egBtn" class="btn" transform="translate(35 35)" onclick="toggleEG()">
+ <rect width="210" height="48" rx="24"/><text x="105" y="30" text-anchor="middle">Sales-Ready</text>
+</g>
+<g id="roiBtn" class="btn" transform="translate(75 93)" onclick="toggleROI()">
+ <rect width="130" height="48" rx="24"/><text x="65" y="30" text-anchor="middle">ROI</text>
+</g>
+<g id="intelligenceBtn" class="btn" transform="translate(955 35)" onclick="toggleIntelligence()">
+  <rect width="210" height="48" rx="24"/><text x="105" y="30" text-anchor="middle">Intelligence</text>
+</g>
+
+<script><![CDATA[
+const root=document.documentElement;
+const svg=root;
+const wheel=document.getElementById('wheel');
+let savedTime=0;
+
+/* Reveal begins centred at +225° (= -135°).
+   To centre Reveal on the left at 180°, the wheel needs +315° total rotation. */
+const REVEAL_TARGET=270;
+const DURATION=80;
+
+function setWheelAngle(deg){
+  let t=((deg%360)+360)%360/360*DURATION;
+  svg.setCurrentTime(t);
+}
+function toggleEG(){
+ root.classList.remove('intelligence-on');
+ const turningOn=!root.classList.contains('eg-on');
+ if(turningOn){
+   savedTime=svg.getCurrentTime();
+   svg.pauseAnimations();
+   setWheelAngle(REVEAL_TARGET);
+   root.classList.add('eg-on');
+ } else {
+   root.classList.remove('eg-on','roi-on');
+   svg.setCurrentTime(savedTime);
+   svg.unpauseAnimations();
+ }
+}
+function toggleIntelligence(){
+ const turningOn=!root.classList.contains('intelligence-on');
+ if(turningOn){
+   root.classList.remove('eg-on','roi-on');
+   savedTime=svg.getCurrentTime();
+   svg.pauseAnimations();
+   setWheelAngle(315);
+   root.classList.add('intelligence-on');
+ } else {
+   root.classList.remove('intelligence-on');
+   svg.setCurrentTime(savedTime);
+   svg.unpauseAnimations();
+ }
+}
+function toggleROI(){
+ root.classList.remove('intelligence-on');
+ if(!root.classList.contains('eg-on')){
+   savedTime=svg.getCurrentTime();
+   svg.pauseAnimations();
+   setWheelAngle(REVEAL_TARGET);
+   root.classList.add('eg-on');
+ }
+ root.classList.toggle('roi-on');
+}
+]]></script>
+</svg>

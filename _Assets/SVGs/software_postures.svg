@@ -1,0 +1,139 @@
+<svg viewBox="0 0 1200 1000" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sketch-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="90%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="garden-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="35%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="studio-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="campfire-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="90%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="ecosystem-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="35%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="guild-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="frankenstein-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="90%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="reef-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="35%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="cathedral-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#EE7F6B;stop-opacity:1" />
+      <stop offset="40%" style="stop-color:#7BAFD4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Title -->
+  <text x="600" y="40" font-size="28" font-weight="600" text-anchor="middle" fill="#125993">SAAS</text>
+  <text x="600" y="65" font-size="16" font-weight="500" text-anchor="middle" fill="#125993">Software As A Sandwich</text>
+  <text x="600" y="85" font-size="16" font-weight="400" text-anchor="middle" fill="#125993">A Framework</text>
+
+  <!-- Horizontal Axis Label -->
+  <text x="600" y="140" font-size="32" font-weight="600" text-anchor="middle" fill="#000000">Decision Authority</text>
+
+  <!-- Vertical Axis Label -->
+  <text x="20" y="425" font-size="32" font-weight="600" text-anchor="middle" fill="#000000" transform="rotate(-90 20 425)">Scope of Concern</text>
+
+  <!-- Row Labels (Scope) -->
+  <text x="130" y="265" font-size="18" font-weight="700" text-anchor="end" fill="#000000">Personal</text>
+  <text x="130" y="465" font-size="18" font-weight="700" text-anchor="end" fill="#000000">Contained</text>
+  <text x="130" y="665" font-size="18" font-weight="700" text-anchor="end" fill="#000000">Scalable</text>
+
+  <!-- Column Headers (Decision Authority) -->
+  <text x="280" y="195" font-size="18" font-weight="700" text-anchor="middle" fill="#000000">Vibe</text>
+  <text x="280" y="215" font-size="12" text-anchor="middle" fill="#666666">(None)</text>
+
+  <text x="600" y="195" font-size="18" font-weight="700" text-anchor="middle" fill="#000000">Tension</text>
+  <text x="600" y="215" font-size="12" text-anchor="middle" fill="#666666">(Emergent)</text>
+
+  <text x="920" y="195" font-size="18" font-weight="700" text-anchor="middle" fill="#000000">Structure</text>
+  <text x="920" y="215" font-size="12" text-anchor="middle" fill="#666666">(Explicit)</text>
+
+  <!-- Row 1: PERSONAL -->
+  <!-- The Sketch -->
+  <rect x="160" y="210" width="240" height="110" fill="url(#sketch-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="280" y="245" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Sketch</text>
+  <text x="280" y="263" font-size="11" text-anchor="middle" fill="#000000">• Personal note</text>
+  <text x="280" y="279" font-size="11" text-anchor="middle" fill="#000000">• Quick script</text>
+  <text x="280" y="295" font-size="11" text-anchor="middle" fill="#000000">• Test idea</text>
+
+  <!-- The Garden -->
+  <rect x="480" y="210" width="240" height="110" fill="url(#garden-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="600" y="245" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Garden</text>
+  <text x="600" y="263" font-size="11" text-anchor="middle" fill="#000000">• Personal wiki</text>
+  <text x="600" y="279" font-size="11" text-anchor="middle" fill="#000000">• Growing tool</text>
+  <text x="600" y="295" font-size="11" text-anchor="middle" fill="#000000">• Learning system</text>
+
+  <!-- The Studio -->
+  <rect x="800" y="210" width="240" height="110" fill="url(#studio-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="920" y="245" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Studio</text>
+  <text x="920" y="263" font-size="11" text-anchor="middle" fill="#000000">• Obsidian</text>
+  <text x="920" y="279" font-size="11" text-anchor="middle" fill="#000000">• Personal workflow</text>
+  <text x="920" y="295" font-size="11" text-anchor="middle" fill="#000000">• Defined space</text>
+
+  <!-- Row 2: CONTAINED -->
+  <!-- The Campfire -->
+  <rect x="160" y="410" width="240" height="110" fill="url(#campfire-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="280" y="445" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Campfire</text>
+  <text x="280" y="463" font-size="11" text-anchor="middle" fill="#000000">• Slack bot hack</text>
+  <text x="280" y="479" font-size="11" text-anchor="middle" fill="#000000">• Team shortcut</text>
+  <text x="280" y="495" font-size="11" text-anchor="middle" fill="#000000">• Works today</text>
+
+  <!-- The Ecosystem -->
+  <rect x="480" y="410" width="240" height="110" fill="url(#ecosystem-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="600" y="445" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Ecosystem</text>
+  <text x="600" y="463" font-size="11" text-anchor="middle" fill="#000000">• Discord community</text>
+  <text x="600" y="479" font-size="11" text-anchor="middle" fill="#000000">• Self-organizing</text>
+  <text x="600" y="495" font-size="11" text-anchor="middle" fill="#000000">• Evolving culture</text>
+
+  <!-- The Guild -->
+  <rect x="800" y="410" width="240" height="110" fill="url(#guild-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="920" y="445" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Guild</text>
+  <text x="920" y="463" font-size="11" text-anchor="middle" fill="#000000">• Shopify store</text>
+  <text x="920" y="479" font-size="11" text-anchor="middle" fill="#000000">• Craft standards</text>
+  <text x="920" y="495" font-size="11" text-anchor="middle" fill="#000000">• Bounded group</text>
+
+  <!-- Row 3: SCALABLE -->
+  <!-- The Frankenstein -->
+  <rect x="160" y="610" width="240" height="110" fill="url(#frankenstein-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="280" y="645" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Frankenstein</text>
+  <text x="280" y="663" font-size="11" text-anchor="middle" fill="#000000">• Zapier chains</text>
+  <text x="280" y="679" font-size="11" text-anchor="middle" fill="#000000">• Stitched together</text>
+  <text x="280" y="695" font-size="11" text-anchor="middle" fill="#000000">• Breaks at scale</text>
+
+  <!-- The Reef -->
+  <rect x="480" y="610" width="240" height="110" fill="url(#reef-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="600" y="645" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Reef</text>
+  <text x="600" y="663" font-size="11" text-anchor="middle" fill="#000000">• Figma at scale</text>
+  <text x="600" y="679" font-size="11" text-anchor="middle" fill="#000000">• Emerges from use</text>
+  <text x="600" y="695" font-size="11" text-anchor="middle" fill="#000000">• Constantly adapts</text>
+
+  <!-- The Cathedral -->
+  <rect x="800" y="610" width="240" height="110" fill="url(#cathedral-grad)" stroke="#999999" stroke-width="2" rx="8"/>
+  <text x="920" y="645" font-size="14" font-weight="600" text-anchor="middle" fill="#000000">The Cathedral</text>
+  <text x="920" y="663" font-size="11" text-anchor="middle" fill="#000000">• Stripe</text>
+  <text x="920" y="679" font-size="11" text-anchor="middle" fill="#000000">• Built to last</text>
+  <text x="920" y="695" font-size="11" text-anchor="middle" fill="#000000">• AI-accelerated build</text>
+
+  <!-- Footer -->
+  <text x="600" y="770" font-size="11" text-anchor="middle" fill="#999999">Original idea by Andrew Mayfield</text>
+  <text x="600" y="785" font-size="11" text-anchor="middle" fill="#999999">Graphic inspired by the 'define a sandwich' meme</text>
+</svg>

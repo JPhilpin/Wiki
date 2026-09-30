@@ -1,0 +1,72 @@
+<svg width="100%" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Cameron's Seven Laws of Identity</title>
+  <desc>Seven segments radiating from a central circle, each containing one of Cameron's laws with a one-word descriptor in the outer ring.</desc>
+  
+  <!-- Outer ring segments - lighter blues -->
+  <path d="M500,340 L630,340 A290,290,0,0,0,520.8,113.3 L439.8,214.9 A160,160,0,0,1,500,340Z" fill="#DAE5F0" stroke="none"/>
+  <path d="M439.8,214.9 L520.8,113.3 A290,290,0,0,0,275.5,57.3 L304.4,184.0 A160,160,0,0,1,439.8,214.9Z" fill="#E5EDF4" stroke="none"/>
+  <path d="M304.4,184.0 L275.5,57.3 A290,290,0,0,0,78.7,214.2 L195.8,270.6 A160,160,0,0,1,304.4,184.0Z" fill="#DAE5F0" stroke="none"/>
+  <path d="M195.8,270.6 L78.7,214.2 A290,290,0,0,0,78.7,465.8 L195.8,409.4 A160,160,0,0,1,195.8,270.6Z" fill="#E5EDF4" stroke="none"/>
+  <path d="M195.8,409.4 L78.7,465.8 A290,290,0,0,0,275.5,622.7 L304.4,496.0 A160,160,0,0,1,195.8,409.4Z" fill="#DAE5F0" stroke="none"/>
+  <path d="M304.4,496.0 L275.5,622.7 A290,290,0,0,0,520.8,566.7 L439.8,465.1 A160,160,0,0,1,304.4,496.0Z" fill="#E5EDF4" stroke="none"/>
+  <path d="M439.8,465.1 L520.8,566.7 A290,290,0,0,0,630,340 L500,340 A160,160,0,0,1,439.8,465.1Z" fill="#DAE5F0" stroke="none"/>
+  
+  <!-- Inner ring segments - deeper blues -->
+  <path d="M410,340 L500,340 A160,160,0,0,0,439.8,214.9 L383.6,285.3 A70,70,0,0,1,410,340Z" fill="#A5C2D8" stroke="none"/>
+  <path d="M383.6,285.3 L439.8,214.9 A160,160,0,0,0,304.4,184.0 L324.4,271.8 A70,70,0,0,1,383.6,285.3Z" fill="#B8CFDF" stroke="none"/>
+  <path d="M324.4,271.8 L304.4,184.0 A160,160,0,0,0,195.8,270.6 L276.9,309.6 A70,70,0,0,1,324.4,271.8Z" fill="#A5C2D8" stroke="none"/>
+  <path d="M276.9,309.6 L195.8,270.6 A160,160,0,0,0,195.8,409.4 L276.9,370.4 A70,70,0,0,1,276.9,309.6Z" fill="#B8CFDF" stroke="none"/>
+  <path d="M276.9,370.4 L195.8,409.4 A160,160,0,0,0,304.4,496.0 L324.4,408.2 A70,70,0,0,1,276.9,370.4Z" fill="#A5C2D8" stroke="none"/>
+  <path d="M324.4,408.2 L304.4,496.0 A160,160,0,0,0,439.8,465.1 L383.6,394.7 A70,70,0,0,1,324.4,408.2Z" fill="#B8CFDF" stroke="none"/>
+  <path d="M383.6,394.7 L439.8,465.1 A160,160,0,0,0,500,340 L410,340 A70,70,0,0,1,383.6,394.7Z" fill="#A5C2D8" stroke="none"/>
+  
+  <!-- Circles -->
+  <circle cx="340" cy="340" r="290" fill="none" stroke="#8BA3B8" stroke-width="1.5"/>
+  <circle cx="340" cy="340" r="160" fill="none" stroke="#8BA3B8" stroke-width="1"/>
+  
+  <!-- Radial lines -->
+  <line x1="410" y1="340" x2="630" y2="340" stroke="#6B8399" stroke-width="1.5"/>
+  <line x1="383.6" y1="285.3" x2="520.8" y2="113.3" stroke="#6B8399" stroke-width="1.5"/>
+  <line x1="324.4" y1="271.8" x2="275.5" y2="57.3" stroke="#6B8399" stroke-width="1.5"/>
+  <line x1="276.9" y1="309.6" x2="78.7" y2="214.2" stroke="#6B8399" stroke-width="1.5"/>
+  <line x1="276.9" y1="370.4" x2="78.7" y2="465.8" stroke="#6B8399" stroke-width="1.5"/>
+  <line x1="324.4" y1="408.2" x2="275.5" y2="622.7" stroke="#6B8399" stroke-width="1.5"/>
+  <line x1="383.6" y1="394.7" x2="520.8" y2="566.7" stroke="#6B8399" stroke-width="1.5"/>
+  
+  <!-- Centre circle -->
+  <circle cx="340" cy="340" r="70" fill="#FFFFFF" stroke="#1F2557" stroke-width="2"/>
+  <text x="340" y="326" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13">The Seven</text>
+  <text x="340" y="344" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="15" font-weight="600">Laws</text>
+  <text x="340" y="362" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13">of Identity</text>
+  
+  <!-- Inner ring: Bold law names -->
+  <text x="444" y="283" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">User Control</text>
+  <text x="444" y="299" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">&amp; Consent</text>
+  
+  <text x="366" y="221" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Minimal</text>
+  <text x="366" y="237" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Disclosure</text>
+  
+  <text x="268" y="243" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Justifiable</text>
+  <text x="268" y="259" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Parties</text>
+  
+  <text x="225" y="333" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Directed</text>
+  <text x="225" y="349" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Identity</text>
+  
+  <text x="268" y="423" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Pluralism</text>
+  <text x="268" y="439" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">of Tech</text>
+  
+  <text x="366" y="445" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Human</text>
+  <text x="366" y="461" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Integration</text>
+  
+  <text x="444" y="383" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Consistent</text>
+  <text x="444" y="399" text-anchor="middle" fill="#1F2557" font-family="Calibri, sans-serif" font-size="13" font-weight="600">Experience</text>
+  
+  <!-- Outer ring: italic descriptors -->
+  <text x="538" y="245" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Autonomy</text>
+  <text x="389" y="126" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Privacy</text>
+  <text x="203" y="168" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Trust</text>
+  <text x="120" y="340" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Context</text>
+  <text x="203" y="512" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Diversity</text>
+  <text x="389" y="555" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Usability</text>
+  <text x="538" y="436" text-anchor="middle" font-size="13" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Coherence</text>
+</svg>

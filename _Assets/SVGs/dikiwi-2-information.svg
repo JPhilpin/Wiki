@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+<title>Information</title>
+<rect width="400" height="400" fill="#FAFAFA"/>
+<text x="200" y="362" text-anchor="middle" font-family="'Space Grotesk',sans-serif" font-size="13" font-weight="500" letter-spacing="0.16em" fill="#2C4A6E">INFORMATION</text>
+<text x="200" y="380" text-anchor="middle" font-family="'Inter',sans-serif" font-size="10" fill="#BBBBBB" letter-spacing="0.06em">connected · grouped · beginning to relate</text>
+
+<!-- cluster A top-left — blue -->
+<line x1="48" y1="65" x2="88" y2="52" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="88" y1="52" x2="122" y2="70" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="48" y1="65" x2="72" y2="98" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="72" y1="98" x2="110" y2="105" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="110" y1="105" x2="122" y2="70" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<circle cx="48" cy="65" r="4" fill="#2C4A6E"/>
+<circle cx="88" cy="52" r="4" fill="#2C4A6E"/>
+<circle cx="122" cy="70" r="4" fill="#2C4A6E"/>
+<circle cx="72" cy="98" r="4" fill="#2C4A6E"/>
+<circle cx="110" cy="105" r="5" fill="#FFBF00"/>
+
+<!-- cluster B top-right — rust -->
+<line x1="278" y1="48" x2="318" y2="38" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="318" y1="38" x2="358" y2="55" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="358" y1="55" x2="375" y2="88" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="318" y1="38" x2="340" y2="75" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="340" y1="75" x2="375" y2="88" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<circle cx="278" cy="48" r="4" fill="#7F2519"/>
+<circle cx="318" cy="38" r="4" fill="#7F2519"/>
+<circle cx="358" cy="55" r="4" fill="#7F2519"/>
+<circle cx="375" cy="88" r="4" fill="#7F2519"/>
+<circle cx="340" cy="75" r="5" fill="#FFBF00"/>
+
+<!-- cluster C mid-left — mid-blue -->
+<line x1="38" y1="178" x2="75" y2="162" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="75" y1="162" x2="112" y2="175" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="75" y1="162" x2="88" y2="200" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="38" y1="178" x2="55" y2="210" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="55" y1="210" x2="88" y2="200" stroke="#125993" stroke-width="0.8" fill="none"/>
+<circle cx="38" cy="178" r="4" fill="#125993"/>
+<circle cx="75" cy="162" r="5" fill="#FFBF00"/>
+<circle cx="112" cy="175" r="4" fill="#125993"/>
+<circle cx="88" cy="200" r="4" fill="#125993"/>
+<circle cx="55" cy="210" r="4" fill="#125993"/>
+
+<!-- cluster D mid-centre — blue -->
+<line x1="178" y1="155" x2="215" y2="142" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="215" y1="142" x2="250" y2="158" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="215" y1="142" x2="228" y2="178" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="178" y1="155" x2="192" y2="188" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<line x1="192" y1="188" x2="228" y2="178" stroke="#2C4A6E" stroke-width="0.8" fill="none"/>
+<circle cx="178" cy="155" r="4" fill="#2C4A6E"/>
+<circle cx="215" cy="142" r="5" fill="#FFBF00"/>
+<circle cx="250" cy="158" r="4" fill="#2C4A6E"/>
+<circle cx="228" cy="178" r="4" fill="#2C4A6E"/>
+<circle cx="192" cy="188" r="4" fill="#2C4A6E"/>
+
+<!-- cluster E bottom-right — rust -->
+<line x1="288" y1="248" x2="328" y2="235" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="328" y1="235" x2="365" y2="252" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="328" y1="235" x2="345" y2="272" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="288" y1="248" x2="305" y2="280" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="305" y1="280" x2="345" y2="272" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<line x1="365" y1="252" x2="375" y2="285" stroke="#7F2519" stroke-width="0.8" fill="none"/>
+<circle cx="288" cy="248" r="4" fill="#7F2519"/>
+<circle cx="328" cy="235" r="5" fill="#FFBF00"/>
+<circle cx="365" cy="252" r="4" fill="#7F2519"/>
+<circle cx="345" cy="272" r="4" fill="#7F2519"/>
+<circle cx="305" cy="280" r="4" fill="#7F2519"/>
+<circle cx="375" cy="285" r="4" fill="#7F2519"/>
+
+<!-- cluster F bottom-left — mid-blue -->
+<line x1="48" y1="295" x2="85" y2="282" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="85" y1="282" x2="122" y2="298" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="85" y1="282" x2="98" y2="318" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="48" y1="295" x2="62" y2="325" stroke="#125993" stroke-width="0.8" fill="none"/>
+<line x1="62" y1="325" x2="98" y2="318" stroke="#125993" stroke-width="0.8" fill="none"/>
+<circle cx="48" cy="295" r="4" fill="#125993"/>
+<circle cx="85" cy="282" r="5" fill="#FFBF00"/>
+<circle cx="122" cy="298" r="4" fill="#125993"/>
+<circle cx="98" cy="318" r="4" fill="#125993"/>
+<circle cx="62" cy="325" r="4" fill="#125993"/>
+
+<!-- isolated stragglers -->
+<circle cx="185" cy="55" r="3" fill="none" stroke="#DDDDDD" stroke-width="0.7"/>
+<circle cx="242" cy="118" r="3" fill="none" stroke="#DDDDDD" stroke-width="0.7"/>
+<circle cx="158" cy="248" r="3" fill="none" stroke="#DDDDDD" stroke-width="0.7"/>
+<circle cx="210" cy="305" r="3" fill="none" stroke="#DDDDDD" stroke-width="0.7"/>
+<circle cx="265" cy="175" r="3" fill="none" stroke="#DDDDDD" stroke-width="0.7"/>
+</svg>

@@ -1,0 +1,59 @@
+<svg width="100%" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>The Dimensions of Identity</title>
+  <desc>Three concentric zones: centre label, darker inner ring with dimension names, lighter outer ring with descriptors.</desc>
+  
+  <path d="M500 340 L630 340 A290 290 0 0 0 485 89 L420 201 A160 160 0 0 1 500 340Z" fill="#D4EDFC" stroke="none"/>
+  <path d="M420 201 L485 89 A290 290 0 0 0 195 89 L260 201 A160 160 0 0 1 420 201Z" fill="#FCDCE4" stroke="none"/>
+  <path d="M260 201 L195 89 A290 290 0 0 0 50 340 L180 340 A160 160 0 0 1 260 201Z" fill="#D4EDDA" stroke="none"/>
+  <path d="M180 340 L50 340 A290 290 0 0 0 195 591 L260 479 A160 160 0 0 1 180 340Z" fill="#E8D5F0" stroke="none"/>
+  <path d="M260 479 L195 591 A290 290 0 0 0 485 591 L420 479 A160 160 0 0 1 260 479Z" fill="#FFE4C4" stroke="none"/>
+  <path d="M420 479 L485 591 A290 290 0 0 0 630 340 L500 340 A160 160 0 0 1 420 479Z" fill="#FFF0C4" stroke="none"/>
+  
+  <path d="M410 340 L500 340 A160 160 0 0 0 420 201 L375 279 A70 70 0 0 1 410 340Z" fill="#A8D8F8" stroke="none"/>
+  <path d="M375 279 L420 201 A160 160 0 0 0 260 201 L305 279 A70 70 0 0 1 375 279Z" fill="#F5B8CA" stroke="none"/>
+  <path d="M305 279 L260 201 A160 160 0 0 0 180 340 L270 340 A70 70 0 0 1 305 279Z" fill="#A8D8B2" stroke="none"/>
+  <path d="M270 340 L180 340 A160 160 0 0 0 260 479 L305 401 A70 70 0 0 1 270 340Z" fill="#D0ADE2" stroke="none"/>
+  <path d="M305 401 L260 479 A160 160 0 0 0 420 479 L375 401 A70 70 0 0 1 305 401Z" fill="#F5C898" stroke="none"/>
+  <path d="M375 401 L420 479 A160 160 0 0 0 500 340 L410 340 A70 70 0 0 1 375 401Z" fill="#F5DC8C" stroke="none"/>
+  
+  <circle cx="340" cy="340" r="290" fill="none" stroke="#333333" stroke-width="1.5" opacity="0.3"/>
+  <circle cx="340" cy="340" r="160" fill="none" stroke="#333333" stroke-width="1" opacity="0.2"/>
+  
+  <line x1="410" y1="340" x2="630" y2="340" stroke="#333333" stroke-width="1.5"/>
+  <line x1="375" y1="279" x2="485" y2="89" stroke="#333333" stroke-width="1.5"/>
+  <line x1="305" y1="279" x2="195" y2="89" stroke="#333333" stroke-width="1.5"/>
+  <line x1="270" y1="340" x2="50" y2="340" stroke="#333333" stroke-width="1.5"/>
+  <line x1="305" y1="401" x2="195" y2="591" stroke="#333333" stroke-width="1.5"/>
+  <line x1="375" y1="401" x2="485" y2="591" stroke="#333333" stroke-width="1.5"/>
+  
+  <circle cx="340" cy="340" r="70" fill="#FFFFFF" stroke="#333333" stroke-width="2"/>
+  <text x="340" y="330" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="12">The</text>
+  <text x="340" y="346" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Dimensions</text>
+  <text x="340" y="362" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="12">of Identity</text>
+  
+  <text x="440" y="275" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Three</text>
+  <text x="440" y="291" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Environments</text>
+  
+  <text x="340" y="218" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Two-step</text>
+  <text x="340" y="234" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Process</text>
+  
+  <text x="240" y="268" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Three</text>
+  <text x="240" y="284" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Transaction</text>
+  <text x="240" y="300" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Types</text>
+  
+  <text x="240" y="392" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Two &amp; Three</text>
+  <text x="240" y="408" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Parties</text>
+  
+  <text x="340" y="448" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Levels of</text>
+  <text x="340" y="464" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Assurance</text>
+  
+  <text x="440" y="392" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Levels of</text>
+  <text x="440" y="408" text-anchor="middle" fill="#333333" font-family="Calibri, sans-serif" font-size="14" font-weight="500">Disclosure</text>
+  
+  <text x="535" y="228" text-anchor="middle" font-size="14" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Where it happens</text>
+  <text x="340" y="120" text-anchor="middle" font-size="14" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">The mechanism</text>
+  <text x="145" y="228" text-anchor="middle" font-size="14" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">What is being done</text>
+  <text x="145" y="453" text-anchor="middle" font-size="14" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">Who is involved</text>
+  <text x="340" y="560" text-anchor="middle" font-size="14" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">How much confidence</text>
+  <text x="535" y="453" text-anchor="middle" font-size="14" font-weight="600" font-style="italic" fill="#125993" font-family="Calibri, sans-serif">How much is shared</text>
+</svg>
