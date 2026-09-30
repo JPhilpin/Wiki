@@ -2,7 +2,7 @@
 """Ghost pages: links to pages that do not exist yet.
 
 Scans the vault (excluding Candidates, Templates and this page) for [[wikilinks]] whose
-target matches no file name, title or alias. Writes "Ghost Pages.md" at the vault root,
+target matches no file name, title or alias. Writes "00 Using The Wiki/Ghost Pages.md",
 split into:
   Wanted - links that name a page (capitalised or multi-word): pages the wiki is asking for
   Ideas  - single lowercase words linked in passing: candidates for glossary entries
@@ -11,7 +11,7 @@ create an empty note when clicked in Obsidian.
 Run from the vault root:  python3 .github/scripts/ghost_pages.py
 """
 import os, re, collections, datetime
-OUT = "Ghost Pages.md"
+OUT = "00 Using The Wiki/Ghost Pages.md"  # the live page; was the vault root until the 00 folder was restructured
 SKIP = ("05 Candidates", "04 Templates", ".git", ".github")
 names, aliases, files = set(), {}, []  # names = real files/titles; aliases = alias -> page (for near-miss hints only)
 for dp, _, fs in os.walk("."):
@@ -30,7 +30,7 @@ for dp, _, fs in os.walk("."):
             am = re.search(r"^aliases:\s*\n((?:\s*-.*\n?)+)", fm, re.M)
             if am:
                 for a in re.findall(r"^\s*-\s*(.+)$", am.group(1), re.M): aliases[a.strip().strip("\"'").lower()] = page
-        if not p.startswith(SKIP) and f != OUT: files.append((p, t))
+        if not p.startswith(SKIP) and f != os.path.basename(OUT): files.append((p, t))
 def near_miss(t):
     """Existing page a broken link probably meant: an alias, or a singular/plural form."""
     if t in aliases: return aliases[t]
@@ -65,6 +65,7 @@ permalink: /ghost-pages
 type: section
 status: active
 tags:
+  - index
   - studio
 ---
 
