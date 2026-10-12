@@ -81,6 +81,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## F
 
+- [[Fashion]]
 - [[First]]
 - [[Flexible]]
 - [[Focus]]
@@ -88,6 +89,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## G
 
+- [[Governance]]
 - [[Growth]]
 
 ## I
@@ -95,6 +97,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 - [[Identity]]
 - [[Impact]]
 - [[Information]]
+- [[Infrastructure]]
 - [[Insight]]
 - [[Integrity]]
 - [[01 Structured Thought/00 Glossary/Intelligence]]
@@ -123,6 +126,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## N
 
+- [[Nature]]
 - [[Network]]
 
 ## O
@@ -133,6 +137,7 @@ The working vocabulary of Structured Thought: short definitions of the terms use
 
 ## P
 
+- [[Pace Layer]]
 - [[Partner]]
 - [[People]]
 - [[Performance]]
