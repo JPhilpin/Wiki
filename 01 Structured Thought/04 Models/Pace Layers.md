@@ -25,8 +25,8 @@ Borrowed from [[Stewart Brand]], who is explicit that the idea passed through se
 
 - Early 1970s: the architect Frank Duffy describes a building as layers of longevity: Shell, Services, Scenery and Set.
 - 1994: Brand expands Duffy's four layers to six for *How Buildings Learn*: Site, Structure, Skin, Services, Space Plan and Stuff.
-- December 1996: Brand sketches the civilisation version after working it through with Brian Eno. Eno's input changed the top layer from Art to Fashion and the Government layer to Governance.
-- 1999: the diagram debuts in *The Clock of the Long Now*.
+- December 1996: Brand sketches the civilisation version after working it through with [[Brian Eno]]. Eno's input changed the top layer from Art to Fashion and the Government layer to Governance.
+- 1999: the diagram debuts in *[[Clock of the Long Now|The Clock of the Long Now]]*.
 - 2018: Brand publishes the fullest statement, "Pace Layering: How Complex Systems Learn and Keep Learning", in the Journal of Design and Science.
 
 Brand also credits Freeman Dyson, among others, for helping him form the concept.
@@ -52,7 +52,7 @@ Fast layers learn and propose. Slow layers remember and decide. The small, fast 
 
 Each layer does a different job, works somewhat independently and responds mainly to the layers next to it. That is what makes the whole resilient. Some parts take the shock quickly so that slower parts can ignore it and carry on with continuity. Brand's ecological picture is a conifer forest, where needle, crown, patch, stand, forest and biome form a time hierarchy as well as a size one, from about a year for the needle to ten thousand years for the biome.
 
-[[Paul Saffo]], a futurist and founding Long Now board member, uses and teaches the model, including in his forecasting course at Stanford. He calls the friction between layers "constructive turbulence".
+[[Paul Saffo]], a futurist and founding board member of [[Long Now|The Long Now Foundation]], uses and teaches the model, including in his forecasting course at Stanford. He calls the friction between layers "constructive turbulence".
 
 ### What goes wrong
 
@@ -72,6 +72,8 @@ Brand himself describes the diagram as free of data. That is why it travels: peo
 
 - [[Stewart Brand]]
 - [[Paul Saffo]]
+- [[Brian Eno]]
+- [[Long Now|The Long Now]]
 - [[Change]]
 - [[Learning]]
 - [[Systemic]]
