@@ -11,7 +11,7 @@ tags:
 
 The core ideas that Structured Thought is built on.
 
-13 pages.
+15 pages.
 
 - **[[Creative, Clever, Consistent and Complete]]** - Four complementary qualities used together to test whether an idea or piece of work is imaginative, intelligent, dependable and finished.
 - **[[Customer Effective Demand Network]]**
@@ -25,3 +25,5 @@ The core ideas that Structured Thought is built on.
 - **[[Age of Experience]]** - An emerging context in which experience, relationships, networks and changing context complement reason as foundations for understanding.
 - **[[Age of Reason]]** - A way of understanding an era dominated by linearity, standardisation, categorisation and confidence in rational systems.
 - **[[Business Equation]]** - A contextual model of how a business combines people, money and things to create and exchange value.
+- **[[Long Bets]]** - A public arena for accountable predictions, where anyone can make a prediction, anyone can challenge it with a bet, and the stake goes to charity.
+- **[[Long Now|The Long Now]]** - The next and last ten thousand years treated as one present, a timescale for planning, deciding and building as a good ancestor.
