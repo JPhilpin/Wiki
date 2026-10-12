@@ -5,9 +5,10 @@ slug: culture
 permalink: /glossary/culture/
 type: glossary
 kind: term
+family: Pace Layer
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-10-13
 aliases:
   - cultures
 tags:
@@ -16,4 +17,4 @@ tags:
 
 ## In Structured Thought
 
-Culture is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
+Culture is the fifth of the six [[Pace Layer|pace layers]]. It moves at the pace of language and religion, over centuries and millennia, and it is the work of whole peoples.
