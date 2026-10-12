@@ -5,13 +5,14 @@ slug: commerce
 permalink: /glossary/commerce/
 type: glossary
 kind: term
+family: Pace Layer
 status: active
 workflow: crafted
-updated: 2026-07-25
+updated: 2026-10-13
 tags:
   - output
 ---
 
 ## In Structured Thought
 
-Commerce is part of the controlled vocabulary of Structured Thought. Its meaning should be read in relation to the wider system rather than as an isolated dictionary definition.
+Commerce is the second of the six [[Pace Layer|pace layers]]. It exploits and absorbs shocks, and it may instruct the layers below it but must not control them, because it is short-sighted. Left unchecked by [[Governance]] and [[Culture]], it easily becomes crime.
