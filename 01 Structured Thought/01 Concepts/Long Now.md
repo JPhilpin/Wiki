@@ -1,5 +1,5 @@
 ---
-title: "The Long Now"
+title: "Long Now"
 summary: "The next and last ten thousand years treated as one present, a timescale for planning, deciding and building as a good ancestor."
 slug: long-now
 permalink: /concepts/long-now
