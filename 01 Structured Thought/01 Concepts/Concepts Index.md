@@ -9,7 +9,7 @@ tags:
   - index
 ---
 
-The core ideas that Structured Thought is built on.
+The core ideas that Structured Thought emerges from.
 
 15 pages.
 
@@ -24,6 +24,7 @@ The core ideas that Structured Thought is built on.
 - **[[Systems of Record]]** - A family of systems that maintain authoritative organisational records, transactions and state.
 - **[[Age of Experience]]** - An emerging context in which experience, relationships, networks and changing context complement reason as foundations for understanding.
 - **[[Age of Reason]]** - A way of understanding an era dominated by linearity, standardisation, categorisation and confidence in rational systems.
+- **[[Future of Work]]**
 - **[[Business Equation]]** - A contextual model of how a business combines people, money and things to create and exchange value.
 - **[[Long Bets]]** - A public arena for accountable predictions, where anyone can make a prediction, anyone can challenge it with a bet, and the stake goes to charity.
 - **[[Long Now|The Long Now]]** - The next and last ten thousand years treated as one present, a timescale for planning, deciding and building as a good ancestor.
