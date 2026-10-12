@@ -7,7 +7,7 @@ type: reference
 kind: person
 status: active
 workflow: crafted
-updated: 2026-08-21
+updated: 2026-10-13
 aliases: []
 tags:
   - author
@@ -16,10 +16,10 @@ tags:
 <div class="meta-section">
 <p><strong>Wikipedia:</strong> <a href="https://en.wikipedia.org/wiki/Paul_Saffo" target="_blank">Paul Saffo</a></p>
 <p><strong>Known For:</strong> Forecasting methodology</p>
-<p><strong>Known For:</strong> Pace Layers</p>
+<p><strong>Known For:</strong> [[Pace Layers]]</p>
 <p><strong>Known For:</strong> Strong opinions, weakly held</p>
 </div>
 
 Paul Saffo is a Silicon Valley forecaster and essayist who has been mapping the shape of technological change for over four decades. He is perhaps best known for coining the maxim "strong opinions, weakly held" - the idea that effective forecasting requires conviction enough to commit to a view, combined with the intellectual honesty to abandon it the moment better evidence arrives.
 
-His work on Pace Layers - developed alongside Stewart Brand - provides one of the most useful frameworks for understanding why some things in organisations change quickly while others resist change for decades. It is a model that makes the invisible visible: the hidden rhythms that determine why transformation is always harder than it looks.
+He uses and teaches [[Pace Layers]], the model [[Stewart Brand]] introduced in 1999, and calls the friction between its layers "constructive turbulence". The model provides one of the most useful frameworks for understanding why some things in organisations change quickly while others resist change for decades. It is a model that makes the invisible visible: the hidden rhythms that determine why transformation is always harder than it looks.
