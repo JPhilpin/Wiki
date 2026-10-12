@@ -1,5 +1,5 @@
 ---
-title: "The Clock of the Long Now"
+title: "Clock of the Long Now"
 summary: "Stewart Brand's founding manifesto for The Long Now Foundation, and the book in which the Pace Layers diagram first appeared."
 slug: clock-of-the-long-now
 permalink: /references/clock-of-the-long-now
