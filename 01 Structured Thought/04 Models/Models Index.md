@@ -17,6 +17,6 @@ Models for seeing how things fit together, some original and some borrowed.
 - **[[Diamond Model]]**
 - **[[DIKIWI]]** - A Structured Thought extension of DIKW that makes Insight and Impact explicit in the movement from information towards consequential action.
 - **[[DIKW]]** - The established hierarchy describing the progression from Data through Information and Knowledge to Wisdom.
-- **[[Pace Layers]]**
+- **[[Pace Layers]]** - Civilisation as six layers changing at different speeds, from fashion to nature, where the fast layers innovate and the slow layers stabilise. Borrowed from Stewart Brand.
 - **[[TAM - SAM - SOM|TAM / SAM / SOM]]** - A market opportunity model that distinguishes total, serviceable and realistically obtainable demand.
 - **[[Future World|The Future World Model]]**
