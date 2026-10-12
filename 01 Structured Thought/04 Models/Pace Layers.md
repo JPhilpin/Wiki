@@ -6,6 +6,7 @@ permalink: /models/pace-layers/
 type: model
 origin: borrowed
 source: "[[Stewart Brand]]"
+family: Pace Layer
 status: active
 workflow: crafted
 updated: 2026-10-13
@@ -35,16 +36,16 @@ Brand also credits Freeman Dyson, among others, for helping him form the concept
 
 ### The six layers
 
-Brand names six layers, from fastest to slowest.
+Brand names six layers, from fastest to slowest. Each has a Glossary entry, and together they form the [[Pace Layer]] family.
 
 | Layer | What it does |
 |---|---|
-| Fashion and art | Froth: quick, experimental and self-preoccupied. It supplies the energy for commerce and the occasional idea that sifts down into slower layers. |
+| [[Fashion]] | Froth: quick, experimental and self-preoccupied, and the home of art. It supplies the energy for commerce and the occasional idea that sifts down into slower layers. |
 | [[Commerce]] | Exploits and absorbs shocks. It may instruct the layers below but must not control them, because it is short-sighted. |
-| Infrastructure | Transport, communication, education and science. The payback is too long for ordinary investment, so governance and culture have to carry the cost. |
-| Governance | Rules and the public sector, plus the social sector of nonprofits that serve the larger, slower good. |
+| [[Infrastructure]] | Transport, communication, education and science. The payback is too long for ordinary investment, so governance and culture have to carry the cost. |
+| [[Governance]] | Rules and the public sector, plus the social sector of nonprofits that serve the larger, slower good. |
 | [[Culture]] | Moves at the pace of language and religion, over centuries. The work of whole peoples. |
-| Nature | The slowest layer and the most powerful. A drought ended the world's first empire. |
+| [[Nature]] | The slowest layer and the most powerful. A drought ended the world's first empire. |
 
 ### How the layers behave
 
@@ -70,6 +71,7 @@ Brand himself describes the diagram as free of data. That is why it travels: peo
 
 ### Related
 
+- [[Pace Layer]]
 - [[Stewart Brand]]
 - [[Paul Saffo]]
 - [[Brian Eno]]
