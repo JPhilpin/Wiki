@@ -28,7 +28,7 @@ Brand builds containers and lets other people fill them. The Whole Earth Catalog
 
 ## Pace Layers
 
-His best-known idea describes a civilisation as a stack of layers moving at different speeds: fashion moves fast, governance slowly, nature barely at all. Brand developed it with the architect Frank Duffy and elaborated it with [[Paul Saffo]]. The 2018 essay "Pace Layering: How Complex Systems Learn and Keep Learning" proposes six levels of pace and size. Its central claim is that the contradictions between layers are where a system finds its health, because each layer corrects the others.
+His best-known idea describes a civilisation as a stack of layers moving at different speeds: fashion moves fast, governance slowly, nature barely at all. It grew from the architect Frank Duffy's layers of a building, which Brand expanded in *How Buildings Learn*, and took its civilisation form in a 1996 sketch made after working it through with Brian Eno. [[Paul Saffo]] uses and teaches it. The 2018 essay "Pace Layering: How Complex Systems Learn and Keep Learning" proposes six levels of pace and size. Its central claim is that the contradictions between layers are where a system finds its health, because each layer corrects the others. The full model, with the six layers, is on the [[Pace Layers]] page.
 
 The model explains why organisations struggle to change. Different parts of them run at incompatible speeds, and most change programmes try to move everything at once.
 
@@ -52,7 +52,7 @@ The model explains why organisations struggle to change. Different parts of them
 
 *Maintenance: Of Everything, Part One* (Stripe Press, 2026) is his first major book in seventeen years. It opens with the 1968 Golden Globe solo sailboat race as a contest of maintenance styles, then moves through corrosion, precision manufacturing, the evolution of manuals and military sustainment. The argument: taking responsibility for what already exists, whether a motorcycle, a monument or the planet, is a radical act. Part Two is planned for 2027.
 
-Earlier books include *How Buildings Learn* (1994, also a six-part BBC series in 1997 with music by Brian Eno), *The Clock of the Long Now*, *Whole Earth Discipline* (2010) and *The SALT Summaries* (2011).
+Earlier books include *How Buildings Learn* (1994, also a six-part BBC series in 1997 with music by Brian Eno), *The Clock of the Long Now* (1999), *Whole Earth Discipline* (2010) and *The SALT Summaries* (2011).
 
 Two recent essays carry the same thread. "The Essential Art of Civilization" (2025) argues that maintenance is tedious, so people defer it, and that responsible maintenance is essential to long-term survival. "Elements of a Durable Civilization" (2024) asks what it takes to move from a global civilisation to a planetary one, and argues that the real work is managing continuity rather than predicting collapse.
 
