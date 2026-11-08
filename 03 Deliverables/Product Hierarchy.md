@@ -47,22 +47,31 @@ Engagement is the whole process. [[Engage]] is one of the eight domains inside i
 
 - **Engagement**
   - **[[Reveal]]** (domain)
-    - **Ready** (product)
-      - SalesReady (app)
-      - LeadReady (app)
-    - **Navigation** (product)
-      - Website (app)
-  - **[[01 Structured Thought/08 Domains/Intelligence|Intelligence]]** (domain)
-    - **Intelligence** (product)
-      - One app per community or sector
-  - **[[Assembly]]** (domain)
+    - **[[Ready]]** (product)
+      - [[SalesReady]], [[LeadReady]], [[Reveal Front Door]], [[Business Readiness]], [[AI Readiness Check]] (apps)
+    - **[[Navigation]]** (product)
+      - [[Website Review]], [[Website Self-Service]] (apps)
   - **[[Balance]]** (domain)
-  - **[[Engage]]** (domain)
-  - **[[Library]]** (domain)
-  - **[[Personal]]** (domain)
+    - **[[RoI]]** (product)
+      - [[ROI Calculators]] (app, injected into Ready)
+  - **[[01 Structured Thought/08 Domains/Intelligence|Intelligence]]** (domain)
+    - **[[03 Deliverables/Intelligence|Intelligence]]** (product)
+      - [[PHI⑊PIN Intelligence]] (app), plus one app per community or sector
+  - **[[Assembly]]** (domain)
+    - **[[Assembly Product|Assembly]]** (product)
+      - [[EngagedCommunity]], [[Network]] (apps)
   - **[[Pulse]]** (domain)
+    - **[[Pulse Product|Pulse]]** (product)
+  - **[[Engage]]** (domain)
+    - **[[Archetype]]** (product, working name)
+      - [[Engagement Profile]] (app)
+  - **[[Personal]]** (domain)
+      - [[Hononga]] (app; product to be named)
+  - **[[Library]]** (domain)
+  - [[BusinessEngaged Suite]] (one app built from Intelligence, Pulse and Assembly)
+- **[[Services Index|Services]]**, beside the domains: [[Advisory]], [[Consulting]], [[Enablement]], [[Training]], [[Workshops]], [[Education]]
 
-Products and apps for the last six domains are still to be defined.
+Apps built for specific customers are not listed here.
 
 ## Reveal
 
