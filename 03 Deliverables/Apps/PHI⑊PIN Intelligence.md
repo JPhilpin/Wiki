@@ -18,4 +18,4 @@ PHI⑊PIN's own Intelligence app: a curated, continuously updated picture of its
 
 Outputs include a briefing, a newsletter and feeds. Outputs are what an app produces; they are not separate apps.
 
-An app is what customers buy: a product plus the [[Services Index|services]] around it. See [[Product Hierarchy]].
+An app is what customers buy: a product plus the [[03 Deliverables/Services/Services Index|services]] around it. See [[Product Hierarchy]].

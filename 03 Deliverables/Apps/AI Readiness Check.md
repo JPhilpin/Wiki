@@ -18,4 +18,4 @@ A diagnostic of how ready an organisation is to use AI. Same pattern as Ready: q
 
 Open question: a Ready app with an AI question set, or a product of its own.
 
-An app is what customers buy: a product plus the [[Services Index|services]] around it. See [[Product Hierarchy]].
+An app is what customers buy: a product plus the [[03 Deliverables/Services/Services Index|services]] around it. See [[Product Hierarchy]].

@@ -17,4 +17,4 @@ What is your website actually doing for you, and where is it leaking? A forensic
 
 
 
-Customers buy it as an app: this product plus the [[Services Index|services]] around it. See [[Product Hierarchy]].
+Customers buy it as an app: this product plus the [[03 Deliverables/Services/Services Index|services]] around it. See [[Product Hierarchy]].

@@ -48,10 +48,10 @@ Engagement is the whole process. [[Engage]] is one of the eight domains inside i
 - **Engagement**
   - **[[Reveal]]** (domain)
     - **[[Ready]]** (product)
-      - [[SalesReady]], [[LeadReady]], [[Reveal Front Door]], [[Business Readiness]], [[AI Readiness Check]] (apps)
+      - [[03 Deliverables/Apps/SalesReady|SalesReady]], [[LeadReady]], [[Reveal Front Door]], [[Business Readiness]], [[AI Readiness Check]] (apps)
     - **[[Navigation]]** (product)
       - [[Website Review]], [[Website Self-Service]] (apps)
-  - **[[Balance]]** (domain)
+  - **[[01 Structured Thought/08 Domains/Balance|Balance]]** (domain)
     - **[[RoI]]** (product)
       - [[ROI Calculators]] (app, injected into Ready)
   - **[[01 Structured Thought/08 Domains/Intelligence|Intelligence]]** (domain)
@@ -69,7 +69,7 @@ Engagement is the whole process. [[Engage]] is one of the eight domains inside i
       - [[Hononga]] (app; product to be named)
   - **[[Library]]** (domain)
   - [[BusinessEngaged Suite]] (one app built from Intelligence, Pulse and Assembly)
-- **[[Services Index|Services]]**, beside the domains: [[Advisory]], [[Consulting]], [[Enablement]], [[Training]], [[Workshops]], [[Education]]
+- **[[03 Deliverables/Services/Services Index|Services]]**, beside the domains: [[Advisory]], [[Consulting]], [[Enablement]], [[Training]], [[Workshops]], [[Education]]
 
 Apps built for specific customers are not listed here.
 

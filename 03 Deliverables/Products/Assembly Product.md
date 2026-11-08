@@ -17,4 +17,4 @@ The core offer of the Assembly domain: structured spaces where the people in a d
 
 
 
-Customers buy it as an app: this product plus the [[Services Index|services]] around it. See [[Product Hierarchy]].
+Customers buy it as an app: this product plus the [[03 Deliverables/Services/Services Index|services]] around it. See [[Product Hierarchy]].

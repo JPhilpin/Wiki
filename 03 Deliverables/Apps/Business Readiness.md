@@ -18,4 +18,4 @@ A growth-readiness diagnostic. Built under a Pulse name, but it works like a Rev
 
 Placement still to be confirmed.
 
-An app is what customers buy: a product plus the [[Services Index|services]] around it. See [[Product Hierarchy]].
+An app is what customers buy: a product plus the [[03 Deliverables/Services/Services Index|services]] around it. See [[Product Hierarchy]].

@@ -18,4 +18,4 @@ A forensic review of a website against the 12-dimension framework, scored and sh
 
 
 
-An app is what customers buy: a product plus the [[Services Index|services]] around it. See [[Product Hierarchy]].
+An app is what customers buy: a product plus the [[03 Deliverables/Services/Services Index|services]] around it. See [[Product Hierarchy]].
