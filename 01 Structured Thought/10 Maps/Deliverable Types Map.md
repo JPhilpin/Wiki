@@ -13,7 +13,7 @@ tags: []
 aliases: []
 ---
 
-![[deliverable-types-diagram.svg]]
+![[domains-deliverable-types.svg]]
 
 ## Related
 

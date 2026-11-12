@@ -41,4 +41,4 @@ Engage is the domain most of the others quietly depend on without saying so. Ass
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]

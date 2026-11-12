@@ -5,7 +5,7 @@ slug: nature
 permalink: /glossary/nature/
 type: glossary
 kind: term
-family: Pace Layer
+family: Pace
 status: active
 workflow: crafted
 updated: 2026-10-13

@@ -13,7 +13,7 @@ tags: []
 aliases: []
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]
 
 ## Related
 

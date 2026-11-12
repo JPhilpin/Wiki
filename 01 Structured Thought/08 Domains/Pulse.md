@@ -41,4 +41,4 @@ Pulse is the domain that turns a single answer into a trend. Every other domain 
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]

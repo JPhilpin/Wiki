@@ -43,4 +43,4 @@ Reveal is the domain that removes agreed fiction (an organisation's fiction abou
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]

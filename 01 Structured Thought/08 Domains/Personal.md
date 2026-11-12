@@ -39,4 +39,4 @@ Personal is the domain that does not appear on any org chart, and it is also the
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]

@@ -23,7 +23,7 @@ Two versions currently in circulation - candidates while a single canonical vers
 
 ![[the-business-equation.png]]
 
-![[the-business-equation-clean.svg]]
+![[business-equation.svg]]
 
 The Equation also frames a larger transition in where business power resides. Producer-led organisations historically optimised around supply, control, efficiency and systems of record. Increasingly, customers, networks, engagement and live demand signals shape how value is created and delivered.
 

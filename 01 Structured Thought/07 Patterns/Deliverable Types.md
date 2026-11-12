@@ -6,14 +6,14 @@ permalink: /patterns/deliverable-types/
 type: pattern
 status: active
 workflow: crafted
-updated: 2026-09-25
+updated: 2026-10-05
 tags: []
-aliases: []
+aliases: [Training]
 ---
 
-![[deliverable-types-diagram.svg]]
+![[domains-deliverable-types.svg]]
 
-Every [[01 Structured Thought/08 Domains/Domains Index|Domain]] has [[Deliverables]] - named, market-facing applications of Structured Thought. The Domain changes. The ways to engage people and an organisatin do not.
+Every [[01 Structured Thought/08 Domains/Domains Index|Domain]] has [[Deliverables]] - named, market-facing applications of Structured Thought. The Domain changes. The ways to engage people and an organisation do not.
 
 ## The five types
 
@@ -21,7 +21,7 @@ Every [[01 Structured Thought/08 Domains/Domains Index|Domain]] has [[Deliverabl
 
 **Consulting** - You do the work for them. Hands-on delivery inside their organisation, using the Domain's thinking to solve a specific problem.
 
-**Enablement** - You transfer the capability. Their own team learns to run the methodology themselves. Distinct from License (no IP handover) and from Consulting (you're not the one doing it).
+**Enablement** - You transfer the capability, through training, workshops and coaching, so their own team can run the methodology themselves. Distinct from License (no IP handover) and from Consulting (you're not the one doing it).
 
 **Injection** - You become part of their team. A person is embedded inside the client's own organisation, working as one of theirs rather than as an outside advisor. Distinct from Consulting (you stay external) and Enablement (you're doing the work, not teaching it).
 
@@ -29,7 +29,7 @@ Every [[01 Structured Thought/08 Domains/Domains Index|Domain]] has [[Deliverabl
 
 ## The axis this isn't
 
-Whether a deliverable is one-off or recurring is not a seventh type - it's an attribute of any of the six. Advisory can be a single session or a retainer. License can be a flat fee or ongoing royalty. That distinction belongs on the deliverable itself, not in this list.
+Whether a deliverable is one-off or recurring is not a sixth type - it's an attribute of any of the five. Advisory can be a single session or a retainer. License can be a flat fee or ongoing royalty. That distinction belongs on the deliverable itself, not in this list.
 
 ## Related
 

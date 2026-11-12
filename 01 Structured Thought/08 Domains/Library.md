@@ -39,4 +39,4 @@ Library is the domain that holds what is been learned so nothing has to be redis
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]

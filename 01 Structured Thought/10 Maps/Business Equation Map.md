@@ -13,7 +13,7 @@ tags: []
 aliases: []
 ---
 
-![[the-business-equation-clean.svg]]
+![[business-equation.svg]]
 
 ## Notes
 

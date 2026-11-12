@@ -41,4 +41,4 @@ Intelligence is the domain that turns noise into something worth acting on. It i
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]

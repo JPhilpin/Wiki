@@ -1,8 +1,8 @@
 ---
 title: Pace Layer
 summary: "Fashion, Commerce, Infrastructure, Governance, Culture, Nature: the six layers of a civilisation, from the fastest to change to the slowest."
-slug: pace-layer
-permalink: /glossary/pace-layer
+slug: pace
+permalink: /glossary/pace
 type: glossary
 kind: term
 status: active
@@ -10,7 +10,8 @@ workflow: crafted
 updated: 2026-10-13
 tags:
   - system
-aliases: []
+aliases:
+  - Pace
 ---
 
 ## In Structured Thought

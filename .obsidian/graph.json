@@ -7,11 +7,41 @@
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [
-    {"query": "path:\"01 Structured Thought/08 Domains\"", "color": {"a": 1, "rgb": 5458615}},
-    {"query": "path:\"03 Deliverables/Products\" OR file:RoI OR path:\"03 Deliverables/Intelligence\"", "color": {"a": 1, "rgb": 1023574}},
-    {"query": "path:\"03 Deliverables/Apps\"", "color": {"a": 1, "rgb": 14178864}},
-    {"query": "path:\"03 Deliverables/Services\"", "color": {"a": 1, "rgb": 12219671}},
-    {"query": "", "color": {"a": 1, "rgb": 14048348}}
+    {
+      "query": "path:\"01 Structured Thought/08 Domains\"",
+      "color": {
+        "a": 1,
+        "rgb": 5458615
+      }
+    },
+    {
+      "query": "path:\"03 Deliverables/Products\" OR file:RoI OR path:\"03 Deliverables/Intelligence\"",
+      "color": {
+        "a": 1,
+        "rgb": 1023574
+      }
+    },
+    {
+      "query": "path:\"03 Deliverables/Apps\"",
+      "color": {
+        "a": 1,
+        "rgb": 14178864
+      }
+    },
+    {
+      "query": "path:\"03 Deliverables/Services\"",
+      "color": {
+        "a": 1,
+        "rgb": 12219671
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    }
   ],
   "collapse-display": false,
   "showArrow": false,

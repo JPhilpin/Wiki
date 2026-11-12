@@ -6,7 +6,7 @@ permalink: /svg-library
 type: foundation
 status: review
 workflow: crafted
-updated: 2026-10-01
+updated: 2026-11-12
 tags: []
 ---
 
@@ -14,21 +14,36 @@ tags: []
 
 **Master copies:** The `_Assets/SVGs/` folder in the Studio vault
 
+**How they are managed:**
+
+- **Live** - `_Assets/SVGs/`, one flat folder. Names never carry a version number and never change, so links never break. Nobody edits a live file directly.
+- **Workshop** - `_Assets/SVGs-In-Process/`. To change a diagram, copy it here as `name-v1.svg` and iterate (`-v2`, `-v3`). Version numbers live only here.
+- **Promote** - when it is ready, copy the final version over the live file, keeping the live name. Every page picks it up.
+- **Clear up** - delete the workshop versions, or move any worth keeping to `_Assets/SVGs/_archive/`. Git keeps the history of every live file.
+
 ## Structured Thought
+
+### The PHI⑊PIN architecture
+
+How PHI⑊PIN goes to business, from the people-first foundation (PHI) and identity (PIN), through elements and engagement, to domains, products, applications, services and the value customers see.
+
+![[architecture-philpin.svg|560]]
+
+File: `architecture-philpin.svg`
 
 ### The Business Equation
 
 The Business Equation in one picture: people and money, the organisation, and the value it offers, framed by systems of record and systems of engagement. See [[Business Equation]].
 
-![[the-business-equation-clean.svg]]
+![[business-equation.svg|560]]
 
-File: `the-business-equation-clean.svg`
+File: `business-equation.svg`
 
 ### PESC and CEDN
 
 PESC, how value gets made, mirrored by CEDN, who value is for: Producer and Customer, Efficient and Effective, Supply and Demand, Chain and Network. See [[PESC]] and [[CEDN]].
 
-![[pesc-cedn-mirror.svg]]
+![[pesc-cedn-mirror.svg|560]]
 
 File: `pesc-cedn-mirror.svg`
 
@@ -36,15 +51,15 @@ File: `pesc-cedn-mirror.svg`
 
 The eight Domains arranged around the individual and the organisation, each in its accent colour. See [[Eight Domains Map]] and [[Domains Index|the Domains]].
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg|560]]
 
-File: `eight-domains-diagram.svg`
+File: `domains-eight.svg`
 
 ### Domains applied
 
 The eight Domains as a wheel, with the deliverable types inside it and value at the centre. The interactive version is on philpin.com; here it appears as a still.
 
-![[domains-applied.svg]]
+![[domains-applied.svg|560]]
 
 File: `domains-applied.svg`
 
@@ -52,61 +67,34 @@ File: `domains-applied.svg`
 
 The deliverable types a Domain can take: Advisory, Consulting, Enablement, Injection, Licence and Product. See [[Deliverable Types]].
 
-![[deliverable-types-diagram.svg]]
+![[domains-deliverable-types.svg|560]]
 
-File: `deliverable-types-diagram.svg`
+File: `domains-deliverable-types.svg`
+
+## People First
+
+### The People First Framework
+
+Purpose sets the direction, two frames hold everything, five flows keep five states true, and performance is what comes out. See [[People First Framework]].
+
+![[framework-people-first.svg|560]]
+
+File: `framework-people-first.svg`
 
 ## Stages of understanding
 
 The six stages of [[DIKIWI]], drawn as static images. Interactive versions of the six are on philpin.com.
 
-### Data
+![[dikiwi-1-data.svg|110]] ![[dikiwi-2-information.svg|110]] ![[dikiwi-3-knowledge.svg|110]] ![[dikiwi-4-insight.svg|110]] ![[dikiwi-5-wisdom.svg|110]] ![[dikiwi-6-impact.svg|110]]
 
-Scattered, unconnected, raw.
-
-![[dikiwi-1-data.svg]]
-
-File: `dikiwi-1-data.svg`
-
-### Information
-
-Connected, grouped, beginning to relate.
-
-![[dikiwi-2-information.svg]]
-
-File: `dikiwi-2-information.svg`
-
-### Knowledge
-
-Pocketed, structured, beginning to bridge.
-
-![[dikiwi-3-knowledge.svg]]
-
-File: `dikiwi-3-knowledge.svg`
-
-### Insight
-
-Signal found, one path complete, others trailing off.
-
-![[dikiwi-4-insight.svg]]
-
-File: `dikiwi-4-insight.svg`
-
-### Wisdom
-
-Converging, synthesising, one complete picture.
-
-![[dikiwi-5-wisdom.svg]]
-
-File: `dikiwi-5-wisdom.svg`
-
-### Impact
-
-Resonant, rippling, everything changes.
-
-![[dikiwi-6-impact.svg]]
-
-File: `dikiwi-6-impact.svg`
+| Stage | What it shows | File |
+| --- | --- | --- |
+| Data | Scattered, unconnected, raw | `dikiwi-1-data.svg` |
+| Information | Connected, grouped, beginning to relate | `dikiwi-2-information.svg` |
+| Knowledge | Pocketed, structured, beginning to bridge | `dikiwi-3-knowledge.svg` |
+| Insight | Signal found, one path complete, others trailing off | `dikiwi-4-insight.svg` |
+| Wisdom | Converging, synthesising, one complete picture | `dikiwi-5-wisdom.svg` |
+| Impact | Resonant, rippling, everything changes | `dikiwi-6-impact.svg` |
 
 ## Personal Dashboard
 
@@ -114,35 +102,25 @@ File: `dikiwi-6-impact.svg`
 
 An individual lens that works across any app, drawing on Pulse, Community, Intelligence and Library modules, a shared database and third-party services.
 
-![[personal-dashboard.svg]]
+![[domains-personal-dashboard.svg|560]]
 
-File: `personal-dashboard.svg`
+File: `domains-personal-dashboard.svg`
 
 ### Across ecosystems
 
 One Personal Dashboard connecting to several ecosystems at once, each seen through the same individual lens.
 
-![[personal-integrated-dashboard.svg]]
+![[domains-personal-integrated-dashboard.svg|560]]
 
-File: `personal-integrated-dashboard.svg`
+File: `domains-personal-integrated-dashboard.svg`
 
 ## Identity
 
-### Cameron's Seven Laws of Identity
+![[identity-cameron-seven-laws.svg|340]] ![[identity-mayo-seven-dimensions.svg|340]]
 
-User control and consent, minimal disclosure, justifiable parties, directed identity, pluralism of technology, human integration and a consistent experience. See [[Identity]].
+**Cameron's Seven Laws of Identity** (left) - user control and consent, minimal disclosure, justifiable parties, directed identity, pluralism of technology, human integration and a consistent experience. See [[Identity]]. File: `identity-cameron-seven-laws.svg`
 
-![[identity-cameron-seven-laws.svg]]
-
-File: `identity-cameron-seven-laws.svg`
-
-### The dimensions of identity
-
-Where it happens (three environments), the mechanism (a two-step process), what is being done (three transaction types), who is involved (two and three parties), how much confidence (levels of assurance) and how much is shared (levels of disclosure).
-
-![[identity-mayo-six-dimensions.svg]]
-
-File: `identity-mayo-six-dimensions.svg`
+**The seven dimensions of identity** (right) - where it happens (three environments), what is being done (three transaction categories), who is involved (two and three parties), who is proven (entities authenticated), how they prove it (credentials, a two-step process), how much confidence (levels of assurance) and how much is shared (levels of disclosure). File: `identity-mayo-seven-dimensions.svg`
 
 ## Software
 
@@ -150,9 +128,9 @@ File: `identity-mayo-six-dimensions.svg`
 
 SAAS, a framework that sets scope of concern (personal, contained, scalable) against decision authority (vibe, tension, structure) to name nine software postures, from The Sketch to The Cathedral. Original idea by Andrew Mayfield; graphic inspired by the "define a sandwich" meme.
 
-![[software_postures.svg]]
+![[framework-software-as-a-sandwich.svg|560]]
 
-File: `software_postures.svg`
+File: `framework-software-as-a-sandwich.svg`
 
 ## Brand
 
@@ -160,6 +138,6 @@ File: `software_postures.svg`
 
 The mark itself. See [[About The Logo]].
 
-![[philpin-logo.svg]]
+![[philpin-logo.svg|560]]
 
 File: `philpin-logo.svg`

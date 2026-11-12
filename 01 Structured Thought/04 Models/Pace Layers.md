@@ -6,7 +6,7 @@ permalink: /models/pace-layers/
 type: model
 origin: borrowed
 source: "[[Stewart Brand]]"
-family: Pace Layer
+family: Pace
 status: active
 workflow: crafted
 updated: 2026-10-13

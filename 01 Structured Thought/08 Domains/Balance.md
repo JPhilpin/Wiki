@@ -45,4 +45,4 @@ Balance is the domain the others resolve into. Pulse tracks how people feel, Rev
 
 ---
 
-![[eight-domains-diagram.svg]]
+![[domains-eight.svg]]
