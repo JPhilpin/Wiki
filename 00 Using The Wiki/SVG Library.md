@@ -17,7 +17,7 @@ tags: []
 **How they are managed:**
 
 - **Live** - `_Assets/SVGs/`, one flat folder. Names never carry a version number and never change, so links never break. Nobody edits a live file directly.
-- **Workshop** - `_Assets/SVGs-In-Process/`. To change a diagram, copy it here as `name-v1.svg` and iterate (`-v2`, `-v3`). Version numbers live only here.
+- **Workshop** - `_Assets/SVGs/_in-process/`. To change a diagram, copy it here as `name-v1.svg` and iterate (`-v2`, `-v3`). Version numbers live only here.
 - **Promote** - when it is ready, copy the final version over the live file, keeping the live name. Every page picks it up.
 - **Clear up** - delete the workshop versions, or move any worth keeping to `_Assets/SVGs/_archive/`. Git keeps the history of every live file.
 
@@ -33,7 +33,7 @@ File: `architecture-philpin.svg`
 
 ### The Business Equation
 
-The Business Equation in one picture: people and money, the organisation, and the value it offers, framed by systems of record and systems of engagement. See [[Business Equation]].
+The Business Equation in one picture. People, money and things go in; the shift comes out, enabled. Systems of engagement and systems of record overlap inside a frame of Growth, Offer, Value and Compliance, with Market, Production, Commerce and Organisation in the ring around the core. The 45° line is the tension running through the middle: producer efficient supply chains (PESC) giving way to customer effective demand networks (CEDN). See [[Business Equation]].
 
 ![[business-equation.svg|560]]
 

@@ -231,9 +231,11 @@ The organisation's own documents are the raw material for steps 2 and 3, each re
 
 ## Open questions
 
-- The transformation steps are a first draft, being tested with a first organisation before this page leaves Candidates.
+- The transformation steps are a first draft, being tested - **before** this page leaves Candidates.
 - On promotion, split into a Model page (the five flows and states) and a Framework page (the agreements and steps), per *models describe, frameworks operate*.
 - Where it meets the Business Equation.
+
+![[business-equation.svg]]
 
 ## Glossary
 
