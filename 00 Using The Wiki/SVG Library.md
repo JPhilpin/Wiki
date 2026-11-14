@@ -6,7 +6,7 @@ permalink: /svg-library
 type: foundation
 status: review
 workflow: crafted
-updated: 2026-11-12
+updated: 2026-11-14
 tags: []
 ---
 
@@ -19,7 +19,8 @@ tags: []
 - **Live** - `_Assets/SVGs/`, one flat folder. Names never carry a version number and never change, so links never break. Nobody edits a live file directly.
 - **Workshop** - `_Assets/SVGs/_in-process/`. To change a diagram, copy it here as `name-v1.svg` and iterate (`-v2`, `-v3`). Version numbers live only here.
 - **Promote** - when it is ready, copy the final version over the live file, keeping the live name. Every page picks it up.
-- **Clear up** - delete the workshop versions, or move any worth keeping to `_Assets/SVGs/_archive/`. Git keeps the history of every live file.
+- **Archive** - before promoting, copy the old live file to `_Assets/SVGs/_archive/` as `name-pre-YYYY-MM-DD.svg`. Git also keeps the history of every live file.
+- **With or without the logo** - a diagram that carries the PHI⑊PIN logo has two live files: `name.svg` without the logo, which documents use, and `name-logo.svg` with it.
 
 ## Structured Thought
 
@@ -33,11 +34,13 @@ File: `architecture-philpin.svg`
 
 ### The Business Equation
 
-The Business Equation in one picture. People, money and things go in; the shift comes out, enabled. Systems of engagement and systems of record overlap inside a frame of Growth, Offer, Value and Compliance, with Market, Production, Commerce and Organisation in the ring around the core. The 45° line is the tension running through the middle: producer efficient supply chains (PESC) giving way to customer effective demand networks (CEDN). See [[Business Equation]].
+Every business is an equation: people, money and things go into the business, and value comes out. The picture shows where the weight has moved. Rust is the old world, bottom left: systems of record and producer efficient supply chains (PESC). Blue is the new, top right: systems of engagement and customer effective demand networks (CEDN), with the market now in charge. Market, Organisation, Production and Commerce sit around the core; the diagonal runs rust to blue. Drawn on the golden rectangle, to match the architecture. See [[Business Equation]].
 
 ![[business-equation.svg|560]]
 
-File: `business-equation.svg`
+File: `business-equation.svg` (without the logo, for documents)
+
+Also: `business-equation-logo.svg` (with the logo) and `business-equation-original.svg` (the earlier blue picture, kept as a reference).
 
 ### PESC and CEDN
 
@@ -138,14 +141,46 @@ File: `framework-software-as-a-sandwich.svg`
 
 The mark itself, in six formats built to one set of rules. See [[Style Guide]] for the rules and when to use each, and [[About The Logo]] for the story.
 
+### Wide
+
+One line. Headers, mastheads, footers.
+
 ![[philpin-logo-wide.svg|560]]
 
 File: `philpin-logo-wide.svg`
 
-![[philpin-logo-square.svg|180]] ![[philpin-logo-circle.svg|180]] ![[philpin-logo-phi.svg|291]]
+### Square
 
-Files: `philpin-logo-square.svg`, `philpin-logo-circle.svg`, `philpin-logo-phi.svg`
+App icons, favicons, social profiles.
 
-![[philpin-logo-a-series.svg|255]] ![[philpin-logo-a-series-portrait.svg|127]]
+![[philpin-logo-square.svg|200]]
 
-Files: `philpin-logo-a-series.svg`, `philpin-logo-a-series-portrait.svg`
+File: `philpin-logo-square.svg`
+
+### Circle
+
+Avatars and round crops.
+
+![[philpin-logo-circle.svg|200]]
+
+File: `philpin-logo-circle.svg`
+
+### φ badge
+
+The golden rectangle, 1.618 : 1. Cards, slides, screens.
+
+![[philpin-logo-phi.svg|324]]
+
+File: `philpin-logo-phi.svg`
+
+### A-series
+
+The A paper shape, 1.414 : 1, landscape and portrait. Anything printed on A4 or A5.
+
+![[philpin-logo-a-series.svg|283]]
+
+File: `philpin-logo-a-series.svg`
+
+![[philpin-logo-a-series-portrait.svg|200]]
+
+File: `philpin-logo-a-series-portrait.svg`
