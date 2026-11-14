@@ -136,8 +136,16 @@ File: `framework-software-as-a-sandwich.svg`
 
 ### The PHI⑊PIN logotype
 
-The mark itself. See [[About The Logo]].
+The mark itself, in six formats built to one set of rules. See [[Style Guide]] for the rules and when to use each, and [[About The Logo]] for the story.
 
-![[philpin-logo.svg|560]]
+![[philpin-logo-wide.svg|560]]
 
-File: `philpin-logo.svg`
+File: `philpin-logo-wide.svg`
+
+![[philpin-logo-square.svg|180]] ![[philpin-logo-circle.svg|180]] ![[philpin-logo-phi.svg|291]]
+
+Files: `philpin-logo-square.svg`, `philpin-logo-circle.svg`, `philpin-logo-phi.svg`
+
+![[philpin-logo-a-series.svg|255]] ![[philpin-logo-a-series-portrait.svg|127]]
+
+Files: `philpin-logo-a-series.svg`, `philpin-logo-a-series-portrait.svg`
